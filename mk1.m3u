@@ -1,305 +1,339 @@
 #extm3u
-#EXTINF:-1 tvg-id="TVN24.pl" tvg-name="TVN 24 PL" tvg-logo="https://picon-13398.kxcdn.com/tvn24hd.jpg" group-title="Live: Poland",TVN 24
+#EXTINF:-1 tvg-id="TVN24.pl" tvg-name="TVN 24 PL" tvg-logo="https://picon-13398.kxcdn.com/tvn24hd.jpg" group-title="Info",TVN 24
 http://clientportal.link:80/9dDPwi420/6fURz1641/15180
-#EXTINF:-1 tvg-id="TVN24.pl" tvg-name="TVN 24 BiS HD PL" tvg-logo="https://picon-13398.kxcdn.com/tvn24bis.jpg" group-title="Live: Poland",TVN 24 BiS
+#EXTINF:-1 tvg-id="TVN24.pl" tvg-name="TVN 24 BiS HD PL" tvg-logo="https://picon-13398.kxcdn.com/tvn24bis.jpg" group-title="Info",TVN 24 BiS
 http://clientportal.link:80/9dDPwi420/6fURz1641/19152
-#EXTINF:-1 tvg-id="" tvg-name="BIZNES24 HD PL" tvg-logo="https://picon-13398.kxcdn.com/biznes24pl.jpg" group-title="Live: Poland",BIZNES24
+#EXTINF:-1 tvg-id="" tvg-name="BIZNES24 HD PL" tvg-logo="https://picon-13398.kxcdn.com/biznes24pl.jpg" group-title="Info",BIZNES24
 http://clientportal.link:80/9dDPwi420/6fURz1641/73733
-#EXTINF:-1 tvg-id="" tvg-name="Wydarzenia 24 FHD PL" tvg-logo="https://picon-13398.kxcdn.com/wydarzenia24pl.jpg" group-title="Live: Poland",Wydarzenia 24
+#EXTINF:-1 tvg-id="" tvg-name="Wydarzenia 24 FHD PL" tvg-logo="https://picon-13398.kxcdn.com/wydarzenia24pl.jpg" group-title="Info",Wydarzenia 24
 http://clientportal.link:80/9dDPwi420/6fURz1641/72668
-#EXTINF:-1 tvg-id="CanalPlusSport.pl" tvg-name="Canal+ Sport FHD PL" tvg-logo="https://picon-13398.kxcdn.com/canalplussport.jpg" group-title="Live: Poland",Canal+ Sport FHD PL
+#EXTINF:-1 tvg-id="CanalPlusSport.pl" tvg-name="Canal+ Sport FHD PL" tvg-logo="https://picon-13398.kxcdn.com/canalplussport.jpg" group-title="Sport",Canal+ Sport FHD PL
 http://clientportal.link:80/9dDPwi420/6fURz1641/13535
-#EXTINF:-1 tvg-id="" tvg-name="Canal+ Sport 2 FHD PL" tvg-logo="https://picon-13398.kxcdn.com/canalplussport2pl.jpg" group-title="Live: Poland",Canal+ Sport 2 
+#EXTINF:-1 tvg-id="" tvg-name="Canal+ Sport 2 FHD PL" tvg-logo="https://picon-13398.kxcdn.com/canalplussport2pl.jpg" group-title="Sport",Canal+ Sport 2 
 http://panel.tivix.eu:80/eagleiptv/SsFAljPDDi/73664
-#EXTINF:-1 tvg-id="" tvg-name="Canal+ Sport 3 FHD PL" tvg-logo="https://picon-13398.kxcdn.com/canalplussport3pl.jpg" group-title="Live: Poland",Canal+ Sport 3
+#EXTINF:-1 tvg-id="" tvg-name="Canal+ Sport 3 FHD PL" tvg-logo="https://picon-13398.kxcdn.com/canalplussport3pl.jpg" group-title="Sport",Canal+ Sport 3
 http://clientportal.link:80/9dDPwi420/6fURz1641/28019
-#EXTINF:-1 tvg-id="" tvg-name="Canal+ Sport 4 FHD PL" tvg-logo="https://picon-13398.kxcdn.com/canalplus4pl.jpg" group-title="Live: Poland",Canal+ Sport 4
+#EXTINF:-1 tvg-id="" tvg-name="Canal+ Sport 4 FHD PL" tvg-logo="https://picon-13398.kxcdn.com/canalplus4pl.jpg" group-title="Sport",Canal+ Sport 4
 http://clientportal.link:80/9dDPwi420/6fURz1641/28020
-#EXTINF:-1 tvg-id="" tvg-name=" Canal + Sport 5 FHD PL" tvg-logo="https://picon-13398.kxcdn.com/canalplussport5.jpg" group-title="Live: Poland",Canal + Sport 5
+#EXTINF:-1 tvg-id="" tvg-name=" Canal + Sport 5 FHD PL" tvg-logo="https://picon-13398.kxcdn.com/canalplussport5.jpg" group-title="Sport",Canal + Sport 5
 http://clientportal.link:80/9dDPwi420/6fURz1641/15209
-#EXTINF:-1 tvg-id="PolsatSportPremium1.pl" tvg-name="Polsat Sport Premium 1 FHD PL" tvg-logo="https://picon-13398.kxcdn.com/polsatsportpremium1pl.jpg" group-title="Live: Poland",Polsat Sport Premium 1
+#EXTINF:-1 tvg-id="PolsatSportPremium1.pl" tvg-name="Polsat Sport Premium 1 FHD PL" tvg-logo="https://picon-13398.kxcdn.com/polsatsportpremium1pl.jpg" group-title="Sport",Polsat Sport Premium 1
 http://clientportal.link:80/9dDPwi420/6fURz1641/23369
-#EXTINF:-1 tvg-id="PolsatSportPremium2.pl" tvg-name="Polsat Sport Premium 2 FHD PL" tvg-logo="https://picon-13398.kxcdn.com/polsatsportpremium2pl.jpg" group-title="Live: Poland",Polsat Sport Premium 2
+#EXTINF:-1 tvg-id="PolsatSportPremium2.pl" tvg-name="Polsat Sport Premium 2 FHD PL" tvg-logo="https://picon-13398.kxcdn.com/polsatsportpremium2pl.jpg" group-title="Sport",Polsat Sport Premium 2
 http://clientportal.link:80/9dDPwi420/6fURz1641/23370
-#EXTINF:-1 tvg-id="PolsatSportPremium3.pl" tvg-name="Polsat Sport Premium 3 PPV FHD PL" tvg-logo="https://picon-13398.kxcdn.com/polsatsportpremium3pl.jpg" group-title="Live: Poland",Polsat Sport Premium 3
+#EXTINF:-1 tvg-id="PolsatSportPremium3.pl" tvg-name="Polsat Sport Premium 3 PPV FHD PL" tvg-logo="https://picon-13398.kxcdn.com/polsatsportpremium3pl.jpg" group-title="Sport",Polsat Sport Premium 3
 http://clientportal.link:80/9dDPwi420/6fURz1641/23420
-#EXTINF:-1 tvg-id="PolsatSportPremium4.pl" tvg-name="Polsat Sport Premium 4 PPV FHD PL" tvg-logo="https://picon-13398.kxcdn.com/polsatsportpremium4pl.jpg" group-title="Live: Poland",Polsat Sport Premium 4
+#EXTINF:-1 tvg-id="PolsatSportPremium4.pl" tvg-name="Polsat Sport Premium 4 PPV FHD PL" tvg-logo="https://picon-13398.kxcdn.com/polsatsportpremium4pl.jpg" group-title="Sport",Polsat Sport Premium 4
 http://clientportal.link:80/9dDPwi420/6fURz1641/23421
-#EXTINF:-1 tvg-id="PolsatSportPremium5.pl" tvg-name="Polsat Sport Premium 5 PPV FHD PL" tvg-logo="https://picon-13398.kxcdn.com/polsatsportpremium5pl.jpg" group-title="Live: Poland",Polsat Sport Premium 5
+#EXTINF:-1 tvg-id="PolsatSportPremium5.pl" tvg-name="Polsat Sport Premium 5 PPV FHD PL" tvg-logo="https://picon-13398.kxcdn.com/polsatsportpremium5pl.jpg" group-title="Sport",Polsat Sport Premium 5
 http://clientportal.link:80/9dDPwi420/6fURz1641/23422
-#EXTINF:-1 tvg-id="PolsatSportPremium6.pl" tvg-name="Polsat Sport Premium 6 PPV FHD PL" tvg-logo="https://picon-13398.kxcdn.com/polsatsportpremium6pl.jpg" group-title="Live: Poland",Polsat Sport Premium 6
+#EXTINF:-1 tvg-id="PolsatSportPremium6.pl" tvg-name="Polsat Sport Premium 6 PPV FHD PL" tvg-logo="https://picon-13398.kxcdn.com/polsatsportpremium6pl.jpg" group-title="Sport",Polsat Sport Premium 6
 http://clientportal.link:80/9dDPwi420/6fURz1641/23423
-#EXTINF:-1 tvg-id="PolsatSport.pl" tvg-name="Polsat Sport HD PL" tvg-logo="https://picon-13398.kxcdn.com/polsatsporthd.jpg" group-title="Live: Poland",Polsat Sport HD PL
+#EXTINF:-1 tvg-id="PolsatSport.pl" tvg-name="Polsat Sport HD PL" tvg-logo="https://picon-13398.kxcdn.com/polsatsporthd.jpg" group-title="Sport",Polsat Sport HD PL
 http://clientportal.link:80/9dDPwi420/6fURz1641/11200
-#EXTINF:-1 tvg-id="PolsatSportExtra.pl" tvg-name="Polsat Sport Extra HD PL" tvg-logo="https://picon-13398.kxcdn.com/polsatsportextrahd.jpg" group-title="Live: Poland",Polsat Sport Extra HD PL
+#EXTINF:-1 tvg-id="PolsatSportExtra.pl" tvg-name="Polsat Sport Extra HD PL" tvg-logo="https://picon-13398.kxcdn.com/polsatsportextrahd.jpg" group-title="Sport",Polsat Sport Extra HD PL
 http://clientportal.link:80/9dDPwi420/6fURz1641/11201
-#EXTINF:-1 tvg-id="PolsatSportNews.pl" tvg-name="Polsat Sport News FHD PL" tvg-logo="https://picon-13398.kxcdn.com/polsatsportnewspl.jpg" group-title="Live: Poland",Polsat Sport News
+#EXTINF:-1 tvg-id="PolsatSportNews.pl" tvg-name="Polsat Sport News FHD PL" tvg-logo="https://picon-13398.kxcdn.com/polsatsportnewspl.jpg" group-title="Sport",Polsat Sport News
 http://clientportal.link:80/9dDPwi420/6fURz1641/22762
-#EXTINF:-1 tvg-id="PolsatSportFight.pl" tvg-name="Polsat Sport Fight FHD PL" tvg-logo="https://picon-13398.kxcdn.com/polsatsportfighthd.jpg" group-title="Live: Poland",Polsat Sport Fight
+#EXTINF:-1 tvg-id="PolsatSportFight.pl" tvg-name="Polsat Sport Fight FHD PL" tvg-logo="https://picon-13398.kxcdn.com/polsatsportfighthd.jpg" group-title="Sport",Polsat Sport Fight
 http://clientportal.link:80/9dDPwi420/6fURz1641/15188
-#EXTINF:-1 tvg-id="SuperPolsat.pl" tvg-name="Super Polsat HD PL" tvg-logo="https://picon-13398.kxcdn.com/superpolsatpl.jpg" group-title="Live: Poland",Super Polsat HD PL
-http://clientportal.link:80/9dDPwi420/6fURz1641/11199
-#EXTINF:-1 tvg-id="ElevenSport1.pl" tvg-name="Eleven Sports 1 FHD PL" tvg-logo="https://picon-13398.kxcdn.com/elvensports1pl.jpg" group-title="Live: Poland",Eleven Sports 1
+#EXTINF:-1 tvg-id="ElevenSport1.pl" tvg-name="Eleven Sports 1 FHD PL" tvg-logo="https://picon-13398.kxcdn.com/elvensports1pl.jpg" group-title="Sport",Eleven Sports 1
 http://clientportal.link:80/9dDPwi420/6fURz1641/15198
-#EXTINF:-1 tvg-id="ElevenSport2.pl" tvg-name="Eleven Sports 2 FHD PL" tvg-logo="https://picon-13398.kxcdn.com/elvensports2pl.jpg" group-title="Live: Poland",Eleven Sports 2
+#EXTINF:-1 tvg-id="ElevenSport2.pl" tvg-name="Eleven Sports 2 FHD PL" tvg-logo="https://picon-13398.kxcdn.com/elvensports2pl.jpg" group-title="Sport",Eleven Sports 2
 http://clientportal.link:80/9dDPwi420/6fURz1641/15197
-#EXTINF:-1 tvg-id="ElevenSport3.pl" tvg-name="Eleven Sports 3 FHD PL" tvg-logo="https://picon-13398.kxcdn.com/elvensports3pl.jpg" group-title="Live: Poland",Eleven Sports 3
+#EXTINF:-1 tvg-id="ElevenSport3.pl" tvg-name="Eleven Sports 3 FHD PL" tvg-logo="https://picon-13398.kxcdn.com/elvensports3pl.jpg" group-title="Sport",Eleven Sports 3
 http://clientportal.link:80/9dDPwi420/6fURz1641/15097
-#EXTINF:-1 tvg-id="ElevenSport4.pl" tvg-name="Eleven Sports 4 FHD PL" tvg-logo="https://picon-13398.kxcdn.com/elvensports4pl.jpg" group-title="Live: Poland",Eleven Sports 4
+#EXTINF:-1 tvg-id="ElevenSport4.pl" tvg-name="Eleven Sports 4 FHD PL" tvg-logo="https://picon-13398.kxcdn.com/elvensports4pl.jpg" group-title="Sport",Eleven Sports 4
 http://clientportal.link:80/9dDPwi420/6fURz1641/19149
-#EXTINF:-1 tvg-id="Eurosport.pl" tvg-name="Eurosport 1 FHD PL" tvg-logo="https://picon-13398.kxcdn.com/eurosport1hd.jpg" group-title="Live: Poland",Eurosport 1 FHD PL
+#EXTINF:-1 tvg-id="Eurosport.pl" tvg-name="Eurosport 1 FHD PL" tvg-logo="https://picon-13398.kxcdn.com/eurosport1hd.jpg" group-title="Sport",Eurosport 1 FHD PL
 http://clientportal.link:80/9dDPwi420/6fURz1641/15096
-#EXTINF:-1 tvg-id="Eurosport2.pl" tvg-name="Eurosport 2 FHD PL" tvg-logo="https://picon-13398.kxcdn.com/eurosport2hd.jpg" group-title="Live: Poland",Eurosport 2 FHD PL
+#EXTINF:-1 tvg-id="Eurosport2.pl" tvg-name="Eurosport 2 FHD PL" tvg-logo="https://picon-13398.kxcdn.com/eurosport2hd.jpg" group-title="Sport",Eurosport 2 FHD PL
 http://clientportal.link:80/9dDPwi420/6fURz1641/15195
-#EXTINF:-1 tvg-id="PolsatNews.pl" tvg-name="Polsat News HD PL" tvg-logo="https://picon-13398.kxcdn.com/polsatnewshd.jpg" group-title="Live: Poland",Polsat News HD PL
+#EXTINF:-1 tvg-id="PolsatNews.pl" tvg-name="Polsat News HD PL" tvg-logo="https://picon-13398.kxcdn.com/polsatnewshd.jpg" group-title="Info",Polsat News HD PL
 http://clientportal.link:80/9dDPwi420/6fURz1641/15085
-#EXTINF:-1 tvg-id="PolsatNews2.pl" tvg-name="Polsat News 2 PL" tvg-logo="https://picon-13398.kxcdn.com/polsatnews2.jpg" group-title="Live: Poland",Polsat News 2 PL
+#EXTINF:-1 tvg-id="PolsatNews2.pl" tvg-name="Polsat News 2 PL" tvg-logo="https://picon-13398.kxcdn.com/polsatnews2.jpg" group-title="Info",Polsat News 2 PL
 http://clientportal.link:80/9dDPwi420/6fURz1641/11181
-#EXTINF:-1 tvg-id="TVNTurbo.pl" tvg-name="TVN Turbo FHD PL" tvg-logo="https://picon-13398.kxcdn.com/tvnturbohd.jpg" group-title="Live: Poland",TVN Turbo FHD PL
+#EXTINF:-1 tvg-id="TVNTurbo.pl" tvg-name="TVN Turbo FHD PL" tvg-logo="https://picon-13398.kxcdn.com/tvnturbohd.jpg" group-title="Inne",TVN Turbo FHD PL
 http://clientportal.link:80/9dDPwi420/6fURz1641/15175
-#EXTINF:-1 tvg-id="TVNTurbo.pl" tvg-name="TVN Turbo PL" tvg-logo="https://picon-13398.kxcdn.com/tvnturbo.jpg" group-title="Live: Poland",TVN Turbo PL
+#EXTINF:-1 tvg-id="TVNTurbo.pl" tvg-name="TVN Turbo PL" tvg-logo="https://picon-13398.kxcdn.com/tvnturbo.jpg" group-title="Inne",TVN Turbo PL
 http://clientportal.link:80/9dDPwi420/6fURz1641/19085
-#EXTINF:-1 tvg-id="CanalPlus1.pl" tvg-name="Canal+ 1 FHD PL" tvg-logo="https://picon-13398.kxcdn.com/canalplus1hd.jpg" group-title="Live: Poland",Canal+ 1 FHD PL
+#EXTINF:-1 tvg-id="CanalPlus1.pl" tvg-name="Canal+ 1 FHD PL" tvg-logo="https://picon-13398.kxcdn.com/canalplus1hd.jpg" group-title="Film",Canal+ 1 FHD PL
 http://clientportal.link:80/9dDPwi420/6fURz1641/15204
-#EXTINF:-1 tvg-id="" tvg-name="Canal+ Dokument FHD PL" tvg-logo="https://picon-13398.kxcdn.com/canalplusdocumentpl.jpg" group-title="Live: Poland",Canal+ Dokument FHD PL
-http://clientportal.link:80/9dDPwi420/6fURz1641/15217
-#EXTINF:-1 tvg-id="CanalPlusFamily.pl" tvg-name="Canal+ Family FHD PL" tvg-logo="https://picon-13398.kxcdn.com/canalplusfamily.jpg" group-title="Live: Poland",Canal+ Family FHD PL
+#EXTINF:-1 tvg-id="CanalPlusFamily.pl" tvg-name="Canal+ Family FHD PL" tvg-logo="https://picon-13398.kxcdn.com/canalplusfamily.jpg" group-title="Film",Canal+ Family FHD PL
 http://clientportal.link:80/9dDPwi420/6fURz1641/15216
-#EXTINF:-1 tvg-id="CanalPlusFilm.pl" tvg-name="Canal+ Film FHD PL" tvg-logo="https://picon-13398.kxcdn.com/canalplusfilmhd.jpg" group-title="Live: Poland",Canal+ Film FHD PL
+#EXTINF:-1 tvg-id="CanalPlusFilm.pl" tvg-name="Canal+ Film FHD PL" tvg-logo="https://picon-13398.kxcdn.com/canalplusfilmhd.jpg" group-title="Film",Canal+ Film FHD PL
 http://clientportal.link:80/9dDPwi420/6fURz1641/15215
-#EXTINF:-1 tvg-id="CanalPlusSeriale.pl" tvg-name="Canal+ Seriale FHD PL" tvg-logo="https://picon-13398.kxcdn.com/canalplusserialehd.jpg" group-title="Live: Poland",Canal+ Seriale FHD PL
+#EXTINF:-1 tvg-id="CanalPlusSeriale.pl" tvg-name="Canal+ Seriale FHD PL" tvg-logo="https://picon-13398.kxcdn.com/canalplusserialehd.jpg" group-title="Film",Canal+ Seriale FHD PL
 http://clientportal.link:80/9dDPwi420/6fURz1641/15214
-#EXTINF:-1 tvg-id="" tvg-name="Canal+ Now FHD PL" tvg-logo="https://picon-13398.kxcdn.com/canalplusnowpl.jpg" group-title="Live: Poland",Canal+ Now FHD PL
+#EXTINF:-1 tvg-id="" tvg-name="Canal+ Now FHD PL" tvg-logo="https://picon-13398.kxcdn.com/canalplusnowpl.jpg" group-title="Film",Canal+ Now FHD PL
 http://clientportal.link:80/oXfm4ck3Iz4737/cP3K1e7481/29051
-#EXTINF:-1 tvg-id="HBO.pl" tvg-name="HBO FHD PL" tvg-logo="https://picon-13398.kxcdn.com/hbo1hd.jpg" group-title="Live: Poland",HBO FHD PL
+#EXTINF:-1 tvg-id="HBO.pl" tvg-name="HBO FHD PL" tvg-logo="https://picon-13398.kxcdn.com/hbo1hd.jpg" group-title="Film",HBO FHD PL
 http://clientportal.link:80/9dDPwi420/6fURz1641/13526
 #EXTINF:-1 tvg-id="" tvg-name="HBO HD" tvg-logo="http://iptvtelekom.com/newpicon/poland_logo/hbologo2.png" group-title="PL: Polen",HBO HD
 http://destiny4k.com:2086/live/cobra/eD40qZ2uro/71360.ts
-#EXTINF:-1 tvg-id="HBO2.pl" tvg-name="HBO 2 HD PL" tvg-logo="https://picon-13398.kxcdn.com/hbo2hd.jpg" group-title="Live: Poland",HBO 2 HD PL
+#EXTINF:-1 tvg-id="HBO2.pl" tvg-name="HBO 2 HD PL" tvg-logo="https://picon-13398.kxcdn.com/hbo2hd.jpg" group-title="Film",HBO 2 HD PL
 http://clientportal.link:80/9dDPwi420/6fURz1641/13527
-#EXTINF:-1 tvg-id="HBO3.pl" tvg-name="HBO 3 HD PL" tvg-logo="https://picon-13398.kxcdn.com/hbo3hd.jpg" group-title="Live: Poland",HBO 3 HD PL
+#EXTINF:-1 tvg-id="HBO3.pl" tvg-name="HBO 3 HD PL" tvg-logo="https://picon-13398.kxcdn.com/hbo3hd.jpg" group-title="Film",HBO 3 HD PL
 http://clientportal.link:80/9dDPwi420/6fURz1641/15092
-#EXTINF:-1 tvg-id="Cinemax.pl" tvg-name="Cinemax HD PL" tvg-logo="https://picon-13398.kxcdn.com/cinemaxhd.jpg" group-title="Live: Poland",Cinemax HD PL
+#EXTINF:-1 tvg-id="Cinemax.pl" tvg-name="Cinemax HD PL" tvg-logo="https://picon-13398.kxcdn.com/cinemaxhd.jpg" group-title="Film",Cinemax HD PL
 http://clientportal.link:80/9dDPwi420/6fURz1641/15710
-#EXTINF:-1 tvg-id="Cinemax2.pl" tvg-name="Cinemax 2 HD PL" tvg-logo="https://picon-13398.kxcdn.com/cinemax2hd.jpg" group-title="Live: Poland",Cinemax 2 HD PL
+#EXTINF:-1 tvg-id="Cinemax2.pl" tvg-name="Cinemax 2 HD PL" tvg-logo="https://picon-13398.kxcdn.com/cinemax2hd.jpg" group-title="Film",Cinemax 2 HD PL
 http://clientportal.link:80/9dDPwi420/6fURz1641/15099
-#EXTINF:-1 tvg-id="PolsatDoku.pl" tvg-name="Polsat Doku HD PL" tvg-logo="https://picon-13398.kxcdn.com/polsatdokupl.jpg" group-title="Live: Poland",Polsat Doku HD PL
+#EXTINF:-1 tvg-id="" tvg-name="Canal+ Dokument FHD PL" tvg-logo="https://picon-13398.kxcdn.com/canalplusdocumentpl.jpg" group-title="Doku",Canal+ Dokument FHD PL
+http://clientportal.link:80/9dDPwi420/6fURz1641/15217
+#EXTINF:-1 tvg-id="PolsatDoku.pl" tvg-name="Polsat Doku HD PL" tvg-logo="https://picon-13398.kxcdn.com/polsatdokupl.jpg" group-title="Doku",Polsat Doku HD PL
 http://clientportal.link:80/9dDPwi420/6fURz1641/20123
-#EXTINF:-1 tvg-id="Discovery.pl" tvg-name="Discovery Channel FHD PL" tvg-logo="https://picon-13398.kxcdn.com/discoverychannel.jpg" group-title="Live: Poland",Discovery Channel FHD PL
+#EXTINF:-1 tvg-id="Discovery.pl" tvg-name="Discovery Channel FHD PL" tvg-logo="https://picon-13398.kxcdn.com/discoverychannel.jpg" group-title="Doku",Discovery Channel FHD PL
 http://clientportal.link:80/9dDPwi420/6fURz1641/15213
-#EXTINF:-1 tvg-id="DiscoveryHistoria.pl" tvg-name="Discovery Historia PL" tvg-logo="https://picon-13398.kxcdn.com/discoveryhistoria.jpg" group-title="Live: Poland",Discovery Historia PL
+#EXTINF:-1 tvg-id="DiscoveryHistoria.pl" tvg-name="Discovery Historia PL" tvg-logo="https://picon-13398.kxcdn.com/discoveryhistoria.jpg" group-title="Doku",Discovery Historia PL
 http://clientportal.link:80/9dDPwi420/6fURz1641/15098
-#EXTINF:-1 tvg-id="DiscoveryLife.pl" tvg-name="Discovery Life FHD PL" tvg-logo="https://picon-13398.kxcdn.com/discoverylife.jpg" group-title="Live: Poland",Discovery Life FHD PL
+#EXTINF:-1 tvg-id="DiscoveryLife.pl" tvg-name="Discovery Life FHD PL" tvg-logo="https://picon-13398.kxcdn.com/discoverylife.jpg" group-title="Doku",Discovery Life FHD PL
 http://clientportal.link:80/9dDPwi420/6fURz1641/11520
-#EXTINF:-1 tvg-id="DiscoveryScience.pl" tvg-name="Discovery Science FHD PL" tvg-logo="https://picon-13398.kxcdn.com/discoveryscience.jpg" group-title="Live: Poland",Discovery Science FHD PL
+#EXTINF:-1 tvg-id="DiscoveryScience.pl" tvg-name="Discovery Science FHD PL" tvg-logo="https://picon-13398.kxcdn.com/discoveryscience.jpg" group-title="Doku",Discovery Science FHD PL
 http://clientportal.link:80/9dDPwi420/6fURz1641/15201
-#EXTINF:-1 tvg-id="DiscoveryTurboXtra.pl" tvg-name="Discovery Turbo Xtra FHD PL" tvg-logo="https://picon-13398.kxcdn.com/discoveryturboxtrahd.jpg" group-title="Live: Poland",Discovery Turbo Xtra FHD PL
+#EXTINF:-1 tvg-id="DiscoveryTurboXtra.pl" tvg-name="Discovery Turbo Xtra FHD PL" tvg-logo="https://picon-13398.kxcdn.com/discoveryturboxtrahd.jpg" group-title="Doku",Discovery Turbo Xtra FHD PL
 http://clientportal.link:80/9dDPwi420/6fURz1641/15212
-#EXTINF:-1 tvg-id="Metro.pl" tvg-name="Metro PL" tvg-logo="https://picon-13398.kxcdn.com/metrotv.jpg" group-title="Live: Poland",Metro PL
+#EXTINF:-1 tvg-id="Metro.pl" tvg-name="Metro PL" tvg-logo="https://picon-13398.kxcdn.com/metrotv.jpg" group-title="Inne",Metro PL
 http://clientportal.link:80/9dDPwi420/6fURz1641/11195
-#EXTINF:-1 tvg-id="DisneyChannel.pl" tvg-name="Disney Channel FHD PL" tvg-logo="https://picon-13398.kxcdn.com/disneychannelhd.jpg" group-title="Live: Poland",Disney Channel FHD PL
+#EXTINF:-1 tvg-id="DisneyChannel.pl" tvg-name="Disney Channel FHD PL" tvg-logo="https://picon-13398.kxcdn.com/disneychannelhd.jpg" group-title="Inne",Disney Channel FHD PL
 http://clientportal.link:80/9dDPwi420/6fURz1641/11523
-#EXTINF:-1 tvg-id="FilmBoxAction.pl" tvg-name="FilmBox Action PL" tvg-logo="https://picon-13398.kxcdn.com/filmboxaction.jpg" group-title="Live: Poland",FilmBox Action PL
+#EXTINF:-1 tvg-id="FilmBoxAction.pl" tvg-name="FilmBox Action PL" tvg-logo="https://picon-13398.kxcdn.com/filmboxaction.jpg" group-title="Film",FilmBox Action PL
 http://clientportal.link:80/9dDPwi420/6fURz1641/11508
-#EXTINF:-1 tvg-id="FilmboxFamily.pl" tvg-name="FilmBox Family PL" tvg-logo="https://picon-13398.kxcdn.com/filmboxfamily.jpg" group-title="Live: Poland",FilmBox Family PL
+#EXTINF:-1 tvg-id="FilmboxFamily.pl" tvg-name="FilmBox Family PL" tvg-logo="https://picon-13398.kxcdn.com/filmboxfamily.jpg" group-title="Film",FilmBox Family PL
 http://clientportal.link:80/9dDPwi420/6fURz1641/11509
-#EXTINF:-1 tvg-id="KinoPolska.pl" tvg-name="Kino TV HD PL" tvg-logo="https://picon-13398.kxcdn.com/kinotvpl.jpg" group-title="Live: Poland",Kino TV HD PL
+#EXTINF:-1 tvg-id="KinoPolska.pl" tvg-name="Kino TV HD PL" tvg-logo="https://picon-13398.kxcdn.com/kinotvpl.jpg" group-title="Film",Kino TV HD PL
 http://clientportal.link:80/9dDPwi420/6fURz1641/11507
-#EXTINF:-1 tvg-id="FilmboxPremium.pl" tvg-name="FilmBox Premium HD PL" tvg-logo="https://picon-13398.kxcdn.com/filmboxpremium.jpg" group-title="Live: Poland",FilmBox Premium HD PL
+#EXTINF:-1 tvg-id="FilmboxPremium.pl" tvg-name="FilmBox Premium HD PL" tvg-logo="https://picon-13398.kxcdn.com/filmboxpremium.jpg" group-title="Film",FilmBox Premium HD PL
 http://clientportal.link:80/9dDPwi420/6fURz1641/11510
-#EXTINF:-1 tvg-id="FokusTV.pl" tvg-name="Fokus TV PL" tvg-logo="https://picon-13398.kxcdn.com/fokustv.jpg" group-title="Live: Poland",Fokus TV PL
+#EXTINF:-1 tvg-id="FokusTV.pl" tvg-name="Fokus TV PL" tvg-logo="https://picon-13398.kxcdn.com/fokustv.jpg" group-title="Inne",Fokus TV PL
 http://clientportal.link:80/9dDPwi420/6fURz1641/12821
-#EXTINF:-1 tvg-id="FoxComedy.pl" tvg-name="FOX Comedy Polska HD PL" tvg-logo="https://picon-13398.kxcdn.com/foxcomedyhd.jpg" group-title="Live: Poland",FOX Comedy Polska HD PL
+#EXTINF:-1 tvg-id="FoxComedy.pl" tvg-name="FOX Comedy Polska HD PL" tvg-logo="https://picon-13398.kxcdn.com/foxcomedyhd.jpg" group-title="Film",FOX Comedy Polska HD PL
 http://clientportal.link:80/9dDPwi420/6fURz1641/11698
-#EXTINF:-1 tvg-id="FOX.pl" tvg-name="FOX Polska HD PL" tvg-logo="https://picon-13398.kxcdn.com/foxhd.jpg" group-title="Live: Poland",FOX Polska HD PL
+#EXTINF:-1 tvg-id="FOX.pl" tvg-name="FOX Polska HD PL" tvg-logo="https://picon-13398.kxcdn.com/foxhd.jpg" group-title="Film",FOX Polska HD PL
 http://clientportal.link:80/9dDPwi420/6fURz1641/11697
-#EXTINF:-1 tvg-id="History2.pl" tvg-name="H2 Polska HD PL" tvg-logo="https://picon-13398.kxcdn.com/h2hd.jpg" group-title="Live: Poland",H2 Polska HD PL
+#EXTINF:-1 tvg-id="History2.pl" tvg-name="H2 Polska HD PL" tvg-logo="https://picon-13398.kxcdn.com/h2hd.jpg" group-title="Doku",H2 Polska HD PL
 http://clientportal.link:80/9dDPwi420/6fURz1641/15093
-#EXTINF:-1 tvg-id="KinoPolska.pl" tvg-name="Kino Polska FHD PL" tvg-logo="https://picon-13398.kxcdn.com/kinopolska.jpg" group-title="Live: Poland",Kino Polska FHD PL
+#EXTINF:-1 tvg-id="KinoPolska.pl" tvg-name="Kino Polska FHD PL" tvg-logo="https://picon-13398.kxcdn.com/kinopolska.jpg" group-title="Film",Kino Polska FHD PL
 http://clientportal.link:80/9dDPwi420/6fURz1641/11192
-#EXTINF:-1 tvg-id="History.pl" tvg-name="History HD PL" tvg-logo="https://picon-13398.kxcdn.com/historyhd.jpg" group-title="Live: Poland",History HD PL
+#EXTINF:-1 tvg-id="History.pl" tvg-name="History HD PL" tvg-logo="https://picon-13398.kxcdn.com/historyhd.jpg" group-title="Doku",History HD PL
 http://clientportal.link:80/9dDPwi420/6fURz1641/15091
-#EXTINF:-1 tvg-id="InvestigationDiscovery.pl" tvg-name="Investigation Discovery FHD PL" tvg-logo="https://picon-13398.kxcdn.com/investigationdiscoveryhd.jpg" group-title="Live: Poland",Investigation Discovery FHD PL
+#EXTINF:-1 tvg-id="InvestigationDiscovery.pl" tvg-name="Investigation Discovery FHD PL" tvg-logo="https://picon-13398.kxcdn.com/investigationdiscoveryhd.jpg" group-title="Doku",Investigation Discovery FHD PL
 http://clientportal.link:80/9dDPwi420/6fURz1641/15211
-#EXTINF:-1 tvg-id="NatGeo.pl" tvg-name="National Geographic FHD PL" tvg-logo="https://picon-13398.kxcdn.com/nationalgeographichd.jpg" group-title="Live: Poland",National Geographic FHD PL
+#EXTINF:-1 tvg-id="NatGeo.pl" tvg-name="National Geographic FHD PL" tvg-logo="https://picon-13398.kxcdn.com/nationalgeographichd.jpg" group-title="Doku",National Geographic FHD PL
 http://clientportal.link:80/9dDPwi420/6fURz1641/15087
-#EXTINF:-1 tvg-id="NatGeo.pl" tvg-name="National Geographic Polska PL" tvg-logo="https://picon-13398.kxcdn.com/natgeo.jpg" group-title="Live: Poland",National Geographic Polska PL
+#EXTINF:-1 tvg-id="NatGeo.pl" tvg-name="National Geographic Polska PL" tvg-logo="https://picon-13398.kxcdn.com/natgeo.jpg" group-title="Doku",National Geographic Polska PL
 http://clientportal.link:80/9dDPwi420/6fURz1641/11515
-#EXTINF:-1 tvg-id="NatGeoPeople.pl" tvg-name="National Geographic People HD PL" tvg-logo="https://picon-13398.kxcdn.com/natgeopeoplehd.jpg" group-title="Live: Poland",National Geographic People HD PL
+#EXTINF:-1 tvg-id="NatGeoPeople.pl" tvg-name="National Geographic People HD PL" tvg-logo="https://picon-13398.kxcdn.com/natgeopeoplehd.jpg" group-title="Doku",National Geographic People HD PL
 http://clientportal.link:80/9dDPwi420/6fURz1641/15191
-#EXTINF:-1 tvg-id="NatGeoWild.pl" tvg-name="National Geographic Wild HD PL" tvg-logo="https://picon-13398.kxcdn.com/natgeowildhd.jpg" group-title="Live: Poland",National Geographic Wild HD PL
+#EXTINF:-1 tvg-id="NatGeoWild.pl" tvg-name="National Geographic Wild HD PL" tvg-logo="https://picon-13398.kxcdn.com/natgeowildhd.jpg" group-title="Doku",National Geographic Wild HD PL
 http://clientportal.link:80/9dDPwi420/6fURz1641/15711
-#EXTINF:-1 tvg-id="NatGeoWild.pl" tvg-name="National Geographic Wild PL" tvg-logo="https://picon-13398.kxcdn.com/natgeowild.jpg" group-title="Live: Poland",National Geographic Wild PL
+#EXTINF:-1 tvg-id="NatGeoWild.pl" tvg-name="National Geographic Wild PL" tvg-logo="https://picon-13398.kxcdn.com/natgeowild.jpg" group-title="Doku",National Geographic Wild PL
 http://clientportal.link:80/9dDPwi420/6fURz1641/11516
-#EXTINF:-1 tvg-id="" tvg-name="Planete + Polska HD PL" tvg-logo="https://picon-13398.kxcdn.com/planeteplushd.jpg" group-title="Live: Poland",Planete + Polska HD PL
+#EXTINF:-1 tvg-id="" tvg-name="Planete + Polska HD PL" tvg-logo="https://picon-13398.kxcdn.com/planeteplushd.jpg" group-title="Doku",Planete + Polska HD PL
 http://clientportal.link:80/9dDPwi420/6fURz1641/15208
-#EXTINF:-1 tvg-id="HGTV.pl" tvg-name="HGTV HD PL" tvg-logo="https://picon-13398.kxcdn.com/hgtv.jpg" group-title="Live: Poland",HGTV HD PL
+#EXTINF:-1 tvg-id="HGTV.pl" tvg-name="HGTV HD PL" tvg-logo="https://picon-13398.kxcdn.com/hgtv.jpg" group-title="Inne",HGTV HD PL
 http://clientportal.link:80/9dDPwi420/6fURz1641/11188
-#EXTINF:-1 tvg-id="EskaTV.pl" tvg-name="Eska TV PL" tvg-logo="https://picon-13398.kxcdn.com/eskatv.jpg" group-title="Live: Poland",Eska TV PL
+#EXTINF:-1 tvg-id="EskaTV.pl" tvg-name="Eska TV PL" tvg-logo="https://picon-13398.kxcdn.com/eskatv.jpg" group-title="Music",Eska TV PL
 http://clientportal.link:80/9dDPwi420/6fURz1641/11197
-#EXTINF:-1 tvg-id="" tvg-name="Eska TV Extra PL" tvg-logo="https://picon-13398.kxcdn.com/eskatvextrapl.jpg" group-title="Live: Poland",Eska TV Extra PL
+#EXTINF:-1 tvg-id="" tvg-name="Eska TV Extra PL" tvg-logo="https://picon-13398.kxcdn.com/eskatvextrapl.jpg" group-title="Music",Eska TV Extra PL
 http://clientportal.link:80/9dDPwi420/6fURz1641/11182
-#EXTINF:-1 tvg-id="KinoPolskaMuzyka.pl" tvg-name="Kino Polska Muzyka PL" tvg-logo="https://picon-13398.kxcdn.com/kinopolskamuzyka.jpg" group-title="Live: Poland",Kino Polska Muzyka PL
+#EXTINF:-1 tvg-id="KinoPolskaMuzyka.pl" tvg-name="Kino Polska Muzyka PL" tvg-logo="https://picon-13398.kxcdn.com/kinopolskamuzyka.jpg" group-title="Music",Kino Polska Muzyka PL
 http://clientportal.link:80/9dDPwi420/6fURz1641/15090
-#EXTINF:-1 tvg-id="" tvg-name="MTV 90s PL" tvg-logo="https://picon-13398.kxcdn.com/mtv90sus.jpg" group-title="Live: Poland",MTV 90s PL
+#EXTINF:-1 tvg-id="" tvg-name="MTV 90s PL" tvg-logo="https://picon-13398.kxcdn.com/mtv90sus.jpg" group-title="Music",MTV 90s PL
 http://clientportal.link:80/9dDPwi420/6fURz1641/11703
-#EXTINF:-1 tvg-id="MTVPolska.pl" tvg-name="MTV Polska FHD PL" tvg-logo="https://picon-13398.kxcdn.com/mtvpolska.jpg" group-title="Live: Poland",MTV Polska FHD PL
+#EXTINF:-1 tvg-id="MTVPolska.pl" tvg-name="MTV Polska FHD PL" tvg-logo="https://picon-13398.kxcdn.com/mtvpolska.jpg" group-title="Music",MTV Polska FHD PL
 http://clientportal.link:80/9dDPwi420/6fURz1641/11702
-#EXTINF:-1 tvg-id="MTVLive.pl" tvg-name="MTV Live HD PL" tvg-logo="https://picon-13398.kxcdn.com/mtvlivehd.jpg" group-title="Live: Poland",MTV Live HD PL
+#EXTINF:-1 tvg-id="MTVLive.pl" tvg-name="MTV Live HD PL" tvg-logo="https://picon-13398.kxcdn.com/mtvlivehd.jpg" group-title="Music",MTV Live HD PL
 http://clientportal.link:80/9dDPwi420/6fURz1641/20424
-#EXTINF:-1 tvg-id="PowerTV.pl" tvg-name="Power TV PL" tvg-logo="https://picon-13398.kxcdn.com/powertv.jpg" group-title="Live: Poland",Power TV PL
+#EXTINF:-1 tvg-id="PowerTV.pl" tvg-name="Power TV PL" tvg-logo="https://picon-13398.kxcdn.com/powertv.jpg" group-title="Music",Power TV PL
 http://clientportal.link:80/9dDPwi420/6fURz1641/15187
-#EXTINF:-1 tvg-id="StarsTV.pl" tvg-name="Stars TV PL" tvg-logo="https://picon-13398.kxcdn.com/starstv.jpg" group-title="Live: Poland",Stars TV PL
+#EXTINF:-1 tvg-id="StarsTV.pl" tvg-name="Stars TV PL" tvg-logo="https://picon-13398.kxcdn.com/starstv.jpg" group-title="Music",Stars TV PL
 http://clientportal.link:80/9dDPwi420/6fURz1641/15082
-#EXTINF:-1 tvg-id="4FunFitDance.pl" tvg-name="4 Fun Dance PL" tvg-logo="https://picon-13398.kxcdn.com/4funfitanddance.jpg" group-title="Live: Poland",4 Fun Dance PL
+#EXTINF:-1 tvg-id="4FunFitDance.pl" tvg-name="4 Fun Dance PL" tvg-logo="https://picon-13398.kxcdn.com/4funfitanddance.jpg" group-title="Music",4 Fun Dance PL
 http://clientportal.link:80/9dDPwi420/6fURz1641/16291
-#EXTINF:-1 tvg-id="4FunHits.pl" tvg-name="4 Fun Kids PL" tvg-logo="https://picon-13398.kxcdn.com/4funkidspl.jpg" group-title="Live: Poland",4 Fun Kids PL
+#EXTINF:-1 tvg-id="4FunHits.pl" tvg-name="4 Fun Kids PL" tvg-logo="https://picon-13398.kxcdn.com/4funkidspl.jpg" group-title="Music",4 Fun Kids PL
 http://clientportal.link:80/9dDPwi420/6fURz1641/16290
-#EXTINF:-1 tvg-id="4funTV.pl" tvg-name="4 Fun TV PL" tvg-logo="https://picon-13398.kxcdn.com/4funtv.jpg" group-title="Live: Poland",4 Fun TV PL
+#EXTINF:-1 tvg-id="4funTV.pl" tvg-name="4 Fun TV PL" tvg-logo="https://picon-13398.kxcdn.com/4funtv.jpg" group-title="Music",4 Fun TV PL
 http://clientportal.link:80/9dDPwi420/6fURz1641/16289
-#EXTINF:-1 tvg-id="" tvg-name="VOX Music TV PL" tvg-logo="https://picon-13398.kxcdn.com/voxmusic.jpg" group-title="Live: Poland",VOX Music TV PL
+#EXTINF:-1 tvg-id="" tvg-name="VOX Music TV PL" tvg-logo="https://picon-13398.kxcdn.com/voxmusic.jpg" group-title="Music",VOX Music TV PL
 http://clientportal.link:80/9dDPwi420/6fURz1641/15174
-#EXTINF:-1 tvg-id="PolsatMusic.pl" tvg-name="Polsat Music HD PL" tvg-logo="https://picon-13398.kxcdn.com/polsatmusicpl.jpg" group-title="Live: Poland",Polsat Music HD PL
+#EXTINF:-1 tvg-id="PolsatMusic.pl" tvg-name="Polsat Music HD PL" tvg-logo="https://picon-13398.kxcdn.com/polsatmusicpl.jpg" group-title="Music",Polsat Music HD PL
 http://clientportal.link:80/9dDPwi420/6fURz1641/21527
-#EXTINF:-1 tvg-id="" tvg-name="Red Carpet FHD PL" tvg-logo="https://picon-13398.kxcdn.com/recarpetpl.jpg" group-title="Live: Poland",Red Carpet FHD PL
+#EXTINF:-1 tvg-id="" tvg-name="Red Carpet FHD PL" tvg-logo="https://picon-13398.kxcdn.com/recarpetpl.jpg" group-title="Music",Red Carpet FHD PL
 http://clientportal.link:80/9dDPwi420/6fURz1641/27543
-#EXTINF:-1 tvg-id="" tvg-name="Sundance TV FHD PL" tvg-logo="https://picon-13398.kxcdn.com/sundancetv.jpg" group-title="Live: Poland",Sundance TV FHD PL
+#EXTINF:-1 tvg-id="" tvg-name="Sundance TV FHD PL" tvg-logo="https://picon-13398.kxcdn.com/sundancetv.jpg" group-title="Music",Sundance TV FHD PL
 http://clientportal.link:80/9dDPwi420/6fURz1641/20422
-#EXTINF:-1 tvg-id="NutaTV.pl" tvg-name="Nuta TV PL" tvg-logo="https://picon-13398.kxcdn.com/nutatvpl.jpg" group-title="Live: Poland",Nuta TV PL
+#EXTINF:-1 tvg-id="NutaTV.pl" tvg-name="Nuta TV PL" tvg-logo="https://picon-13398.kxcdn.com/nutatvpl.jpg" group-title="Music",Nuta TV PL
 http://clientportal.link:80/9dDPwi420/6fURz1641/27540
-#EXTINF:-1 tvg-id="PoloTV.pl" tvg-name="Polo TV FHD PL" tvg-logo="https://picon-13398.kxcdn.com/polotv.jpg" group-title="Live: Poland",Polo TV FHD PL
+#EXTINF:-1 tvg-id="PoloTV.pl" tvg-name="Polo TV FHD PL" tvg-logo="https://picon-13398.kxcdn.com/polotv.jpg" group-title="Music",Polo TV FHD PL
 http://clientportal.link:80/9dDPwi420/6fURz1641/13517
-#EXTINF:-1 tvg-id="DiscoPoloMusic.pl" tvg-name="Disco Polo Music PL" tvg-logo="https://picon-13398.kxcdn.com/discopolomusic.jpg" group-title="Live: Poland",Disco Polo Music PL
+#EXTINF:-1 tvg-id="DiscoPoloMusic.pl" tvg-name="Disco Polo Music PL" tvg-logo="https://picon-13398.kxcdn.com/discopolomusic.jpg" group-title="Music",Disco Polo Music PL
 http://clientportal.link:80/9dDPwi420/6fURz1641/22765
-#EXTINF:-1 tvg-id="Polonia1.pl" tvg-name="Polonia 1 PL" tvg-logo="https://picon-13398.kxcdn.com/polonia1.jpg" group-title="Live: Poland",Polonia 1 PL
+#EXTINF:-1 tvg-id="Polonia1.pl" tvg-name="Polonia 1 PL" tvg-logo="https://picon-13398.kxcdn.com/polonia1.jpg" group-title="Inne",Polonia 1 PL
 http://clientportal.link:80/9dDPwi420/6fURz1641/11711
-#EXTINF:-1 tvg-id="Polsat2.pl" tvg-name="Polsat 2 HD PL" tvg-logo="https://picon-13398.kxcdn.com/polsat2hd.jpg" group-title="Live: Poland",Polsat 2 HD PL
+#EXTINF:-1 tvg-id="Polsat2.pl" tvg-name="Polsat 2 HD PL" tvg-logo="https://picon-13398.kxcdn.com/polsat2hd.jpg" group-title="Inne",Polsat 2 HD PL
 http://clientportal.link:80/9dDPwi420/6fURz1641/12817
-#EXTINF:-1 tvg-id="PolsatCafe.pl" tvg-name="Polsat Café HD PL" tvg-logo="https://picon-13398.kxcdn.com/polsatcafehd.jpg" group-title="Live: Poland",Polsat Café HD PL
+#EXTINF:-1 tvg-id="PolsatCafe.pl" tvg-name="Polsat Café HD PL" tvg-logo="https://picon-13398.kxcdn.com/polsatcafehd.jpg" group-title="Inne",Polsat Café HD PL
 http://clientportal.link:80/9dDPwi420/6fURz1641/11198
-#EXTINF:-1 tvg-id="PolsatFilm.pl" tvg-name="Polsat Film FHD PL" tvg-logo="https://picon-13398.kxcdn.com/polsatfilmhd.jpg" group-title="Live: Poland",Polsat Film FHD PL
+#EXTINF:-1 tvg-id="PolsatFilm.pl" tvg-name="Polsat Film FHD PL" tvg-logo="https://picon-13398.kxcdn.com/polsatfilmhd.jpg" group-title="Film",Polsat Film FHD PL
 http://clientportal.link:80/9dDPwi420/6fURz1641/15086
-#EXTINF:-1 tvg-id="Polsat.pl" tvg-name="Polsat HD PL" tvg-logo="https://picon-13398.kxcdn.com/polsathd.jpg" group-title="Live: Poland",Polsat HD PL
+#EXTINF:-1 tvg-id="Polsat.pl" tvg-name="Polsat HD PL" tvg-logo="https://picon-13398.kxcdn.com/polsathd.jpg" group-title="Inne",Polsat HD PL
 http://clientportal.link:80/9dDPwi420/6fURz1641/11696
-#EXTINF:-1 tvg-id="PolsatPlay.pl" tvg-name="Polsat Play HD PL" tvg-logo="https://picon-13398.kxcdn.com/polsatplayhd.jpg" group-title="Live: Poland",Polsat Play HD PL
+#EXTINF:-1 tvg-id="PolsatPlay.pl" tvg-name="Polsat Play HD PL" tvg-logo="https://picon-13398.kxcdn.com/polsatplayhd.jpg" group-title="Inne",Polsat Play HD PL
 http://clientportal.link:80/9dDPwi420/6fURz1641/11177
-#EXTINF:-1 tvg-id="" tvg-name="Polsat Seriale FHD PL" tvg-logo="https://picon-13398.kxcdn.com/polsatserialepl.jpg" group-title="Live: Poland",Polsat Seriale FHD PL
+#EXTINF:-1 tvg-id="" tvg-name="Polsat Seriale FHD PL" tvg-logo="https://picon-13398.kxcdn.com/polsatserialepl.jpg" group-title="Film",Polsat Seriale FHD PL
 http://clientportal.link:80/9dDPwi420/6fURz1641/48712
-#EXTINF:-1 tvg-id="ViasatHistory.pl" tvg-name="Polsat Viasat History HD PL" tvg-logo="https://picon-13398.kxcdn.com/polsatviasathistory.jpg" group-title="Live: Poland",Polsat Viasat History HD PL
+#EXTINF:-1 tvg-id="ViasatHistory.pl" tvg-name="Polsat Viasat History HD PL" tvg-logo="https://picon-13398.kxcdn.com/polsatviasathistory.jpg" group-title="Doku",Polsat Viasat History HD PL
 http://clientportal.link:80/9dDPwi420/6fURz1641/15084
-#EXTINF:-1 tvg-id="TLC.pl" tvg-name="TLC HD PL" tvg-logo="https://picon-13398.kxcdn.com/tlchd.jpg" group-title="Live: Poland",TLC HD PL
+#EXTINF:-1 tvg-id="TLC.pl" tvg-name="TLC HD PL" tvg-logo="https://picon-13398.kxcdn.com/tlchd.jpg" group-title="Inne",TLC HD PL
 http://clientportal.link:80/9dDPwi420/6fURz1641/15080
-#EXTINF:-1 tvg-id="TLC.pl" tvg-name="TLC PL" tvg-logo="https://picon-13398.kxcdn.com/tlc.jpg" group-title="Live: Poland",TLC PL
+#EXTINF:-1 tvg-id="TLC.pl" tvg-name="TLC PL" tvg-logo="https://picon-13398.kxcdn.com/tlc.jpg" group-title="Inne",TLC PL
 http://clientportal.link:80/9dDPwi420/6fURz1641/11632
-#EXTINF:-1 tvg-id="TTV.pl" tvg-name="TTV FHD PL" tvg-logo="https://picon-13398.kxcdn.com/ttv.jpg" group-title="Live: Poland",TTV FHD PL
+#EXTINF:-1 tvg-id="TTV.pl" tvg-name="TTV FHD PL" tvg-logo="https://picon-13398.kxcdn.com/ttv.jpg" group-title="Inne",TTV FHD PL
 http://clientportal.link:80/9dDPwi420/6fURz1641/15181
-#EXTINF:-1 tvg-id="TV4.pl" tvg-name="TV 4 HD PL" tvg-logo="https://picon-13398.kxcdn.com/tv4hd.jpg" group-title="Live: Poland",TV 4 HD PL
+#EXTINF:-1 tvg-id="TV4.pl" tvg-name="TV 4 HD PL" tvg-logo="https://picon-13398.kxcdn.com/tv4hd.jpg" group-title="Inne",TV 4 HD PL
 http://clientportal.link:80/9dDPwi420/6fURz1641/11178
-#EXTINF:-1 tvg-id="TV6.pl" tvg-name="TV 6 FHD PL" tvg-logo="https://picon-13398.kxcdn.com/tv6.jpg" group-title="Live: Poland",TV 6 FHD PL
+#EXTINF:-1 tvg-id="TV6.pl" tvg-name="TV 6 FHD PL" tvg-logo="https://picon-13398.kxcdn.com/tv6.jpg" group-title="Inne",TV 6 FHD PL
 http://clientportal.link:80/9dDPwi420/6fURz1641/19082
-#EXTINF:-1 tvg-id="TVPInfo.pl" tvg-name="TVP Info FHD PL" tvg-logo="https://picon-13398.kxcdn.com/tvpinfohdpl.jpg" group-title="Live: Poland",TVP Info FHD PL
+#EXTINF:-1 tvg-id="TVPInfo.pl" tvg-name="TVP Info FHD PL" tvg-logo="https://picon-13398.kxcdn.com/tvpinfohdpl.jpg" group-title="Info",TVP Info FHD PL
 http://clientportal.link:80/9dDPwi420/6fURz1641/15078
-#EXTINF:-1 tvg-id="TVN7.pl" tvg-name="TVN 7 HD PL" tvg-logo="https://picon-13398.kxcdn.com/tvn7hd.jpg" group-title="Live: Poland",TVN 7 HD PL
+#EXTINF:-1 tvg-id="TVN7.pl" tvg-name="TVN 7 HD PL" tvg-logo="https://picon-13398.kxcdn.com/tvn7hd.jpg" group-title="Inne",TVN 7 HD PL
 http://clientportal.link:80/9dDPwi420/6fURz1641/15179
-#EXTINF:-1 tvg-id="TVNFabula.pl" tvg-name="TVN Fabuła FHD PL" tvg-logo="https://picon-13398.kxcdn.com/tvnfabula.jpg" group-title="Live: Poland",TVN Fabuła FHD PL
+#EXTINF:-1 tvg-id="TVNFabula.pl" tvg-name="TVN Fabuła FHD PL" tvg-logo="https://picon-13398.kxcdn.com/tvnfabula.jpg" group-title="Film",TVN Fabuła FHD PL
 http://clientportal.link:80/9dDPwi420/6fURz1641/15178
-#EXTINF:-1 tvg-id="TVN.pl" tvg-name="TVN FHD PL" tvg-logo="https://picon-13398.kxcdn.com/tvnhd.jpg" group-title="Live: Poland",TVN FHD PL
+#EXTINF:-1 tvg-id="TVN.pl" tvg-name="TVN FHD PL" tvg-logo="https://picon-13398.kxcdn.com/tvnhd.jpg" group-title="Inne",TVN FHD PL
 http://clientportal.link:80/9dDPwi420/6fURz1641/15177
-#EXTINF:-1 tvg-id="TVNStyle.pl" tvg-name="TVN Style FHD PL" tvg-logo="https://picon-13398.kxcdn.com/tvnstylehd.jpg" group-title="Live: Poland",TVN Style FHD PL
+#EXTINF:-1 tvg-id="TVNStyle.pl" tvg-name="TVN Style FHD PL" tvg-logo="https://picon-13398.kxcdn.com/tvnstylehd.jpg" group-title="Inne",TVN Style FHD PL
 http://clientportal.link:80/9dDPwi420/6fURz1641/15176
-#EXTINF:-1 tvg-id="TVN.pl" tvg-name="TVN PL" tvg-logo="https://picon-13398.kxcdn.com/tvn.jpg" group-title="Live: Poland",TVN PL
+#EXTINF:-1 tvg-id="TVN.pl" tvg-name="TVN PL" tvg-logo="https://picon-13398.kxcdn.com/tvn.jpg" group-title="Inne",TVN PL
 http://clientportal.link:80/9dDPwi420/6fURz1641/19087
-#EXTINF:-1 tvg-id="TVP1.pl" tvg-name="TVP 1 FHD PL" tvg-logo="https://picon-13398.kxcdn.com/tvp1hd.jpg" group-title="Live: Poland",TVP 1 FHD PL
+#EXTINF:-1 tvg-id="TVP1.pl" tvg-name="TVP 1 FHD PL" tvg-logo="https://picon-13398.kxcdn.com/tvp1hd.jpg" group-title="Inne",TVP 1 FHD PL
 http://clientportal.link:80/9dDPwi420/6fURz1641/12810
-#EXTINF:-1 tvg-id="TVP2.pl" tvg-name="TVP 2 HD PL" tvg-logo="https://picon-13398.kxcdn.com/tvp2hd.jpg" group-title="Live: Poland",TVP 2 HD PL
+#EXTINF:-1 tvg-id="TVP2.pl" tvg-name="TVP 2 HD PL" tvg-logo="https://picon-13398.kxcdn.com/tvp2hd.jpg" group-title="Inne",TVP 2 HD PL
 http://clientportal.link:80/9dDPwi420/6fURz1641/12811
-#EXTINF:-1 tvg-id="TVP3.pl" tvg-name="TVP 3 Warszawa PL" tvg-logo="https://picon-13398.kxcdn.com/tvp3.jpg" group-title="Live: Poland",TVP 3 Warszawa PL
+#EXTINF:-1 tvg-id="TVP3.pl" tvg-name="TVP 3 Warszawa PL" tvg-logo="https://picon-13398.kxcdn.com/tvp3.jpg" group-title="Inne",TVP 3 Warszawa PL
 http://clientportal.link:80/9dDPwi420/6fURz1641/15077
-#EXTINF:-1 tvg-id="TVPABC.pl" tvg-name="TVP ABC PL" tvg-logo="https://picon-13398.kxcdn.com/tvpabc.jpg" group-title="Live: Poland",TVP ABC PL
+#EXTINF:-1 tvg-id="TVPABC.pl" tvg-name="TVP ABC PL" tvg-logo="https://picon-13398.kxcdn.com/tvpabc.jpg" group-title="Inne",TVP ABC PL
 http://clientportal.link:80/9dDPwi420/6fURz1641/15076
-#EXTINF:-1 tvg-id="TVPHistoria.pl" tvg-name="TVP Historia PL" tvg-logo="https://picon-13398.kxcdn.com/tvphistoria.jpg" group-title="Live: Poland",TVP Historia PL
+#EXTINF:-1 tvg-id="TVPHistoria.pl" tvg-name="TVP Historia PL" tvg-logo="https://picon-13398.kxcdn.com/tvphistoria.jpg" group-title="Doku",TVP Historia PL
 http://clientportal.link:80/9dDPwi420/6fURz1641/15075
-#EXTINF:-1 tvg-id="TVPInfo.pl" tvg-name="TVP Info PL" tvg-logo="https://picon-13398.kxcdn.com/tvpinfo.jpg" group-title="Live: Poland",TVP Info PL
+#EXTINF:-1 tvg-id="TVPInfo.pl" tvg-name="TVP Info PL" tvg-logo="https://picon-13398.kxcdn.com/tvpinfo.jpg" group-title="Info",TVP Info PL
 http://clientportal.link:80/9dDPwi420/6fURz1641/15074
-#EXTINF:-1 tvg-id="TVPSeriale.pl" tvg-name="TVP Seriale PL" tvg-logo="https://picon-13398.kxcdn.com/tvpseriale.jpg" group-title="Live: Poland",TVP Seriale PL
+#EXTINF:-1 tvg-id="TVPSeriale.pl" tvg-name="TVP Seriale PL" tvg-logo="https://picon-13398.kxcdn.com/tvpseriale.jpg" group-title="Film",TVP Seriale PL
 http://clientportal.link:80/9dDPwi420/6fURz1641/11514
-#EXTINF:-1 tvg-id="TVPSport.pl" tvg-name="TVP Sport FHD PL" tvg-logo="https://picon-13398.kxcdn.com/tvpsporthd.jpg" group-title="Live: Poland",TVP Sport FHD PL
+#EXTINF:-1 tvg-id="TVPSport.pl" tvg-name="TVP Sport FHD PL" tvg-logo="https://picon-13398.kxcdn.com/tvpsporthd.jpg" group-title="Sport",TVP Sport FHD PL
 http://clientportal.link:80/9dDPwi420/6fURz1641/12826
-#EXTINF:-1 tvg-id="TVPKultura.pl" tvg-name="TVP Kultura PL" tvg-logo="https://picon-13398.kxcdn.com/tvpkulturapl.jpg" group-title="Live: Poland",TVP Kultura PL
+#EXTINF:-1 tvg-id="TVPKultura.pl" tvg-name="TVP Kultura PL" tvg-logo="https://picon-13398.kxcdn.com/tvpkulturapl.jpg" group-title="Inne",TVP Kultura PL
 http://clientportal.link:80/9dDPwi420/6fURz1641/24147
-#EXTINF:-1 tvg-id="TVS.pl" tvg-name="TVS PL" tvg-logo="https://picon-13398.kxcdn.com/tvs.jpg" group-title="Live: Poland",TVS PL
+#EXTINF:-1 tvg-id="TVS.pl" tvg-name="TVS PL" tvg-logo="https://picon-13398.kxcdn.com/tvs.jpg" group-title="Inne",TVS PL
 http://clientportal.link:80/9dDPwi420/6fURz1641/12820
-#EXTINF:-1 tvg-id="DaVinciLearning.pl" tvg-name="Da Vinci Learning PL" tvg-logo="https://picon-13398.kxcdn.com/davincilearning.jpg" group-title="Live: Poland",Da Vinci Learning PL
+#EXTINF:-1 tvg-id="DaVinciLearning.pl" tvg-name="Da Vinci Learning PL" tvg-logo="https://picon-13398.kxcdn.com/davincilearning.jpg" group-title="Inne",Da Vinci Learning PL
 http://clientportal.link:80/9dDPwi420/6fURz1641/15182
-#EXTINF:-1 tvg-id="" tvg-name="Teletoon + FHD PL" tvg-logo="https://picon-13398.kxcdn.com/teletoonplushd-lichoridas.jpg" group-title="Live: Poland",Teletoon + FHD PL
-http://clientportal.link:80/9dDPwi420/6fURz1641/15206
-#EXTINF:-1 tvg-id="FilmboxArthouse.pl" tvg-name="FilmBox Arthouse PL" tvg-logo="https://picon-13398.kxcdn.com/filmboxarthouse.jpg" group-title="Live: Poland",FilmBox Arthouse PL
+#EXTINF:-1 tvg-id="SuperPolsat.pl" tvg-name="Super Polsat HD PL" tvg-logo="https://picon-13398.kxcdn.com/superpolsatpl.jpg" group-title="Inne",Super Polsat HD PL
+http://clientportal.link:80/9dDPwi420/6fURz1641/11199
+#EXTINF:-1 tvg-id="FilmboxArthouse.pl" tvg-name="FilmBox Arthouse PL" tvg-logo="https://picon-13398.kxcdn.com/filmboxarthouse.jpg" group-title="Film",FilmBox Arthouse PL
 http://clientportal.link:80/9dDPwi420/6fURz1641/16287
-#EXTINF:-1 tvg-id="Stopklatka.pl" tvg-name="Stopklatka TV PL" tvg-logo="https://picon-13398.kxcdn.com/stopklatkatv.jpg" group-title="Live: Poland",Stopklatka TV PL
+#EXTINF:-1 tvg-id="Stopklatka.pl" tvg-name="Stopklatka TV PL" tvg-logo="https://picon-13398.kxcdn.com/stopklatkatv.jpg" group-title="Film",Stopklatka TV PL
 http://clientportal.link:80/9dDPwi420/6fURz1641/16284
-#EXTINF:-1 tvg-id="TVRepublika.pl" tvg-name="TV Republika PL" tvg-logo="https://picon-13398.kxcdn.com/tvrepublika.jpg" group-title="Live: Poland",TV Republika PL
+#EXTINF:-1 tvg-id="TVRepublika.pl" tvg-name="TV Republika PL" tvg-logo="https://picon-13398.kxcdn.com/tvrepublika.jpg" group-title="Info",TV Republika PL
 http://clientportal.link:80/9dDPwi420/6fURz1641/16283
-#EXTINF:-1 tvg-id="TVPRozrywka.pl" tvg-name="TVP Rozrywka PL" tvg-logo="https://picon-13398.kxcdn.com/tvprozrywka.jpg" group-title="Live: Poland",TVP Rozrywka PL
+#EXTINF:-1 tvg-id="TVPRozrywka.pl" tvg-name="TVP Rozrywka PL" tvg-logo="https://picon-13398.kxcdn.com/tvprozrywka.jpg" group-title="Inne",TVP Rozrywka PL
 http://clientportal.link:80/9dDPwi420/6fURz1641/16282
-#EXTINF:-1 tvg-id="" tvg-name="Zoom TV PL" tvg-logo="https://picon-13398.kxcdn.com/zoomtv.jpg" group-title="Live: Poland",Zoom TV PL
+#EXTINF:-1 tvg-id="" tvg-name="Zoom TV PL" tvg-logo="https://picon-13398.kxcdn.com/zoomtv.jpg" group-title="Inne",Zoom TV PL
 http://clientportal.link:80/9dDPwi420/6fURz1641/16271
-#EXTINF:-1 tvg-id="SportKlub.pl" tvg-name="Sport Klub Polska HD PL" tvg-logo="https://picon-13398.kxcdn.com/sportklub.jpg" group-title="Live: Poland",Sport Klub Polska HD PL
+#EXTINF:-1 tvg-id="SportKlub.pl" tvg-name="Sport Klub Polska HD PL" tvg-logo="https://picon-13398.kxcdn.com/sportklub.jpg" group-title="Sport",Sport Klub Polska HD PL
 http://clientportal.link:80/9dDPwi420/6fURz1641/16835
-#EXTINF:-1 tvg-id="TVP.pl" tvg-name="TVP FHD PL" tvg-logo="https://picon-13398.kxcdn.com/tvphd.jpg" group-title="Live: Poland",TVP FHD PL
+#EXTINF:-1 tvg-id="TVP.pl" tvg-name="TVP FHD PL" tvg-logo="https://picon-13398.kxcdn.com/tvphd.jpg" group-title="Inne",TVP FHD PL
 http://clientportal.link:80/9dDPwi420/6fURz1641/18392
-#EXTINF:-1 tvg-id="" tvg-name="W Polsce PL" tvg-logo="https://picon-13398.kxcdn.com/wpolscepl.jpg" group-title="Live: Poland",W Polsce PL
+#EXTINF:-1 tvg-id="" tvg-name="W Polsce PL" tvg-logo="https://picon-13398.kxcdn.com/wpolscepl.jpg" group-title="Inne",W Polsce PL
 http://clientportal.link:80/9dDPwi420/6fURz1641/19084
-#EXTINF:-1 tvg-id="ComedyCentral.pl" tvg-name="Comedy Central Polska FHD PL" tvg-logo="https://picon-13398.kxcdn.com/comedycenthd.jpg" group-title="Live: Poland",Comedy Central Polska FHD PL
+#EXTINF:-1 tvg-id="ComedyCentral.pl" tvg-name="Comedy Central Polska FHD PL" tvg-logo="https://picon-13398.kxcdn.com/comedycenthd.jpg" group-title="Film",Comedy Central Polska FHD PL
 http://clientportal.link:80/9dDPwi420/6fURz1641/22771
-#EXTINF:-1 tvg-id="" tvg-name="Comedy Central Extra Polsat FHD PL" tvg-logo="https://picon-13398.kxcdn.com/comedycentralextra.jpg" group-title="Live: Poland",Comedy Central Extra Polsat FHD PL
+#EXTINF:-1 tvg-id="" tvg-name="Comedy Central Extra Polsat FHD PL" tvg-logo="https://picon-13398.kxcdn.com/comedycentralextra.jpg" group-title="Film",Comedy Central Extra Polsat FHD PL
 http://clientportal.link:80/9dDPwi420/6fURz1641/22770
-#EXTINF:-1 tvg-id="ParamountChannel.pl" tvg-name="Paramount Channel Polska FHD PL" tvg-logo="https://picon-13398.kxcdn.com/paramountchannelhd.jpg" group-title="Live: Poland",Paramount Channel Polska FHD PL
+#EXTINF:-1 tvg-id="ParamountChannel.pl" tvg-name="Paramount Channel Polska FHD PL" tvg-logo="https://picon-13398.kxcdn.com/paramountchannelhd.jpg" group-title="Film",Paramount Channel Polska FHD PL
 http://clientportal.link:80/9dDPwi420/6fURz1641/22769
-#EXTINF:-1 tvg-id="" tvg-name="Nowa TV PL" tvg-logo="https://picon-13398.kxcdn.com/nowatv.jpg" group-title="Live: Poland",Nowa TV PL
+#EXTINF:-1 tvg-id="" tvg-name="Nowa TV PL" tvg-logo="https://picon-13398.kxcdn.com/nowatv.jpg" group-title="Inne",Nowa TV PL
 http://clientportal.link:80/9dDPwi420/6fURz1641/22768
-#EXTINF:-1 tvg-id="ViasatNature.pl" tvg-name="Viasat Nature Polsat FHD PL" tvg-logo="https://picon-13398.kxcdn.com/viasatnaturehd.jpg" group-title="Live: Poland",Viasat Nature Polsat
+#EXTINF:-1 tvg-id="ViasatNature.pl" tvg-name="Viasat Nature Polsat FHD PL" tvg-logo="https://picon-13398.kxcdn.com/viasatnaturehd.jpg" group-title="Inne",Viasat Nature Polsat
 http://clientportal.link:80/9dDPwi420/6fURz1641/22763
-#EXTINF:-1 tvg-id="BBCBrit.pl" tvg-name="BBC Brit Polska FHD PL" tvg-logo="https://picon-13398.kxcdn.com/bbcbrit.jpg" group-title="Live: Poland",BBC Brit Polska FHD PL
+#EXTINF:-1 tvg-id="BBCBrit.pl" tvg-name="BBC Brit Polska FHD PL" tvg-logo="https://picon-13398.kxcdn.com/bbcbrit.jpg" group-title="Inne",BBC Brit Polska FHD PL
 http://clientportal.link:80/9dDPwi420/6fURz1641/23317
-#EXTINF:-1 tvg-id="BBCLifestyle.pl" tvg-name="BBC Lifestyle Polska FHD PL" tvg-logo="https://picon-13398.kxcdn.com/bbclifestylepl.jpg" group-title="Live: Poland",BBC Lifestyle
+#EXTINF:-1 tvg-id="BBCLifestyle.pl" tvg-name="BBC Lifestyle Polska FHD PL" tvg-logo="https://picon-13398.kxcdn.com/bbclifestylepl.jpg" group-title="Inne",BBC Lifestyle
 http://clientportal.link:80/9dDPwi420/6fURz1641/23318
-#EXTINF:-1 tvg-id="" tvg-name="StudioMed TV FHD PL" tvg-logo="https://picon-13398.kxcdn.com/studiomedtvpl.jpg" group-title="Live: Poland",StudioMed TV FHD PL
+#EXTINF:-1 tvg-id="" tvg-name="StudioMed TV FHD PL" tvg-logo="https://picon-13398.kxcdn.com/studiomedtvpl.jpg" group-title="Inne",StudioMed TV FHD PL
 http://clientportal.link:80/oXfm4ck3Iz4737/cP3K1e7481/88258
-#EXTINF:-1 tvg-id="" tvg-name="VOD 205 PL" tvg-logo="https://picon-13398.kxcdn.com/vod150.jpg" group-title="Live: Poland",VOD 205 PL
+#EXTINF:-1 tvg-id="" tvg-name="VOD 205 PL" tvg-logo="https://picon-13398.kxcdn.com/vod150.jpg" group-title="Film",VOD 205 PL
 http://clientportal.link:80/9dDPwi420/6fURz1641/16279
-#EXTINF:-1 tvg-id="" tvg-name="VOD 206 PL" tvg-logo="https://picon-13398.kxcdn.com/vod150.jpg" group-title="Live: Poland",VOD 206 PL
+#EXTINF:-1 tvg-id="" tvg-name="VOD 206 PL" tvg-logo="https://picon-13398.kxcdn.com/vod150.jpg" group-title="Film",VOD 206 PL
 http://clientportal.link:80/9dDPwi420/6fURz1641/16278
-#EXTINF:-1 tvg-id="" tvg-name="VOD 207 PL" tvg-logo="https://picon-13398.kxcdn.com/vod150.jpg" group-title="Live: Poland",VOD 207 PL
+#EXTINF:-1 tvg-id="" tvg-name="VOD 207 PL" tvg-logo="https://picon-13398.kxcdn.com/vod150.jpg" group-title="Film",VOD 207 PL
 http://clientportal.link:80/9dDPwi420/6fURz1641/16277
-#EXTINF:-1 tvg-id="" tvg-name="VOD 208 PL" tvg-logo="https://picon-13398.kxcdn.com/vod150.jpg" group-title="Live: Poland",VOD 208 PL
+#EXTINF:-1 tvg-id="" tvg-name="VOD 208 PL" tvg-logo="https://picon-13398.kxcdn.com/vod150.jpg" group-title="Film",VOD 208 PL
 http://clientportal.link:80/9dDPwi420/6fURz1641/23299
-#EXTINF:-1 tvg-id="" tvg-name="PL: Canal+" tvg-logo="http://worldiptv.xyz/chlogos/CanalPlus.pl.png" group-title="Poland - PL",PL: Canal+
+#EXTINF:-1 tvg-id="" tvg-name="PL: Canal+" tvg-logo="http://worldiptv.xyz/chlogos/CanalPlus.pl.png" group-title="Film",PL: Canal+
 http://panel.tivix.eu:80/eagleiptv/SsFAljPDDi/73659
-#EXTINF:-1 tvg-id="" tvg-name="PL: Canal+  Family " tvg-logo="http://worldiptv.xyz/chlogos/CanalPlusFamily.pl.png" group-title="Poland - PL",PL: Canal+  Family 
+#EXTINF:-1 tvg-id="" tvg-name="PL: Canal+  Family " tvg-logo="http://worldiptv.xyz/chlogos/CanalPlusFamily.pl.png" group-title="Film",PL: Canal+  Family 
 http://panel.tivix.eu:80/eagleiptv/SsFAljPDDi/73660
-#EXTINF:-1 tvg-id="" tvg-name="PL: CANAL+ Premium" tvg-logo="https://www.mm-eu.tv/wordpress/wp-content/uploads/2020/05/CANALPREMIUM.png" group-title="Poland - PL",PL: CANAL+ Premium
+#EXTINF:-1 tvg-id="" tvg-name="PL: CANAL+ Premium" tvg-logo="https://www.mm-eu.tv/wordpress/wp-content/uploads/2020/05/CANALPREMIUM.png" group-title="Film",PL: CANAL+ Premium
 http://panel.tivix.eu:80/eagleiptv/SsFAljPDDi/156821
-#EXTINF:-1 tvg-id="" tvg-name="PL: HBO 2" tvg-logo="http://worldiptv.xyz/chlogos/HBO2.pl.png" group-title="Poland - PL",PL: HBO 2
+#EXTINF:-1 tvg-id="" tvg-name="PL: HBO 2" tvg-logo="http://worldiptv.xyz/chlogos/HBO2.pl.png" group-title="Film",PL: HBO 2
 http://panel.tivix.eu:80/eagleiptv/SsFAljPDDi/73694
-#EXTINF:-1 tvg-id="" tvg-name="PL: HBO 3" tvg-logo="http://worldiptv.xyz/chlogos/HBO3.pl.png" group-title="Poland - PL",PL: HBO 3
+#EXTINF:-1 tvg-id="" tvg-name="PL: HBO 3" tvg-logo="http://worldiptv.xyz/chlogos/HBO3.pl.png" group-title="Film",PL: HBO 3
 http://panel.tivix.eu:80/eagleiptv/SsFAljPDDi/73695
-#EXTINF:-1 tvg-id="" tvg-name="PL: HBO" tvg-logo="http://worldiptv.xyz/chlogos/HBO.pl.png" group-title="Poland - PL",PL: HBO
+#EXTINF:-1 tvg-id="" tvg-name="PL: HBO" tvg-logo="http://worldiptv.xyz/chlogos/HBO.pl.png" group-title="Film",PL: HBO
 http://panel.tivix.eu:80/eagleiptv/SsFAljPDDi/73696
-#EXTINF:-1 tvg-id="" tvg-name="PL: Polsat Sport HD" tvg-logo="http://worldiptv.xyz/chlogos/PolsatSport.pl.png" group-title="Poland - PL",PL: Polsat Sport HD
+#EXTINF:-1 tvg-id="" tvg-name="PL: Polsat Sport HD" tvg-logo="http://worldiptv.xyz/chlogos/PolsatSport.pl.png" group-title="Sport",PL: Polsat Sport HD
 http://panel.tivix.eu:80/eagleiptv/SsFAljPDDi/73801
-#EXTINF:-1 tvg-id="" tvg-name="PL: Canal+ Sport " tvg-logo="http://worldiptv.xyz/chlogos/CanalPlusSport.pl.png" group-title="Poland - PL",PL: Canal+ Sport 
+#EXTINF:-1 tvg-id="" tvg-name="PL: Canal+ Sport " tvg-logo="http://worldiptv.xyz/chlogos/CanalPlusSport.pl.png" group-title="Sport",PL: Canal+ Sport 
 http://panel.tivix.eu:80/eagleiptv/SsFAljPDDi/73662
-#EXTINF:-1 tvg-id="" tvg-name="PL: Canal Sport 2 " tvg-logo="http://worldiptv.xyz/chlogos/CanalPlusSport-2.pl.png" group-title="Poland - PL",PL: Canal Sport 2 
+#EXTINF:-1 tvg-id="" tvg-name="PL: Canal Sport 2 " tvg-logo="http://worldiptv.xyz/chlogos/CanalPlusSport-2.pl.png" group-title="Sport",PL: Canal Sport 2 
 http://panel.tivix.eu:80/eagleiptv/SsFAljPDDi/73664
-#EXTINF:-1 tvg-id="" tvg-name="PL: Canal+  Sport 3" tvg-logo="http://worldiptv.xyz/chlogos/CanalPlusSport3.ke.png" group-title="Poland - PL",PL: Canal+  Sport 3
+#EXTINF:-1 tvg-id="" tvg-name="PL: Canal+  Sport 3" tvg-logo="http://worldiptv.xyz/chlogos/CanalPlusSport3.ke.png" group-title="Sport",PL: Canal+  Sport 3
 http://panel.tivix.eu:80/eagleiptv/SsFAljPDDi/73765
-#EXTINF:-1 tvg-id="" tvg-name="PL: Canal+  Sport 4 " tvg-logo="http://worldiptv.xyz/chlogos/CanalPlusSport4.ke.png" group-title="Poland - PL",PL: Canal+  Sport 4 
+#EXTINF:-1 tvg-id="" tvg-name="PL: Canal+  Sport 4 " tvg-logo="http://worldiptv.xyz/chlogos/CanalPlusSport4.ke.png" group-title="Sport",PL: Canal+  Sport 4 
 http://panel.tivix.eu:80/eagleiptv/SsFAljPDDi/73766
-#EXTINF:-1 tvg-id="" tvg-name="PL: Eleven Sports 1 " tvg-logo="http://worldiptv.xyz/chlogos/ElevenSport1.pl.png" group-title="Poland - PL",PL: Eleven Sports 1 
+#EXTINF:-1 tvg-id="" tvg-name="PL: Eleven Sports 1 " tvg-logo="http://worldiptv.xyz/chlogos/ElevenSport1.pl.png" group-title="Sport",PL: Eleven Sports 1 
 http://panel.tivix.eu:80/eagleiptv/SsFAljPDDi/73681
-#EXTINF:-1 tvg-id="" tvg-name="PL: Eleven Sports 2" tvg-logo="http://worldiptv.xyz/chlogos/ElevenSport2.pl.png" group-title="Poland - PL",PL: Eleven Sports 2
+#EXTINF:-1 tvg-id="" tvg-name="PL: Eleven Sports 2" tvg-logo="http://worldiptv.xyz/chlogos/ElevenSport2.pl.png" group-title="Sport",PL: Eleven Sports 2
 http://panel.tivix.eu:80/eagleiptv/SsFAljPDDi/95833
-#EXTINF:-1 tvg-id="" tvg-name="PL: Eleven Sports 3 " tvg-logo="http://worldiptv.xyz/chlogos/ElevenSport3.pl.png" group-title="Poland - PL",PL: Eleven Sports 3 
+#EXTINF:-1 tvg-id="" tvg-name="PL: Eleven Sports 3 " tvg-logo="http://worldiptv.xyz/chlogos/ElevenSport3.pl.png" group-title="Sport",PL: Eleven Sports 3 
 http://panel.tivix.eu:80/eagleiptv/SsFAljPDDi/73682
-#EXTINF:-1 tvg-id="" tvg-name="PL: Eleven Sports 4 " tvg-logo="http://worldiptv.xyz/chlogos/ElevenSport4.pl.png" group-title="Poland - PL",PL: Eleven Sports 4 
+#EXTINF:-1 tvg-id="" tvg-name="PL: Eleven Sports 4 " tvg-logo="http://worldiptv.xyz/chlogos/ElevenSport4.pl.png" group-title="Sport",PL: Eleven Sports 4 
 http://panel.tivix.eu:80/eagleiptv/SsFAljPDDi/73683
+#EXTINF:-1 tvg-id="Miami TV Live.sp" tvg-name="Miami TV Live" tvg-logo="https://terapiasexo.com/wp-content/uploads/2016/09/logo-miami-tv.png" group-title="inne2",Miami TV Live
+http://59ec5453559f0.streamlock.net:1935/mexicotv/smil:miamitvmexicoROKU/chunklist_b1896000.m3u8
+#EXTINF:-1 tvg-id="RedTraffic - Big Ass.sp" tvg-name="RedTraffic - Big Ass" tvg-logo="https://www.dropbox.com/s/dbnmvy2it5k5l0y/images.jpeg?dl=1" group-title="Inne2",RedTraffic - Big Ass
+http://live.redtraffic.xyz/bigass.m3u8?fluxuslust.m3u8
+#EXTINF:-1 tvg-id="RedTraffic - Big Dick.sp" tvg-name="RedTraffic - Big Dick" tvg-logo="https://www.dropbox.com/s/dbnmvy2it5k5l0y/images.jpeg?dl=1" group-title="Inne2",RedTraffic - Big Dick
+http://live.redtraffic.xyz/bigdick.m3u8?fluxuslust.m3u8
+#EXTINF:-1 tvg-id="RedTraffic - Big Tits.sp" tvg-name="RedTraffic - Big Tits" tvg-logo="https://www.dropbox.com/s/dbnmvy2it5k5l0y/images.jpeg?dl=1" group-title="Inne2",RedTraffic - Big Tits
+http://live.redtraffic.xyz/bigtits.m3u8?fluxuslust.m3u8
+#EXTINF:-1 tvg-id="RedTraffic - Blowjob.sp" tvg-name="RedTraffic - Blowjob" tvg-logo="https://www.dropbox.com/s/dbnmvy2it5k5l0y/images.jpeg?dl=1" group-title="Inne2",RedTraffic - Blowjob
+http://live.redtraffic.xyz/blowjob.m3u8?fluxuslust.m3u8
+#EXTINF:-1 tvg-id=",RedTraffic - Cuckold.sp" tvg-name="RedTraffic - Cuckold" tvg-logo="https://www.dropbox.com/s/dbnmvy2it5k5l0y/images.jpeg?dl=1" group-title="Inne2",RedTraffic - Cuckold
+http://live.redtraffic.xyz/cuckold.m3u8?fluxuslust.m3u8
+#EXTINF:-1 tvg-id="RedTraffic - Fetish.sp" tvg-name="RedTraffic - Fetishy" tvg-logo="https://www.dropbox.com/s/dbnmvy2it5k5l0y/images.jpeg?dl=1" group-title="Inne2",RedTraffic - Fetish
+http://live.redtraffic.xyz/fetish.m3u8?fluxuslust.m3u8
+#EXTINF:-1 tvg-id="RedTraffic - Hardcore.sp" tvg-name="RedTraffic - Hardcorey" tvg-logo="https://www.dropbox.com/s/dbnmvy2it5k5l0y/images.jpeg?dl=1" group-title="Inne2",RedTraffic - Hardcore
+http://live.redtraffic.xyz/hardcore.m3u8?fluxuslust.m3u8
+#EXTINF:-1 tvg-id="RedTraffic - Interracial.sp" tvg-name="RedTraffic - Interracial" tvg-logo="https://www.dropbox.com/s/dbnmvy2it5k5l0y/images.jpeg?dl=1" group-title="Inne2",RedTraffic - Interracial
+http://live.redtraffic.xyz/interracial.m3u8?fluxuslust.m3u8
+#EXTINF:-1 tvg-id="RedTraffic - Latina.sp" tvg-name="RedTraffic - Latina" tvg-logo="https://www.dropbox.com/s/dbnmvy2it5k5l0y/images.jpeg?dl=1" group-title="Inne2",RedTraffic - Latina
+http://live.redtraffic.xyz/latina.m3u8?fluxuslust.m3u8
+#EXTINF:-1 tvg-id="RedTraffic - Lesbian.sp" tvg-name="RedTraffic - Lesbian" tvg-logo="https://www.dropbox.com/s/dbnmvy2it5k5l0y/images.jpeg?dl=1" group-title="Inne2",RedTraffic - Lesbian
+http://live.redtraffic.xyz/lesbian.m3u8?fluxuslust.m3u8
+#EXTINF:-1 tvg-id="RedTraffic - MILF.sp" tvg-name="RedTraffic - MILF" tvg-logo="https://www.dropbox.com/s/dbnmvy2it5k5l0y/images.jpeg?dl=1" group-title="Inne2",RedTraffic - MILF
+http://live.redtraffic.xyz/milf.m3u8?fluxuslust.m3u8
+#EXTINF:-1 tvg-id="RedTraffic - POV.sp" tvg-name="RedTraffic - POV" tvg-logo="https://www.dropbox.com/s/dbnmvy2it5k5l0y/images.jpeg?dl=1" group-title="Inne2",RedTraffic - POV
+http://live.redtraffic.xyz/pov.m3u8?fluxuslust.m3u8
+#EXTINF:-1 tvg-id="RedTraffic - Pornstar.sp" tvg-name="RedTraffic - Pornstar" tvg-logo="https://www.dropbox.com/s/dbnmvy2it5k5l0y/images.jpeg?dl=1" group-title="Inne2",RedTraffic - Pornstar
+http://live.redtraffic.xyz/pornstar.m3u8?fluxuslust.m3u8
+#EXTINF:-1 tvg-id="RedTraffic - Russian.sp" tvg-name="RedTraffic - Russian" tvg-logo="https://www.dropbox.com/s/dbnmvy2it5k5l0y/images.jpeg?dl=1" group-title="Inne2",RedTraffic - Russian
+http://live.redtraffic.xyz/russian.m3u8?fluxuslust.m3u8
+#EXTINF:-1 tvg-id="RedTraffic - Teen.sp" tvg-name="RedTraffic - Teen" tvg-logo="https://www.dropbox.com/s/dbnmvy2it5k5l0y/images.jpeg?dl=1" group-title="Inne2",RedTraffic - Teen
+http://live.redtraffic.xyz/teen.m3u8?fluxuslust.m3u8
+#EXTINF:-1 tvg-id="AST TV 1.sp" tvg-name="AST TV 1" tvg-logo="https://www.dropbox.com/s/dbnmvy2it5k5l0y/images.jpeg?dl=1" group-title="Inne2",AST TV 1
+https://www.ast.tv/stream/1/ultra.m3u8
+#EXTINF:-1 tvg-id="AST TV 2.sp" tvg-name="AST TV 2" tvg-logo="https://www.dropbox.com/s/dbnmvy2it5k5l0y/images.jpeg?dl=1" group-title="Inne2",AST TV 2
+https://www.ast.tv/stream/2/ultra.m3u8
