@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="TVN24.pl" tvg-name="TVN 24 FHD PL" tvg-logo="https://picon-13398.kxcdn.com/tvn24hd.jpg" group-title="Info",TVN 24 FHD PL
 http://clientportal.link:80/PilleMartin12/hN6nRI728/15180
+#EXTINF:-1 tvg-id="TVN24.pl" tvg-name="TVN 24 BiS HD PL" tvg-logo="https://picon-13398.kxcdn.com/tvn24bis.jpg" group-title="Doku",TVN 24 BiS HD PL
+http://clientportal.link:80/PilleMartin12/hN6nRI728/19152
 #EXTINF:-1 tvg-id="CanalPlusPremim.pl" tvg-name="Canal+ Premium" tvg-logo="https://picon-13398.kxcdn.com/canalplus1hd.jpg" group-title="Film",Canal+ Premium
 http://clientportal.link:80/PilleMartin12/hN6nRI728/13530
 #EXTINF:-1 tvg-id="CanalPlus1.pl" tvg-name="Canal+ 1 FHD PL" tvg-logo="https://picon-13398.kxcdn.com/canalplus1hd.jpg" group-title="Film",Canal+ 1 FHD PL
@@ -234,7 +236,7 @@ http://clientportal.link:80/PilleMartin12/hN6nRI728/11178
 http://clientportal.link:80/PilleMartin12/hN6nRI728/19082
 #EXTINF:-1 tvg-id="TVPInfo.pl" tvg-name="TVP Info FHD PL" tvg-logo="https://picon-13398.kxcdn.com/tvpinfohdpl.jpg" group-title="Info",TVP Info FHD PL
 http://clientportal.link:80/PilleMartin12/hN6nRI728/15078
-#EXTINF:-1 tvg-id="TVN7.pl" tvg-name="TVN 7 HD PL" tvg-logo="https://picon-13398.kxcdn.com/tvn7hd.jpg" group-title="Inne",TVN 7 HD PL
+#EXTINF:-1 tvg-id="7.pl" tvg-name="TVN 7 HD PL" tvg-logo="https://picon-13398.kxcdn.com/tvn7hd.jpg" group-title="Inne",TVN 7 HD PL
 http://clientportal.link:80/PilleMartin12/hN6nRI728/15179
 #EXTINF:-1 tvg-id="TVNFabula.pl" tvg-name="TVN Fabuła FHD PL" tvg-logo="https://picon-13398.kxcdn.com/tvnfabula.jpg" group-title="Film",TVN Fabuła FHD PL
 http://clientportal.link:80/PilleMartin12/hN6nRI728/15178
@@ -246,8 +248,6 @@ http://clientportal.link:80/PilleMartin12/hN6nRI728/15176
 http://clientportal.link:80/PilleMartin12/hN6nRI728/15175
 #EXTINF:-1 tvg-id="TVNTurbo.pl" tvg-name="TVN Turbo PL" tvg-logo="https://picon-13398.kxcdn.com/tvnturbo.jpg" group-title="Inne",TVN Turbo PL
 http://clientportal.link:80/PilleMartin12/hN6nRI728/19085
-#EXTINF:-1 tvg-id="TVN24.pl" tvg-name="TVN 24 BiS HD PL" tvg-logo="https://picon-13398.kxcdn.com/tvn24bis.jpg" group-title="Doku",TVN 24 BiS HD PL
-http://clientportal.link:80/PilleMartin12/hN6nRI728/19152
 #EXTINF:-1 tvg-id="TVN.pl" tvg-name="TVN PL" tvg-logo="https://picon-13398.kxcdn.com/tvn.jpg" group-title="Inne",TVN PL
 http://clientportal.link:80/PilleMartin12/hN6nRI728/19087
 #EXTINF:-1 tvg-id="TVP1.pl" tvg-name="TVP 1 FHD PL" tvg-logo="https://picon-13398.kxcdn.com/tvp1hd.jpg" group-title="Inne",TVP 1 FHD PL
