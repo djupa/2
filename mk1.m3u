@@ -7,7 +7,7 @@ http://clientportal.link:80/PilleMartin12/hN6nRI728/19152
 http://clientportal.link:80/PilleMartin12/hN6nRI728/73733
 #EXTINF:-1 tvg-id="NULL" tvg-name="Wydarzenia 24 FHD PL" tvg-logo="https://picon-13398.kxcdn.com/wydarzenia24pl.jpg" group-title="Info",Wydarzenia 24
 http://clientportal.link:80/PilleMartin12/hN6nRI728/72668
-#EXTINF:-1,Canal + Premium FHD PL group-title="Sport",Canal+ Premium
+#EXTINF:-1 tvg-id="CanalPlusPremim.pl" tvg-name="Canal+ Premium" tvg-logo="https://picon-13398.kxcdn.com/canalplus1hd.jpg" group-title="Film",Canal+ Premium
 http://clientportal.link:80/PilleMartin12/hN6nRI728/13530
 #EXTINF:-1 tvg-id="CanalPlusSport.pl" tvg-name="Canal+ Sport FHD PL" tvg-logo="https://picon-13398.kxcdn.com/canalplussport.jpg" group-title="Sport",Canal+ Sport FHD PL
 http://clientportal.link:80/PilleMartin12/hN6nRI728/13535
