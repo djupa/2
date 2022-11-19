@@ -81,6 +81,16 @@ http://clientportal.link:80/PilleMartin12/hN6nRI728/15092
 http://clientportal.link:80/PilleMartin12/hN6nRI728/15710
 #EXTINF:-1 tvg-id="Cinemax2.pl" tvg-name="Cinemax 2 HD PL" tvg-logo="https://picon-13398.kxcdn.com/cinemax2hd.jpg" group-title="Film",Cinemax 2 HD PL
 http://clientportal.link:80/PilleMartin12/hN6nRI728/15099
+#EXTINF:-1,PL : FILMBOX ACTION
+http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/61878
+#EXTINF:-1,PL : FILMBOX ARTHOUSE
+http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/61879
+#EXTINF:-1,PL : FILMBOX EXTRA
+http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/61880
+#EXTINF:-1,PL : FILMBOX FAMILY
+http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/61881
+#EXTINF:-1,PL : FILMBOX PREMIUM
+http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/61882
 #EXTINF:-1 tvg-id="" tvg-name="Canal+ Dokument FHD PL" tvg-logo="https://picon-13398.kxcdn.com/canalplusdocumentpl.jpg" group-title="Doku",Canal+ Dokument FHD PL
 http://clientportal.link:80/PilleMartin12/hN6nRI728/15217
 #EXTINF:-1 tvg-id="PolsatDoku.pl" tvg-name="Polsat Doku HD PL" tvg-logo="https://picon-13398.kxcdn.com/polsatdokupl.jpg" group-title="Doku",Polsat Doku HD PL
@@ -99,14 +109,8 @@ http://clientportal.link:80/PilleMartin12/hN6nRI728/15212
 http://clientportal.link:80/PilleMartin12/hN6nRI728/11195
 #EXTINF:-1 tvg-id="DisneyChannel.pl" tvg-name="Disney Channel FHD PL" tvg-logo="https://picon-13398.kxcdn.com/disneychannelhd.jpg" group-title="Inne",Disney Channel FHD PL
 http://clientportal.link:80/PilleMartin12/hN6nRI728/11523
-#EXTINF:-1 tvg-id="FilmBoxAction.pl" tvg-name="FilmBox Action PL" tvg-logo="https://picon-13398.kxcdn.com/filmboxaction.jpg" group-title="Film",FilmBox Action PL
-http://clientportal.link:80/PilleMartin12/hN6nRI728/11508
-#EXTINF:-1 tvg-id="FilmboxFamily.pl" tvg-name="FilmBox Family PL" tvg-logo="https://picon-13398.kxcdn.com/filmboxfamily.jpg" group-title="Film",FilmBox Family PL
-http://clientportal.link:80/PilleMartin12/hN6nRI728/11509
 #EXTINF:-1 tvg-id="KinoPolska.pl" tvg-name="Kino TV HD PL" tvg-logo="https://picon-13398.kxcdn.com/kinotvpl.jpg" group-title="Film",Kino TV HD PL
 http://clientportal.link:80/PilleMartin12/hN6nRI728/11507
-#EXTINF:-1 tvg-id="FilmboxPremium.pl" tvg-name="FilmBox Premium HD PL" tvg-logo="https://picon-13398.kxcdn.com/filmboxpremium.jpg" group-title="Film",FilmBox Premium HD PL
-http://clientportal.link:80/PilleMartin12/hN6nRI728/11510
 #EXTINF:-1 tvg-id="FokusTV.pl" tvg-name="Fokus TV PL" tvg-logo="https://picon-13398.kxcdn.com/fokustv.jpg" group-title="Inne",Fokus TV PL
 http://clientportal.link:80/PilleMartin12/hN6nRI728/12821
 #EXTINF:-1 tvg-id="FoxComedy.pl" tvg-name="FOX Comedy Polska HD PL" tvg-logo="https://picon-13398.kxcdn.com/foxcomedyhd.jpg" group-title="Film",FOX Comedy Polska HD PL
@@ -233,8 +237,6 @@ http://clientportal.link:80/PilleMartin12/hN6nRI728/12820
 http://clientportal.link:80/PilleMartin12/hN6nRI728/15182
 #EXTINF:-1 tvg-id="SuperPolsat.pl" tvg-name="Super Polsat HD PL" tvg-logo="https://picon-13398.kxcdn.com/superpolsatpl.jpg" group-title="Inne",Super Polsat HD PL
 http://clientportal.link:80/PilleMartin12/hN6nRI728/11199
-#EXTINF:-1 tvg-id="FilmboxArthouse.pl" tvg-name="FilmBox Arthouse PL" tvg-logo="https://picon-13398.kxcdn.com/filmboxarthouse.jpg" group-title="Film",FilmBox Arthouse PL
-http://clientportal.link:80/PilleMartin12/hN6nRI728/16287
 #EXTINF:-1 tvg-id="Stopklatka.pl" tvg-name="Stopklatka TV PL" tvg-logo="https://picon-13398.kxcdn.com/stopklatkatv.jpg" group-title="Film",Stopklatka TV PL
 http://clientportal.link:80/PilleMartin12/hN6nRI728/16284
 #EXTINF:-1 tvg-id="TVRepublika.pl" tvg-name="TV Republika PL" tvg-logo="https://picon-13398.kxcdn.com/tvrepublika.jpg" group-title="Info",TV Republika PL
