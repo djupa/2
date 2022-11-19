@@ -81,16 +81,18 @@ http://clientportal.link:80/PilleMartin12/hN6nRI728/15092
 http://clientportal.link:80/PilleMartin12/hN6nRI728/15710
 #EXTINF:-1 tvg-id="Cinemax2.pl" tvg-name="Cinemax 2 HD PL" tvg-logo="https://picon-13398.kxcdn.com/cinemax2hd.jpg" group-title="Film",Cinemax 2 HD PL
 http://clientportal.link:80/PilleMartin12/hN6nRI728/15099
-#EXTINF:-1,PL : FILMBOX ACTION
-http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/61878
-#EXTINF:-1,PL : FILMBOX ARTHOUSE
-http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/61879
-#EXTINF:-1,PL : FILMBOX EXTRA
-http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/61880
-#EXTINF:-1,PL : FILMBOX FAMILY
-http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/61881
-#EXTINF:-1,PL : FILMBOX PREMIUM
-http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/61882
+
+#EXTINF:0 tvg-id="FilmboxAction.pl" group-title="Poland ➾ Movie",PL: FilmBox Action
+http://quality-restream.com:8080/Millenium/KGKOPW08UMAN3FR1/3232
+#EXTINF:0 tvg-id="FilmboxArthouse.pl" group-title="Poland ➾ Movie",PL: FilmBox Arthouse
+http://quality-restream.com:8080/Millenium/KGKOPW08UMAN3FR1/1707
+#EXTINF:0 tvg-id="ext" group-title="Poland ➾ Movie",PL: FilmBox Extra
+http://quality-restream.com:8080/Millenium/KGKOPW08UMAN3FR1/351
+#EXTINF:0 tvg-id="FilmboxFamily.pl" group-title="Poland ➾ Movie",PL: FilmBox Family
+http://quality-restream.com:8080/Millenium/KGKOPW08UMAN3FR1/352
+#EXTINF:0 tvg-id="FilmboxPremium.pl" group-title="Poland ➾ Movie",PL: FilmBox Premium
+http://quality-restream.com:8080/Millenium/KGKOPW08UMAN3FR1/1705
+
 #EXTINF:-1 tvg-id="" tvg-name="Canal+ Dokument FHD PL" tvg-logo="https://picon-13398.kxcdn.com/canalplusdocumentpl.jpg" group-title="Doku",Canal+ Dokument FHD PL
 http://clientportal.link:80/PilleMartin12/hN6nRI728/15217
 #EXTINF:-1 tvg-id="PolsatDoku.pl" tvg-name="Polsat Doku HD PL" tvg-logo="https://picon-13398.kxcdn.com/polsatdokupl.jpg" group-title="Doku",Polsat Doku HD PL
