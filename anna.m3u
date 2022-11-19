@@ -1,9 +1,21 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="TVN24.pl" tvg-name="TVN 24 FHD PL" tvg-logo="https://picon-13398.kxcdn.com/tvn24hd.jpg" group-title="Info",TVN 24 FHD PL
 http://clientportal.link:80/PilleMartin12/hN6nRI728/15180
-#EXTINF:-1 tvg-id="TVN24.pl" tvg-name="TVN 24 BiS HD PL" tvg-logo="https://picon-13398.kxcdn.com/tvn24bis.jpg" group-title="Doku",TVN 24 BiS HD PL
+
+#EXTINF:-1 tvg-id="TVP1.pl" tvg-name="TVP 1 FHD PL" tvg-logo="https://picon-13398.kxcdn.com/tvp1hd.jpg" group-title="Inne",TVP 1 FHD PL
+http://clientportal.link:80/PilleMartin12/hN6nRI728/12810
+#EXTINF:-1 tvg-id="TVP2.pl" tvg-name="TVP 2 HD PL" tvg-logo="https://picon-13398.kxcdn.com/tvp2hd.jpg" group-title="Inne",TVP 2 HD PL
+http://clientportal.link:80/PilleMartin12/hN6nRI728/12811
+#EXTINF:-1 tvg-id="TVP3.pl" tvg-name="TVP 3 Warszawa PL" tvg-logo="https://picon-13398.kxcdn.com/tvp3.jpg" group-title="Inne",TVP 3 Warszawa PL
+http://clientportal.link:80/PilleMartin12/hN6nRI728/15077
+#EXTINF:-1 tvg-id="TVN.pl" tvg-name="TVN FHD PL" tvg-logo="https://picon-13398.kxcdn.com/tvnhd.jpg" group-title="Inne",TVN FHD PL
+http://clientportal.link:80/PilleMartin12/hN6nRI728/15177
+#EXTINF:-1 tvg-id="Polsat.pl" tvg-name="Polsat HD PL" tvg-logo="https://picon-13398.kxcdn.com/polsathd.jpg" group-title="Inne",Polsat HD PL
+http://clientportal.link:80/PilleMartin12/hN6nRI728/11696
+#EXTINF:-1 tvg-id="TVN24.pl" tvg-name="TVN 24 BiS HD PL" tvg-logo="https://picon-13398.kxcdn.com/tvn24bis.jpg" group-title="Info",TVN 24 BiS HD PL
 http://clientportal.link:80/PilleMartin12/hN6nRI728/19152
-#EXTINF:-1 tvg-id="CanalPlusPremim.pl" tvg-name="Canal+ Premium" tvg-logo="https://picon-13398.kxcdn.com/canalplus1hd.jpg" group-title="Film",Canal+ Premium
+
+#EXTINF:-1 tvg-id="PolsatPlay.pl" tvg-name="Canal + Premium FHD PL" tvg-logo="https://picon-13398.kxcdn.com/canalplushd.jpg" group-title="Inne",Canal + Premium FHD PL
 http://clientportal.link:80/PilleMartin12/hN6nRI728/13530
 #EXTINF:-1 tvg-id="CanalPlus1.pl" tvg-name="Canal+ 1 FHD PL" tvg-logo="https://picon-13398.kxcdn.com/canalplus1hd.jpg" group-title="Film",Canal+ 1 FHD PL
 http://clientportal.link:80/PilleMartin12/hN6nRI728/15204
@@ -17,14 +29,26 @@ http://clientportal.link:80/PilleMartin12/hN6nRI728/15215
 http://clientportal.link:80/PilleMartin12/hN6nRI728/15214
 #EXTINF:-1 tvg-id="" tvg-name="Canal+ Now FHD PL" tvg-logo="https://picon-13398.kxcdn.com/canalplusnowpl.jpg" group-title="Film",Canal+ Now FHD PL
 http://clientportal.link:80/PilleMartin12/hN6nRI728/29051
+
+#EXTINF:0 tvg-id="ext" group-title="Film",PL: VOD 202
+http://quality-restream.com:8080/Millenium/KGKOPW08UMAN3FR1/2728
+#EXTINF:0 tvg-id="ext" group-title="Film",PL: VOD 203
+http://quality-restream.com:8080/Millenium/KGKOPW08UMAN3FR1/296473
+#EXTINF:0 tvg-id="ext" group-title="Film",PL: VOD 205
+http://quality-restream.com:8080/Millenium/KGKOPW08UMAN3FR1/296475
+#EXTINF:0 tvg-id="ext" group-title="Film",PL: VOD 206
+http://quality-restream.com:8080/Millenium/KGKOPW08UMAN3FR1/296476
+#EXTINF:0 tvg-id="ext" group-title="Film",PL: VOD 207
+http://quality-restream.com:8080/Millenium/KGKOPW08UMAN3FR1/296477
+#EXTINF:0 tvg-id="ext" group-title="Film",PL: VOD 208
+http://quality-restream.com:8080/Millenium/KGKOPW08UMAN3FR1/122177
+
 #EXTINF:-1 tvg-id="WPTelewizja.pl" tvg-name="WP Telewizja PL" tvg-logo="https://picon-13398.kxcdn.com/wptvpl.jpg" group-title="Inne",WP Telewizja PL
 http://clientportal.link:80/PilleMartin12/hN6nRI728/11517
 #EXTINF:-1 tvg-id="CBSEuropa.pl" tvg-name="CBS Europa FHD PL" tvg-logo="https://picon-13398.kxcdn.com/cbseuropa.jpg" group-title="Inne",CBS Europa FHD PL
 http://clientportal.link:80/PilleMartin12/hN6nRI728/15202
 #EXTINF:-1 tvg-id="CBSReality.pl" tvg-name="CBS Reality PL" tvg-logo="https://picon-13398.kxcdn.com/cbsreality.jpg" group-title="Inne",CBS Reality PL
 http://clientportal.link:80/PilleMartin12/hN6nRI728/11518
-#EXTINF:-1 tvg-id="PolsatPlay.pl" tvg-name="Canal + Premium FHD PL" tvg-logo="https://picon-13398.kxcdn.com/canalplushd.jpg" group-title="Inne",Canal + Premium FHD PL
-http://clientportal.link:80/PilleMartin12/hN6nRI728/13530
 #EXTINF:-1 tvg-id="CanalPlusSport.pl" tvg-name="Canal+ Sport FHD PL" tvg-logo="https://picon-13398.kxcdn.com/canalplussport.jpg" group-title="Sport",Canal+ Sport FHD PL
 http://clientportal.link:80/PilleMartin12/hN6nRI728/13535
 #EXTINF:-1 tvg-id="13Ulica.pl" tvg-name="Canal+ Sport 2 FHD PL" tvg-logo="https://picon-13398.kxcdn.com/canalplussport2hd.jpg" group-title="Film2",Canal+ Sport 2 FHD PL
@@ -98,18 +122,11 @@ http://clientportal.link:80/PilleMartin12/hN6nRI728/15096
 http://clientportal.link:80/PilleMartin12/hN6nRI728/15195
 #EXTINF:-1 tvg-id="ExtremeSports.pl" tvg-name="Extreme Sports FHD PL" tvg-logo="https://picon-13398.kxcdn.com/extremesportshd.jpg" group-title="Sport",Extreme Sports FHD PL
 http://clientportal.link:80/PilleMartin12/hN6nRI728/15194
-#EXTINF:-1 tvg-id="FightBox.pl" tvg-name="FightBox HD PL" tvg-logo="https://picon-13398.kxcdn.com/fightboxhd.jpg" group-title="Sport",FightBox HD PL
-http://clientportal.link:80/PilleMartin12/hN6nRI728/15095
 #EXTINF:-1 tvg-id="FightKlub.pl" tvg-name="Fight Klub FHD PL" tvg-logo="https://picon-13398.kxcdn.com/fightklubhdpl.jpg" group-title="Sport",Fight Klub FHD PL
 http://clientportal.link:80/PilleMartin12/hN6nRI728/15193
-#EXTINF:-1 tvg-id="FilmBoxAction.pl" tvg-name="FilmBox Action PL" tvg-logo="https://picon-13398.kxcdn.com/filmboxaction.jpg" group-title="Film2",FilmBox Action PL
-http://clientportal.link:80/PilleMartin12/hN6nRI728/11508
-#EXTINF:-1 tvg-id="FilmboxFamily.pl" tvg-name="FilmBox Family PL" tvg-logo="https://picon-13398.kxcdn.com/filmboxfamily.jpg" group-title="Film2",FilmBox Family PL
-http://clientportal.link:80/PilleMartin12/hN6nRI728/11509
+
 #EXTINF:-1 tvg-id="KinoPolska.pl" tvg-name="Kino TV HD PL" tvg-logo="https://picon-13398.kxcdn.com/kinotvpl.jpg" group-title="Film2",Kino TV HD PL
 http://clientportal.link:80/PilleMartin12/hN6nRI728/11507
-#EXTINF:-1 tvg-id="FilmboxPremium.pl" tvg-name="FilmBox Premium HD PL" tvg-logo="https://picon-13398.kxcdn.com/filmboxpremium.jpg" group-title="Film2",FilmBox Premium HD PL
-http://clientportal.link:80/PilleMartin12/hN6nRI728/11510
 #EXTINF:-1 tvg-id="FokusTV.pl" tvg-name="Fokus TV PL" tvg-logo="https://picon-13398.kxcdn.com/fokustv.jpg" group-title="Inne",Fokus TV PL
 http://clientportal.link:80/PilleMartin12/hN6nRI728/12821
 #EXTINF:-1 tvg-id="FoxComedy.pl" tvg-name="FOX Comedy Polska HD PL" tvg-logo="https://picon-13398.kxcdn.com/foxcomedyhd.jpg" group-title="Inne",FOX Comedy Polska HD PL
@@ -176,8 +193,6 @@ http://clientportal.link:80/PilleMartin12/hN6nRI728/12817
 http://clientportal.link:80/PilleMartin12/hN6nRI728/11198
 #EXTINF:-1 tvg-id="PolsatFilm.pl" tvg-name="Polsat Film FHD PL" tvg-logo="https://picon-13398.kxcdn.com/polsatfilmhd.jpg" group-title="Film2",Polsat Film FHD PL
 http://clientportal.link:80/PilleMartin12/hN6nRI728/15086
-#EXTINF:-1 tvg-id="Polsat.pl" tvg-name="Polsat HD PL" tvg-logo="https://picon-13398.kxcdn.com/polsathd.jpg" group-title="Inne",Polsat HD PL
-http://clientportal.link:80/PilleMartin12/hN6nRI728/11696
 #EXTINF:-1 tvg-id="PolsatNews2.pl" tvg-name="Polsat News 2 PL" tvg-logo="https://picon-13398.kxcdn.com/polsatnews2.jpg" group-title="Info",Polsat News 2 PL
 http://clientportal.link:80/PilleMartin12/hN6nRI728/11181
 #EXTINF:-1 tvg-id="PolsatNews.pl" tvg-name="Polsat News HD PL" tvg-logo="https://picon-13398.kxcdn.com/polsatnewshd.jpg" group-title="Info",Polsat News HD PL
@@ -236,12 +251,10 @@ http://clientportal.link:80/PilleMartin12/hN6nRI728/11178
 http://clientportal.link:80/PilleMartin12/hN6nRI728/19082
 #EXTINF:-1 tvg-id="TVPInfo.pl" tvg-name="TVP Info FHD PL" tvg-logo="https://picon-13398.kxcdn.com/tvpinfohdpl.jpg" group-title="Info",TVP Info FHD PL
 http://clientportal.link:80/PilleMartin12/hN6nRI728/15078
-#EXTINF:-1 tvg-id="7.pl" tvg-name="TVN 7 HD PL" tvg-logo="https://picon-13398.kxcdn.com/tvn7hd.jpg" group-title="Inne",TVN 7 HD PL
+#EXTINF:-1 tvg-id="TVN7.pl" tvg-name="TVN 7 HD PL" tvg-logo="https://picon-13398.kxcdn.com/tvn7hd.jpg" group-title="Inne",TVN 7 HD PL
 http://clientportal.link:80/PilleMartin12/hN6nRI728/15179
 #EXTINF:-1 tvg-id="TVNFabula.pl" tvg-name="TVN Fabuła FHD PL" tvg-logo="https://picon-13398.kxcdn.com/tvnfabula.jpg" group-title="Film",TVN Fabuła FHD PL
 http://clientportal.link:80/PilleMartin12/hN6nRI728/15178
-#EXTINF:-1 tvg-id="TVN.pl" tvg-name="TVN FHD PL" tvg-logo="https://picon-13398.kxcdn.com/tvnhd.jpg" group-title="Inne",TVN FHD PL
-http://clientportal.link:80/PilleMartin12/hN6nRI728/15177
 #EXTINF:-1 tvg-id="TVNStyle.pl" tvg-name="TVN Style FHD PL" tvg-logo="https://picon-13398.kxcdn.com/tvnstylehd.jpg" group-title="Inne",TVN Style FHD PL
 http://clientportal.link:80/PilleMartin12/hN6nRI728/15176
 #EXTINF:-1 tvg-id="TVNTurbo.pl" tvg-name="TVN Turbo FHD PL" tvg-logo="https://picon-13398.kxcdn.com/tvnturbohd.jpg" group-title="Inne",TVN Turbo FHD PL
@@ -250,12 +263,6 @@ http://clientportal.link:80/PilleMartin12/hN6nRI728/15175
 http://clientportal.link:80/PilleMartin12/hN6nRI728/19085
 #EXTINF:-1 tvg-id="TVN.pl" tvg-name="TVN PL" tvg-logo="https://picon-13398.kxcdn.com/tvn.jpg" group-title="Inne",TVN PL
 http://clientportal.link:80/PilleMartin12/hN6nRI728/19087
-#EXTINF:-1 tvg-id="TVP1.pl" tvg-name="TVP 1 FHD PL" tvg-logo="https://picon-13398.kxcdn.com/tvp1hd.jpg" group-title="Inne",TVP 1 FHD PL
-http://clientportal.link:80/PilleMartin12/hN6nRI728/12810
-#EXTINF:-1 tvg-id="TVP2.pl" tvg-name="TVP 2 HD PL" tvg-logo="https://picon-13398.kxcdn.com/tvp2hd.jpg" group-title="Inne",TVP 2 HD PL
-http://clientportal.link:80/PilleMartin12/hN6nRI728/12811
-#EXTINF:-1 tvg-id="TVP3.pl" tvg-name="TVP 3 Warszawa PL" tvg-logo="https://picon-13398.kxcdn.com/tvp3.jpg" group-title="Inne",TVP 3 Warszawa PL
-http://clientportal.link:80/PilleMartin12/hN6nRI728/15077
 #EXTINF:-1 tvg-id="TVPABC.pl" tvg-name="TVP ABC PL" tvg-logo="https://picon-13398.kxcdn.com/tvpabc.jpg" group-title="Inne2",TVP ABC PL
 http://clientportal.link:80/PilleMartin12/hN6nRI728/15076
 #EXTINF:-1 tvg-id="TVPHistoria.pl" tvg-name="TVP Historia PL" tvg-logo="https://picon-13398.kxcdn.com/tvphistoria.jpg" group-title="Doku",TVP Historia PL
@@ -286,20 +293,13 @@ http://clientportal.link:80/PilleMartin12/hN6nRI728/16291
 http://clientportal.link:80/PilleMartin12/hN6nRI728/16290
 #EXTINF:-1 tvg-id="4funTV.pl" tvg-name="4 Fun TV PL" tvg-logo="https://picon-13398.kxcdn.com/4funtv.jpg" group-title="Music",4 Fun TV PL
 http://clientportal.link:80/PilleMartin12/hN6nRI728/16289
-#EXTINF:-1 tvg-id="FilmboxArthouse.pl" tvg-name="FilmBox Arthouse PL" tvg-logo="https://picon-13398.kxcdn.com/filmboxarthouse.jpg" group-title="Film2",FilmBox Arthouse PL
-http://clientportal.link:80/PilleMartin12/hN6nRI728/16287
+
 #EXTINF:-1 tvg-id="Stopklatka.pl" tvg-name="Stopklatka TV PL" tvg-logo="https://picon-13398.kxcdn.com/stopklatkatv.jpg" group-title="Film2",Stopklatka TV PL
 http://clientportal.link:80/PilleMartin12/hN6nRI728/16284
 #EXTINF:-1 tvg-id="TVRepublika.pl" tvg-name="TV Republika PL" tvg-logo="https://picon-13398.kxcdn.com/tvrepublika.jpg" group-title="Info",TV Republika PL
 http://clientportal.link:80/PilleMartin12/hN6nRI728/16283
 #EXTINF:-1 tvg-id="TVPRozrywka.pl" tvg-name="TVP Rozrywka PL" tvg-logo="https://picon-13398.kxcdn.com/tvprozrywka.jpg" group-title="Inne2",TVP Rozrywka PL
 http://clientportal.link:80/PilleMartin12/hN6nRI728/16282
-#EXTINF:-1 tvg-id="" tvg-name="VOD 205 PL" tvg-logo="https://picon-13398.kxcdn.com/vod150.jpg" group-title="Film2",VOD 205 PL
-http://clientportal.link:80/PilleMartin12/hN6nRI728/16279
-#EXTINF:-1 tvg-id="" tvg-name="VOD 206 PL" tvg-logo="https://picon-13398.kxcdn.com/vod150.jpg" group-title="Film2",VOD 206 PL
-http://clientportal.link:80/PilleMartin12/hN6nRI728/16278
-#EXTINF:-1 tvg-id="" tvg-name="VOD 207 PL" tvg-logo="https://picon-13398.kxcdn.com/vod150.jpg" group-title="Film2",VOD 207 PL
-http://clientportal.link:80/PilleMartin12/hN6nRI728/16277
 #EXTINF:-1 tvg-id="" tvg-name="Zoom TV PL" tvg-logo="https://picon-13398.kxcdn.com/zoomtv.jpg" group-title="Inne2",Zoom TV PL
 http://clientportal.link:80/PilleMartin12/hN6nRI728/16271
 #EXTINF:-1 tvg-id="SportKlub.pl" tvg-name="Sport Klub Polska HD PL" tvg-logo="https://picon-13398.kxcdn.com/sportklub.jpg" group-title="Sport",Sport Klub Polska HD PL
@@ -340,8 +340,6 @@ http://clientportal.link:80/PilleMartin12/hN6nRI728/22762
 http://clientportal.link:80/PilleMartin12/hN6nRI728/22303
 #EXTINF:-1 tvg-id="" tvg-name="Eska TV Extra PL" tvg-logo="https://picon-13398.kxcdn.com/eskatvextrapl.jpg" group-title="Music",Eska TV Extra PL
 http://clientportal.link:80/PilleMartin12/hN6nRI728/11182
-#EXTINF:-1 tvg-id="" tvg-name="VOD 208 PL" tvg-logo="https://picon-13398.kxcdn.com/vod150.jpg" group-title="Film2",VOD 208 PL
-http://clientportal.link:80/PilleMartin12/hN6nRI728/23299
 #EXTINF:-1 tvg-id="BBCBrit.pl" tvg-name="BBC Brit Polska FHD PL" tvg-logo="https://picon-13398.kxcdn.com/bbcbrit.jpg" group-title="Inne2",BBC Brit Polska FHD PL
 http://clientportal.link:80/PilleMartin12/hN6nRI728/23317
 #EXTINF:-1 tvg-id="BBCLifestyle.pl" tvg-name="BBC Lifestyle Polska FHD PL" tvg-logo="https://picon-13398.kxcdn.com/bbclifestylepl.jpg" group-title="Inne2",BBC Lifestyle Polska FHD PL
@@ -354,14 +352,10 @@ http://clientportal.link:80/PilleMartin12/hN6nRI728/11197
 http://clientportal.link:80/PilleMartin12/hN6nRI728/24376
 #EXTINF:-1 tvg-id="" tvg-name="Polsat Rodzina FHD PL" tvg-logo="https://picon-13398.kxcdn.com/polsatrodzinapl.jpg" group-title="Inne2",Polsat Rodzina FHD PL
 http://clientportal.link:80/PilleMartin12/hN6nRI728/24377
-#EXTINF:-1 tvg-id="FilmboxExtra.pl" tvg-name="FilmBox Extra HD PL" tvg-logo="https://picon-13398.kxcdn.com/filmboxextrahd.jpg" group-title="Film2",FilmBox Extra HD PL
-http://clientportal.link:80/PilleMartin12/hN6nRI728/27555
 #EXTINF:-1 tvg-id="" tvg-name="Red Carpet FHD PL" tvg-logo="https://picon-13398.kxcdn.com/recarpetpl.jpg" group-title="Film2",Red Carpet FHD PL
 http://clientportal.link:80/PilleMartin12/hN6nRI728/27543
 #EXTINF:-1 tvg-id="" tvg-name="Sundance TV FHD PL" tvg-logo="https://picon-13398.kxcdn.com/sundancetv.jpg" group-title="Music",Sundance TV FHD PL
 http://clientportal.link:80/PilleMartin12/hN6nRI728/20422
-#EXTINF:-1 tvg-id="" tvg-name="Golf Channel HD PL" tvg-logo="https://picon-13398.kxcdn.com/golfchannel.jpg" group-title="Sport",Golf Channel HD PL
-http://clientportal.link:80/PilleMartin12/hN6nRI728/27541
 #EXTINF:-1 tvg-id="NutaTV.pl" tvg-name="Nuta TV PL" tvg-logo="https://picon-13398.kxcdn.com/nutatvpl.jpg" group-title="Music",Nuta TV PL
 http://clientportal.link:80/PilleMartin12/hN6nRI728/27540
 #EXTINF:-1 tvg-id="" tvg-name="Canal+ Sport 3 FHD PL" tvg-logo="https://picon-13398.kxcdn.com/canalplussport3pl.jpg" group-title="Sport",Canal+ Sport 3 FHD PL
