@@ -30,31 +30,7 @@ http://clientportal.link:80/PilleMartin12/hN6nRI728/15214
 #EXTINF:-1 tvg-id="" tvg-name="Canal+ Now FHD PL" tvg-logo="https://picon-13398.kxcdn.com/canalplusnowpl.jpg" group-title="Film",Canal+ Now FHD PL
 http://clientportal.link:80/PilleMartin12/hN6nRI728/29051
 
-#EXTINF:0 tvg-id="ext" group-title="Film",PL: VOD 202
-http://quality-restream.com:8080/Millenium/KGKOPW08UMAN3FR1/2728
-#EXTINF:0 tvg-id="ext" group-title="Film",PL: VOD 203
-http://quality-restream.com:8080/Millenium/KGKOPW08UMAN3FR1/296473
-#EXTINF:0 tvg-id="ext" group-title="Film",PL: VOD 205
-http://quality-restream.com:8080/Millenium/KGKOPW08UMAN3FR1/296475
-#EXTINF:0 tvg-id="ext" group-title="Film",PL: VOD 206
-http://quality-restream.com:8080/Millenium/KGKOPW08UMAN3FR1/296476
-#EXTINF:0 tvg-id="ext" group-title="Film",PL: VOD 207
-http://quality-restream.com:8080/Millenium/KGKOPW08UMAN3FR1/296477
-#EXTINF:0 tvg-id="ext" group-title="Film",PL: VOD 208
-http://quality-restream.com:8080/Millenium/KGKOPW08UMAN3FR1/122177
 
-#EXTINF:-1 tvg-id="WPTelewizja.pl" tvg-name="WP Telewizja PL" tvg-logo="https://picon-13398.kxcdn.com/wptvpl.jpg" group-title="Inne",WP Telewizja PL
-http://clientportal.link:80/PilleMartin12/hN6nRI728/11517
-#EXTINF:-1 tvg-id="CBSEuropa.pl" tvg-name="CBS Europa FHD PL" tvg-logo="https://picon-13398.kxcdn.com/cbseuropa.jpg" group-title="Inne",CBS Europa FHD PL
-http://clientportal.link:80/PilleMartin12/hN6nRI728/15202
-#EXTINF:-1 tvg-id="CBSReality.pl" tvg-name="CBS Reality PL" tvg-logo="https://picon-13398.kxcdn.com/cbsreality.jpg" group-title="Inne",CBS Reality PL
-http://clientportal.link:80/PilleMartin12/hN6nRI728/11518
-#EXTINF:-1 tvg-id="CanalPlusSport.pl" tvg-name="Canal+ Sport FHD PL" tvg-logo="https://picon-13398.kxcdn.com/canalplussport.jpg" group-title="Sport",Canal+ Sport FHD PL
-http://clientportal.link:80/PilleMartin12/hN6nRI728/13535
-#EXTINF:-1 tvg-id="13Ulica.pl" tvg-name="Canal+ Sport 2 FHD PL" tvg-logo="https://picon-13398.kxcdn.com/canalplussport2hd.jpg" group-title="Film2",Canal+ Sport 2 FHD PL
-http://clientportal.link:80/PilleMartin12/hN6nRI728/15709
-#EXTINF:-1 tvg-id="CartoonNetwork.pl" tvg-name="Cartoon Network FHD PL" tvg-logo="https://picon-13398.kxcdn.com/cartoonnethd.jpg" group-title="Film2",Cartoon Network FHD PL
-http://clientportal.link:80/PilleMartin12/hN6nRI728/15203
 #EXTINF:-1 tvg-id="Cinemax.pl" tvg-name="Cinemax HD PL" tvg-logo="https://picon-13398.kxcdn.com/cinemaxhd.jpg" group-title="Film",Cinemax HD PL
 http://clientportal.link:80/PilleMartin12/hN6nRI728/15710
 #EXTINF:-1 tvg-id="Cinemax2.pl" tvg-name="Cinemax 2 HD PL" tvg-logo="https://picon-13398.kxcdn.com/cinemax2hd.jpg" group-title="Film",Cinemax 2 HD PL
@@ -293,6 +269,18 @@ http://clientportal.link:80/PilleMartin12/hN6nRI728/16291
 http://clientportal.link:80/PilleMartin12/hN6nRI728/16290
 #EXTINF:-1 tvg-id="4funTV.pl" tvg-name="4 Fun TV PL" tvg-logo="https://picon-13398.kxcdn.com/4funtv.jpg" group-title="Music",4 Fun TV PL
 http://clientportal.link:80/PilleMartin12/hN6nRI728/16289
+#EXTINF:-1 tvg-id="WPTelewizja.pl" tvg-name="WP Telewizja PL" tvg-logo="https://picon-13398.kxcdn.com/wptvpl.jpg" group-title="Inne",WP Telewizja PL
+http://clientportal.link:80/PilleMartin12/hN6nRI728/11517
+#EXTINF:-1 tvg-id="CBSEuropa.pl" tvg-name="CBS Europa FHD PL" tvg-logo="https://picon-13398.kxcdn.com/cbseuropa.jpg" group-title="Inne",CBS Europa FHD PL
+http://clientportal.link:80/PilleMartin12/hN6nRI728/15202
+#EXTINF:-1 tvg-id="CBSReality.pl" tvg-name="CBS Reality PL" tvg-logo="https://picon-13398.kxcdn.com/cbsreality.jpg" group-title="Inne",CBS Reality PL
+http://clientportal.link:80/PilleMartin12/hN6nRI728/11518
+#EXTINF:-1 tvg-id="CanalPlusSport.pl" tvg-name="Canal+ Sport FHD PL" tvg-logo="https://picon-13398.kxcdn.com/canalplussport.jpg" group-title="Sport",Canal+ Sport FHD PL
+http://clientportal.link:80/PilleMartin12/hN6nRI728/13535
+#EXTINF:-1 tvg-id="13Ulica.pl" tvg-name="Canal+ Sport 2 FHD PL" tvg-logo="https://picon-13398.kxcdn.com/canalplussport2hd.jpg" group-title="Film2",Canal+ Sport 2 FHD PL
+http://clientportal.link:80/PilleMartin12/hN6nRI728/15709
+#EXTINF:-1 tvg-id="CartoonNetwork.pl" tvg-name="Cartoon Network FHD PL" tvg-logo="https://picon-13398.kxcdn.com/cartoonnethd.jpg" group-title="Film2",Cartoon Network FHD PL
+http://clientportal.link:80/PilleMartin12/hN6nRI728/15203
 
 #EXTINF:-1 tvg-id="Stopklatka.pl" tvg-name="Stopklatka TV PL" tvg-logo="https://picon-13398.kxcdn.com/stopklatkatv.jpg" group-title="Film2",Stopklatka TV PL
 http://clientportal.link:80/PilleMartin12/hN6nRI728/16284
@@ -378,3 +366,121 @@ http://clientportal.link:80/PilleMartin12/hN6nRI728/72669
 http://clientportal.link:80/PilleMartin12/hN6nRI728/73733
 #EXTINF:-1 tvg-id="" tvg-name="StudioMed TV FHD PL" tvg-logo="https://picon-13398.kxcdn.com/studiomedtvpl.jpg" group-title="Inne2",StudioMed TV FHD PL
 http://clientportal.link:80/PilleMartin12/hN6nRI728/88258
+
+#EXTINF:-1 tvg-id="" tvg-name=" TVP 1 FHD" tvg-logo="" group-title="Rezerw1", TVP 1 FHD
+http://pakiptv.top:8880/Hanif100cnx/GF44ZnWwDq/119334
+#EXTINF:-1 tvg-id="" tvg-name=" TVP 2 FHD" tvg-logo="" group-title="Rezerw1", TVP 2 FHD
+http://pakiptv.top:8880/Hanif100cnx/GF44ZnWwDq/119335
+#EXTINF:-1 tvg-id="" tvg-name=" TVP 3" tvg-logo="" group-title="Rezerw1", TVP 3
+http://pakiptv.top:8880/Hanif100cnx/GF44ZnWwDq/119336
+#EXTINF:-1 tvg-id="" tvg-name=" TVN FHD" tvg-logo="" group-title="Rezerw1", TVN FHD
+http://pakiptv.top:8880/Hanif100cnx/GF44ZnWwDq/119353
+#EXTINF:-1 tvg-id="" tvg-name=" TVN 7 FHD" tvg-logo="" group-title="Rezerw1", TVN 7 FHD
+http://pakiptv.top:8880/Hanif100cnx/GF44ZnWwDq/119354
+#EXTINF:-1 tvg-id="" tvg-name=" Polsat FHD" tvg-logo="" group-title="Rezerw1", Polsat FHD
+http://pakiptv.top:8880/Hanif100cnx/GF44ZnWwDq/119356
+#EXTINF:-1 tvg-id="" tvg-name=" TVN 24 FHD" tvg-logo="" group-title="Rezerw1", TVN 24 FHD
+http://pakiptv.top:8880/Hanif100cnx/GF44ZnWwDq/119365
+#EXTINF:-1 tvg-id="" tvg-name=" TVN 24 Bis" tvg-logo="" group-title="Rezerw1", TVN 24 Bis
+http://pakiptv.top:8880/Hanif100cnx/GF44ZnWwDq/119366
+
+#EXTINF:-1 tvg-id="" tvg-name=" Canal+ FHD" tvg-logo="" group-title="Rezerw1", Canal+ FHD
+http://pakiptv.top:8880/Hanif100cnx/GF44ZnWwDq/119371
+#EXTINF:-1 tvg-id="" tvg-name=" Canal 1 FHD" tvg-logo="" group-title="Rezerw1", Canal 1 FHD
+http://pakiptv.top:8880/Hanif100cnx/GF44ZnWwDq/119377
+#EXTINF:-1 tvg-id="" tvg-name=" Canal+ Family FHD" tvg-logo="" group-title="Rezerw1", Canal+ Family FHD
+http://pakiptv.top:8880/Hanif100cnx/GF44ZnWwDq/119463
+#EXTINF:-1 tvg-id="" tvg-name=" Canal+ Film FHD" tvg-logo="" group-title="Rezerw1", Canal+ Film FHD
+http://pakiptv.top:8880/Hanif100cnx/GF44ZnWwDq/119464
+#EXTINF:-1 tvg-id="" tvg-name=" Canal+ Seriale FHD" tvg-logo="" group-title="Rezerw1", Canal+ Seriale FHD
+http://pakiptv.top:8880/Hanif100cnx/GF44ZnWwDq/119465
+#EXTINF:-1 tvg-id="" tvg-name=" HBO FHD" tvg-logo="" group-title="Rezerw1", HBO FHD
+http://pakiptv.top:8880/Hanif100cnx/GF44ZnWwDq/119466
+#EXTINF:-1 tvg-id="" tvg-name=" HBO 2 FHD" tvg-logo="" group-title="Rezerw1", HBO 2 FHD
+http://pakiptv.top:8880/Hanif100cnx/GF44ZnWwDq/119467
+#EXTINF:-1 tvg-id="" tvg-name="PL: HBO 2 HD" tvg-logo="" group-title="Rezerw1",PL: HBO 2 HD
+http://pakiptv.top:8880/Hanif100cnx/GF44ZnWwDq/10706
+#EXTINF:-1 tvg-id="" tvg-name=" HBO 3 FHD" tvg-logo="" group-title="Rezerw1", HBO 3 FHD
+http://pakiptv.top:8880/Hanif100cnx/GF44ZnWwDq/119468
+#EXTINF:-1 tvg-id="" tvg-name=" Filmbox Premium FHD" tvg-logo="" group-title="Rezerw1", Filmbox Premium FHD
+http://pakiptv.top:8880/Hanif100cnx/GF44ZnWwDq/119480
+#EXTINF:-1 tvg-id="" tvg-name=" Ale Kino FHD" tvg-logo="" group-title="Rezerw1", Ale Kino FHD
+http://pakiptv.top:8880/Hanif100cnx/GF44ZnWwDq/119469
+#EXTINF:-1 tvg-id="" tvg-name=" Cinemax FHD" tvg-logo="" group-title="Rezerw1", Cinemax FHD
+http://pakiptv.top:8880/Hanif100cnx/GF44ZnWwDq/119470
+#EXTINF:-1 tvg-id="" tvg-name=" Cinemax 2 FHD" tvg-logo="" group-title="Rezerw1", Cinemax 2 FHD
+http://pakiptv.top:8880/Hanif100cnx/GF44ZnWwDq/119471
+#EXTINF:-1 tvg-id="" tvg-name=" Polsat Film FHD" tvg-logo="" group-title="Rezerw1", Polsat Film FHD
+http://pakiptv.top:8880/Hanif100cnx/GF44ZnWwDq/119472
+#EXTINF:-1 tvg-id="" tvg-name=" Kino Polska" tvg-logo="" group-title="Rezerw1", Kino Polska
+http://pakiptv.top:8880/Hanif100cnx/GF44ZnWwDq/119476
+#EXTINF:-1 tvg-id="" tvg-name="PL-COMEDY CENTRAL POLSKA" tvg-logo="" group-title="Rezerw1",PL-COMEDY CENTRAL POLSKA
+http://pakiptv.top:8880/Hanif100cnx/GF44ZnWwDq/54855
+
+#EXTINF:-1 tvg-id="" tvg-name=" CANAL+ DOKUMENT FHD" tvg-logo="" group-title="Rezerw1", CANAL+ DOKUMENT FHD
+http://pakiptv.top:8880/Hanif100cnx/GF44ZnWwDq/119453
+#EXTINF:-1 tvg-id="" tvg-name=" Discovery FHD" tvg-logo="" group-title="Rezerw1", Discovery FHD
+http://pakiptv.top:8880/Hanif100cnx/GF44ZnWwDq/119425
+#EXTINF:-1 tvg-id="" tvg-name=" Discovery Science FHD" tvg-logo="" group-title="Rezerw1", Discovery Science FHD
+http://pakiptv.top:8880/Hanif100cnx/GF44ZnWwDq/119430
+#EXTINF:-1 tvg-id="" tvg-name=" National Geographic FHD" tvg-logo="" group-title="Rezerw1", National Geographic FHD
+http://pakiptv.top:8880/Hanif100cnx/GF44ZnWwDq/119431
+#EXTINF:-1 tvg-id="" tvg-name="PL-DISCOVERY HISTORIA" tvg-logo="" group-title="Rezerw1",PL-DISCOVERY HISTORIA
+http://pakiptv.top:8880/Hanif100cnx/GF44ZnWwDq/54864
+
+
+#EXTINF:-1 group-title="Rezerw2", TVP 1 
+http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/61947
+#EXTINF:-1 group-title="Rezerw2", TVP 2
+http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/61948
+#EXTINF:-1 group-title="Rezerw2", TVN
+http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/61942
+#EXTINF:-1 group-title="Rezerw2", TVN 24
+http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/61943
+#EXTINF:-1 group-title="Rezerw2", POLSAT
+http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/61913
+#EXTINF:-1 group-title="Rezerw2", CANAL + SERIALE
+http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/61846
+#EXTINF:-1 group-title="Rezerw2", CANAL DISCOVERY
+http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/61847
+#EXTINF:-1 group-title="Rezerw2", CANAL+
+http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/61848
+#EXTINF:-1 group-title="Rezerw2", CANAL+ DISCOVERY
+http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/61849
+#EXTINF:-1 group-title="Rezerw2", CANAL+ FAMILY
+http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/61850
+#EXTINF:-1 group-title="Rezerw2", CANAL+ FILM
+http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/61851
+#EXTINF:-1 group-title="Rezerw2", CINEMAX
+http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/61855
+#EXTINF:-1 group-title="Rezerw2", CINEMAX 2
+http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/61856
+#EXTINF:-1 group-title="Rezerw2", FILMBOX PREMIUM
+http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/61882
+#EXTINF:-1 group-title="Rezerw2", HBO
+http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/61889
+#EXTINF:-1 group-title="Rezerw2", HBO 2
+http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/61890
+#EXTINF:-1 group-title="Rezerw2", HBO 3
+http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/61891
+#EXTINF:-1 group-title="Rezerw2", TVN FABULA
+http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/61945
+#EXTINF:-1 group-title="Rezerw2", KINO POLSKA
+http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/61895
+#EXTINF:-1 group-title="Rezerw2", KINO TV
+http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/61897
+
+#EXTINF:-1 group-title="Rezerw2", POLSAT DOKU
+http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/61916
+#EXTINF:-1 group-title="Rezerw2", DISCOVERY
+http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/61862
+#EXTINF:-1 group-title="Rezerw2", DISCOVERY HISTORIA
+http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/61863
+#EXTINF:-1 group-title="Rezerw2", DISCOVERY SCIENCE
+http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/61864
+#EXTINF:-1 group-title="Rezerw2", NAT GEO
+http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/61904
+#EXTINF:-1 group-title="Rezerw2", NAT GEO WILD
+http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/61905
+#EXTINF:-1 group-title="Rezerw2", PLANET+ HD
+http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/61911
