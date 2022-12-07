@@ -628,7 +628,8 @@ http://pakiptv.top:8880/Hanif100cnx/GF44ZnWwDq/119431
 #EXTINF:-1 tvg-id="" tvg-name="PL-DISCOVERY HISTORIA" tvg-logo="" group-title="Rezerw1",PL-DISCOVERY HISTORIA
 http://pakiptv.top:8880/Hanif100cnx/GF44ZnWwDq/54864
 
-
+#EXTINF:0 group-title="Rezerw2",TVN 24 FHD PL
+http://b7e64053.cbilant.com/iptv/LC8RBR34PMDLY8/7288/index.m3u8
 #EXTINF:-1 group-title="Rezerw2", TVP 1 
 http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/61947
 #EXTINF:-1 group-title="Rezerw2", TVP 2
