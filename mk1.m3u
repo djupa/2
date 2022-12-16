@@ -1,1064 +1,900 @@
 #extm3u
-#EXTINF:-1 tvg-id="" tvg-name="TVN 24 FHD PL" tvg-logo="" group-title="POLAND CHANNELS",TVN 24 FHD PL
+#EXTINF:-1 tvg-id="TVN24.pl" tvg-name="TVN 24 PL" tvg-logo="https://picon-13398.kxcdn.com/tvn24hd.jpg" group-title="Info",TVN 24
+http://clientportal.link:80/9dDPwi420/6fURz1641/15180
+#EXTINF:-1 tvg-id="TVN24.pl" tvg-name="TVN 24 BiS HD PL" tvg-logo="https://picon-13398.kxcdn.com/tvn24bis.jpg" group-title="Info",TVN 24 BiS
+http://clientportal.link:80/9dDPwi420/6fURz1641/19152
+#EXTINF:-1 tvg-id="NULL" tvg-name="BIZNES24 HD PL" tvg-logo="https://picon-13398.kxcdn.com/biznes24pl.jpg" group-title="Info",BIZNES24
+http://clientportal.link:80/9dDPwi420/6fURz1641/73733
+#EXTINF:-1 tvg-id="NULL" tvg-name="Wydarzenia 24 FHD PL" tvg-logo="https://picon-13398.kxcdn.com/wydarzenia24pl.jpg" group-title="Info",Wydarzenia 24
+http://clientportal.link:80/9dDPwi420/6fURz1641/72668
+#EXTINF:-1 tvg-id="CanalPlusPremim.pl" tvg-name="Canal+ Premium" tvg-logo="https://picon-13398.kxcdn.com/canalplus1hd.jpg" group-title="Film",Canal+ Premium
+http://clientportal.link:80/9dDPwi420/6fURz1641/13530
+#EXTINF:-1 tvg-id="CanalPlusSport.pl" tvg-name="Canal+ Sport FHD PL" tvg-logo="https://picon-13398.kxcdn.com/canalplussport.jpg" group-title="Sport",Canal+ Sport FHD PL
+http://clientportal.link:80/9dDPwi420/6fURz1641/13535
+#EXTINF:-1 tvg-id="NULL" tvg-name="Canal+ Sport 2 FHD PL" tvg-logo="https://picon-13398.kxcdn.com/canalplussport2pl.jpg" group-title="Sport",Canal+ Sport 2 
+http://panel.tivix.eu:80/eagleiptv/SsFAljPDDi/73664
+#EXTINF:-1 tvg-id="NULL" tvg-name="Canal+ Sport 3 FHD PL" tvg-logo="https://picon-13398.kxcdn.com/canalplussport3pl.jpg" group-title="Sport",Canal+ Sport 3
+http://clientportal.link:80/9dDPwi420/6fURz1641/28019
+#EXTINF:-1 tvg-id="NULL" tvg-name="Canal+ Sport 4 FHD PL" tvg-logo="https://picon-13398.kxcdn.com/canalplus4pl.jpg" group-title="Sport",Canal+ Sport 4
+http://clientportal.link:80/9dDPwi420/6fURz1641/28020
+#EXTINF:-1 tvg-id="NULL" tvg-name=" Canal + Sport 5 FHD PL" tvg-logo="https://picon-13398.kxcdn.com/canalplussport5.jpg" group-title="Sport",Canal + Sport 5
+http://clientportal.link:80/9dDPwi420/6fURz1641/15209
+#EXTINF:-1 tvg-id="PolsatSportPremium1.pl" tvg-name="Polsat Sport Premium 1 FHD PL" tvg-logo="https://picon-13398.kxcdn.com/polsatsportpremium1pl.jpg" group-title="Sport",Polsat Sport Premium 1
+http://clientportal.link:80/9dDPwi420/6fURz1641/23369
+#EXTINF:-1 tvg-id="PolsatSportPremium2.pl" tvg-name="Polsat Sport Premium 2 FHD PL" tvg-logo="https://picon-13398.kxcdn.com/polsatsportpremium2pl.jpg" group-title="Sport",Polsat Sport Premium 2
+http://clientportal.link:80/9dDPwi420/6fURz1641/23370
+#EXTINF:-1 tvg-id="PolsatSportPremium3.pl" tvg-name="Polsat Sport Premium 3 PPV FHD PL" tvg-logo="https://picon-13398.kxcdn.com/polsatsportpremium3pl.jpg" group-title="Sport",Polsat Sport Premium 3
+http://clientportal.link:80/9dDPwi420/6fURz1641/23420
+#EXTINF:-1 tvg-id="PolsatSportPremium4.pl" tvg-name="Polsat Sport Premium 4 PPV FHD PL" tvg-logo="https://picon-13398.kxcdn.com/polsatsportpremium4pl.jpg" group-title="Sport",Polsat Sport Premium 4
+http://clientportal.link:80/9dDPwi420/6fURz1641/23421
+#EXTINF:-1 tvg-id="PolsatSportPremium5.pl" tvg-name="Polsat Sport Premium 5 PPV FHD PL" tvg-logo="https://picon-13398.kxcdn.com/polsatsportpremium5pl.jpg" group-title="Sport",Polsat Sport Premium 5
+http://clientportal.link:80/9dDPwi420/6fURz1641/23422
+#EXTINF:-1 tvg-id="PolsatSportPremium6.pl" tvg-name="Polsat Sport Premium 6 PPV FHD PL" tvg-logo="https://picon-13398.kxcdn.com/polsatsportpremium6pl.jpg" group-title="Sport",Polsat Sport Premium 6
+http://clientportal.link:80/9dDPwi420/6fURz1641/23423
+#EXTINF:-1 tvg-id="PolsatSport.pl" tvg-name="Polsat Sport HD PL" tvg-logo="https://picon-13398.kxcdn.com/polsatsporthd.jpg" group-title="Sport",Polsat Sport HD PL
+http://clientportal.link:80/9dDPwi420/6fURz1641/11200
+#EXTINF:-1 tvg-id="PolsatSportExtra.pl" tvg-name="Polsat Sport Extra HD PL" tvg-logo="https://picon-13398.kxcdn.com/polsatsportextrahd.jpg" group-title="Sport",Polsat Sport Extra HD PL
+http://clientportal.link:80/9dDPwi420/6fURz1641/11201
+#EXTINF:-1 tvg-id="PolsatSportNews.pl" tvg-name="Polsat Sport News FHD PL" tvg-logo="https://picon-13398.kxcdn.com/polsatsportnewspl.jpg" group-title="Sport",Polsat Sport News
+http://clientportal.link:80/9dDPwi420/6fURz1641/22762
+#EXTINF:-1 tvg-id="PolsatSportFight.pl" tvg-name="Polsat Sport Fight FHD PL" tvg-logo="https://picon-13398.kxcdn.com/polsatsportfighthd.jpg" group-title="Sport",Polsat Sport Fight
+http://clientportal.link:80/9dDPwi420/6fURz1641/15188
+#EXTINF:-1 tvg-id="ElevenSport1.pl" tvg-name="Eleven Sports 1 FHD PL" tvg-logo="https://picon-13398.kxcdn.com/elvensports1pl.jpg" group-title="Sport",Eleven Sports 1
+http://clientportal.link:80/9dDPwi420/6fURz1641/15198
+#EXTINF:-1 tvg-id="ElevenSport2.pl" tvg-name="Eleven Sports 2 FHD PL" tvg-logo="https://picon-13398.kxcdn.com/elvensports2pl.jpg" group-title="Sport",Eleven Sports 2
+http://clientportal.link:80/9dDPwi420/6fURz1641/15197
+#EXTINF:-1 tvg-id="ElevenSport3.pl" tvg-name="Eleven Sports 3 FHD PL" tvg-logo="https://picon-13398.kxcdn.com/elvensports3pl.jpg" group-title="Sport",Eleven Sports 3
+http://clientportal.link:80/9dDPwi420/6fURz1641/15097
+#EXTINF:-1 tvg-id="ElevenSport4.pl" tvg-name="Eleven Sports 4 FHD PL" tvg-logo="https://picon-13398.kxcdn.com/elvensports4pl.jpg" group-title="Sport",Eleven Sports 4
+http://clientportal.link:80/9dDPwi420/6fURz1641/19149
+#EXTINF:-1 tvg-id="Eurosport.pl" tvg-name="Eurosport 1 FHD PL" tvg-logo="https://picon-13398.kxcdn.com/eurosport1hd.jpg" group-title="Sport",Eurosport 1 FHD PL
+http://clientportal.link:80/9dDPwi420/6fURz1641/15096
+#EXTINF:-1 tvg-id="Eurosport2.pl" tvg-name="Eurosport 2 FHD PL" tvg-logo="https://picon-13398.kxcdn.com/eurosport2hd.jpg" group-title="Sport",Eurosport 2 FHD PL
+http://clientportal.link:80/9dDPwi420/6fURz1641/15195
+#EXTINF:-1 tvg-id="PolsatNews.pl" tvg-name="Polsat News HD PL" tvg-logo="https://picon-13398.kxcdn.com/polsatnewshd.jpg" group-title="Info",Polsat News HD PL
+http://clientportal.link:80/9dDPwi420/6fURz1641/15085
+#EXTINF:-1 tvg-id="PolsatNews2.pl" tvg-name="Polsat News 2 PL" tvg-logo="https://picon-13398.kxcdn.com/polsatnews2.jpg" group-title="Info",Polsat News 2 PL
+http://clientportal.link:80/9dDPwi420/6fURz1641/11181
+#EXTINF:-1 tvg-id="TVNTurbo.pl" tvg-name="TVN Turbo FHD PL" tvg-logo="https://picon-13398.kxcdn.com/tvnturbohd.jpg" group-title="Inne",TVN Turbo FHD PL
+http://clientportal.link:80/9dDPwi420/6fURz1641/15175
+#EXTINF:-1 tvg-id="TVNTurbo.pl" tvg-name="TVN Turbo PL" tvg-logo="https://picon-13398.kxcdn.com/tvnturbo.jpg" group-title="Inne",TVN Turbo PL
+http://clientportal.link:80/9dDPwi420/6fURz1641/19085
+
+#EXTINF:-1 tvg-id="CanalPlus1.pl" tvg-name="Canal+ 1 FHD PL" tvg-logo="https://picon-13398.kxcdn.com/canalplus1hd.jpg" group-title="Film",Canal+ 1 FHD PL
+http://clientportal.link:80/9dDPwi420/6fURz1641/15204
+#EXTINF:-1 tvg-id="CanalPlusFamily.pl" tvg-name="Canal+ Family FHD PL" tvg-logo="https://picon-13398.kxcdn.com/canalplusfamily.jpg" group-title="Film",Canal+ Family FHD PL
+http://clientportal.link:80/9dDPwi420/6fURz1641/15216
+#EXTINF:-1 tvg-id="CanalPlusFilm.pl" tvg-name="Canal+ Film FHD PL" tvg-logo="https://picon-13398.kxcdn.com/canalplusfilmhd.jpg" group-title="Film",Canal+ Film FHD PL
+http://clientportal.link:80/9dDPwi420/6fURz1641/15215
+#EXTINF:-1 tvg-id="CanalPlusSeriale.pl" tvg-name="Canal+ Seriale FHD PL" tvg-logo="https://picon-13398.kxcdn.com/canalplusserialehd.jpg" group-title="Film",Canal+ Seriale FHD PL
+http://clientportal.link:80/9dDPwi420/6fURz1641/15214
+#EXTINF:-1 tvg-id="" tvg-name="Canal+ Now FHD PL" tvg-logo="https://picon-13398.kxcdn.com/canalplusnowpl.jpg" group-title="Film",Canal+ Now FHD PL
+http://clientportal.link:80/oXfm4ck3Iz4737/cP3K1e7481/29051
+#EXTINF:-1 tvg-id="HBO.pl" tvg-name="HBO FHD PL" tvg-logo="https://picon-13398.kxcdn.com/hbo1hd.jpg" group-title="Film",HBO FHD PL
+http://clientportal.link:80/9dDPwi420/6fURz1641/13526
+#EXTINF:-1 tvg-id="" tvg-name="HBO HD" tvg-logo="http://iptvtelekom.com/newpicon/poland_logo/hbologo2.png" group-title="Film",HBO HD
+http://destiny4k.com:2086/live/cobra/eD40qZ2uro/71360.ts
+#EXTINF:-1 tvg-id="HBO2.pl" tvg-name="HBO 2 HD PL" tvg-logo="https://picon-13398.kxcdn.com/hbo2hd.jpg" group-title="Film",HBO 2 HD PL
+http://clientportal.link:80/9dDPwi420/6fURz1641/13527
+#EXTINF:-1 tvg-id="HBO3.pl" tvg-name="HBO 3 HD PL" tvg-logo="https://picon-13398.kxcdn.com/hbo3hd.jpg" group-title="Film",HBO 3 HD PL
+http://clientportal.link:80/9dDPwi420/6fURz1641/15092
+#EXTINF:-1 tvg-id="Cinemax.pl" tvg-name="Cinemax HD PL" tvg-logo="https://picon-13398.kxcdn.com/cinemaxhd.jpg" group-title="Film",Cinemax HD PL
+http://clientportal.link:80/9dDPwi420/6fURz1641/15710
+#EXTINF:-1 tvg-id="Cinemax2.pl" tvg-name="Cinemax 2 HD PL" tvg-logo="https://picon-13398.kxcdn.com/cinemax2hd.jpg" group-title="Film",Cinemax 2 HD PL
+http://clientportal.link:80/9dDPwi420/6fURz1641/15099
+
+#EXTINF:-1 tvg-id="FilmBoxAction.pl" tvg-name="FilmBox Action PL" tvg-logo="https://picon-13398.kxcdn.com/filmboxaction.jpg" group-title="Film2",FilmBox Action PL
+http://quality-restream.com:8080/Millenium/KGKOPW08UMAN3FR1/3232
+#EXTINF:-1 tvg-id="FilmboxArthouse.pl" tvg-name="FilmBox Arthouse PL" tvg-logo="https://picon-13398.kxcdn.com/filmboxarthouse.jpg" group-title="Film2",FilmBox Arthouse PL
+http://quality-restream.com:8080/Millenium/KGKOPW08UMAN3FR1/1707
+#EXTINF:-1 tvg-id="FilmboxExtra.pl" tvg-name="FilmBox Extra HD PL" tvg-logo="https://picon-13398.kxcdn.com/filmboxextrahd.jpg" group-title="Film2",FilmBox Extra HD PL
+http://quality-restream.com:8080/Millenium/KGKOPW08UMAN3FR1/351
+#EXTINF:-1 tvg-id="FilmboxFamily.pl" tvg-name="FilmBox Family PL" tvg-logo="https://picon-13398.kxcdn.com/filmboxfamily.jpg" group-title="Film2",FilmBox Family PL
+http://quality-restream.com:8080/Millenium/KGKOPW08UMAN3FR1/352
+#EXTINF:-1 tvg-id="FilmboxPremium.pl" tvg-name="FilmBox Premium HD PL" tvg-logo="https://picon-13398.kxcdn.com/filmboxpremium.jpg" group-title="Film",FilmBox Premium HD PL
+http://quality-restream.com:8080/Millenium/KGKOPW08UMAN3FR1/1705
+
+#EXTINF:-1 tvg-id="" tvg-name="Canal+ Dokument FHD PL" tvg-logo="https://picon-13398.kxcdn.com/canalplusdocumentpl.jpg" group-title="Doku",Canal+ Dokument FHD PL
+http://clientportal.link:80/9dDPwi420/6fURz1641/15217
+#EXTINF:-1 tvg-id="PolsatDoku.pl" tvg-name="Polsat Doku HD PL" tvg-logo="https://picon-13398.kxcdn.com/polsatdokupl.jpg" group-title="Doku",Polsat Doku HD PL
+http://clientportal.link:80/9dDPwi420/6fURz1641/20123
+#EXTINF:-1 tvg-id="Discovery.pl" tvg-name="Discovery Channel FHD PL" tvg-logo="https://picon-13398.kxcdn.com/discoverychannel.jpg" group-title="Doku",Discovery Channel FHD PL
+http://clientportal.link:80/9dDPwi420/6fURz1641/15213
+#EXTINF:-1 tvg-id="DiscoveryHistoria.pl" tvg-name="Discovery Historia PL" tvg-logo="https://picon-13398.kxcdn.com/discoveryhistoria.jpg" group-title="Doku",Discovery Historia PL
+http://clientportal.link:80/9dDPwi420/6fURz1641/15098
+#EXTINF:-1 tvg-id="DiscoveryLife.pl" tvg-name="Discovery Life FHD PL" tvg-logo="https://picon-13398.kxcdn.com/discoverylife.jpg" group-title="Doku",Discovery Life FHD PL
+http://clientportal.link:80/9dDPwi420/6fURz1641/11520
+#EXTINF:-1 tvg-id="DiscoveryScience.pl" tvg-name="Discovery Science FHD PL" tvg-logo="https://picon-13398.kxcdn.com/discoveryscience.jpg" group-title="Doku",Discovery Science FHD PL
+http://clientportal.link:80/9dDPwi420/6fURz1641/15201
+#EXTINF:-1 tvg-id="DiscoveryTurboXtra.pl" tvg-name="Discovery Turbo Xtra FHD PL" tvg-logo="https://picon-13398.kxcdn.com/discoveryturboxtrahd.jpg" group-title="Doku",Discovery Turbo Xtra FHD PL
+http://clientportal.link:80/9dDPwi420/6fURz1641/15212
+#EXTINF:-1 tvg-id="Metro.pl" tvg-name="Metro PL" tvg-logo="https://picon-13398.kxcdn.com/metrotv.jpg" group-title="Inne",Metro PL
+http://clientportal.link:80/9dDPwi420/6fURz1641/11195
+#EXTINF:-1 tvg-id="DisneyChannel.pl" tvg-name="Disney Channel FHD PL" tvg-logo="https://picon-13398.kxcdn.com/disneychannelhd.jpg" group-title="Inne",Disney Channel FHD PL
+http://clientportal.link:80/9dDPwi420/6fURz1641/11523
+#EXTINF:-1 tvg-id="KinoPolska.pl" tvg-name="Kino TV HD PL" tvg-logo="https://picon-13398.kxcdn.com/kinotvpl.jpg" group-title="Film",Kino TV HD PL
+http://clientportal.link:80/9dDPwi420/6fURz1641/11507
+#EXTINF:-1 tvg-id="FokusTV.pl" tvg-name="Fokus TV PL" tvg-logo="https://picon-13398.kxcdn.com/fokustv.jpg" group-title="Inne",Fokus TV PL
+http://clientportal.link:80/9dDPwi420/6fURz1641/12821
+#EXTINF:-1 tvg-id="FoxComedy.pl" tvg-name="FOX Comedy Polska HD PL" tvg-logo="https://picon-13398.kxcdn.com/foxcomedyhd.jpg" group-title="Film",FOX Comedy Polska HD PL
+http://clientportal.link:80/9dDPwi420/6fURz1641/11698
+#EXTINF:-1 tvg-id="FOX.pl" tvg-name="FOX Polska HD PL" tvg-logo="https://picon-13398.kxcdn.com/foxhd.jpg" group-title="Film",FOX Polska HD PL
+http://clientportal.link:80/9dDPwi420/6fURz1641/11697
+#EXTINF:-1 tvg-id="History2.pl" tvg-name="H2 Polska HD PL" tvg-logo="https://picon-13398.kxcdn.com/h2hd.jpg" group-title="Doku",H2 Polska HD PL
+http://clientportal.link:80/9dDPwi420/6fURz1641/15093
+#EXTINF:-1 tvg-id="KinoPolska.pl" tvg-name="Kino Polska FHD PL" tvg-logo="https://picon-13398.kxcdn.com/kinopolska.jpg" group-title="Film",Kino Polska FHD PL
+http://clientportal.link:80/9dDPwi420/6fURz1641/11192
+#EXTINF:-1 tvg-id="History.pl" tvg-name="History HD PL" tvg-logo="https://picon-13398.kxcdn.com/historyhd.jpg" group-title="Doku",History HD PL
+http://clientportal.link:80/9dDPwi420/6fURz1641/15091
+#EXTINF:-1 tvg-id="InvestigationDiscovery.pl" tvg-name="Investigation Discovery FHD PL" tvg-logo="https://picon-13398.kxcdn.com/investigationdiscoveryhd.jpg" group-title="Doku",Investigation Discovery FHD PL
+http://clientportal.link:80/9dDPwi420/6fURz1641/15211
+#EXTINF:-1 tvg-id="NatGeo.pl" tvg-name="National Geographic FHD PL" tvg-logo="https://picon-13398.kxcdn.com/nationalgeographichd.jpg" group-title="Doku",National Geographic FHD PL
+http://clientportal.link:80/9dDPwi420/6fURz1641/15087
+#EXTINF:-1 tvg-id="NatGeo.pl" tvg-name="National Geographic Polska PL" tvg-logo="https://picon-13398.kxcdn.com/natgeo.jpg" group-title="Doku",National Geographic Polska PL
+http://clientportal.link:80/9dDPwi420/6fURz1641/11515
+#EXTINF:-1 tvg-id="NatGeoPeople.pl" tvg-name="National Geographic People HD PL" tvg-logo="https://picon-13398.kxcdn.com/natgeopeoplehd.jpg" group-title="Doku",National Geographic People HD PL
+http://clientportal.link:80/9dDPwi420/6fURz1641/15191
+#EXTINF:-1 tvg-id="NatGeoWild.pl" tvg-name="National Geographic Wild HD PL" tvg-logo="https://picon-13398.kxcdn.com/natgeowildhd.jpg" group-title="Doku",National Geographic Wild HD PL
+http://clientportal.link:80/9dDPwi420/6fURz1641/15711
+#EXTINF:-1 tvg-id="NatGeoWild.pl" tvg-name="National Geographic Wild PL" tvg-logo="https://picon-13398.kxcdn.com/natgeowild.jpg" group-title="Doku",National Geographic Wild PL
+http://clientportal.link:80/9dDPwi420/6fURz1641/11516
+#EXTINF:-1 tvg-id="" tvg-name="Planete + Polska HD PL" tvg-logo="https://picon-13398.kxcdn.com/planeteplushd.jpg" group-title="Doku",Planete + Polska HD PL
+http://clientportal.link:80/9dDPwi420/6fURz1641/15208
+#EXTINF:-1 tvg-id="HGTV.pl" tvg-name="HGTV HD PL" tvg-logo="https://picon-13398.kxcdn.com/hgtv.jpg" group-title="Inne",HGTV HD PL
+http://clientportal.link:80/9dDPwi420/6fURz1641/11188
+#EXTINF:-1 tvg-id="EskaTV.pl" tvg-name="Eska TV PL" tvg-logo="https://picon-13398.kxcdn.com/eskatv.jpg" group-title="Music",Eska TV PL
+http://clientportal.link:80/9dDPwi420/6fURz1641/11197
+#EXTINF:-1 tvg-id="" tvg-name="Eska TV Extra PL" tvg-logo="https://picon-13398.kxcdn.com/eskatvextrapl.jpg" group-title="Music",Eska TV Extra PL
+http://clientportal.link:80/9dDPwi420/6fURz1641/11182
+#EXTINF:-1 tvg-id="KinoPolskaMuzyka.pl" tvg-name="Kino Polska Muzyka PL" tvg-logo="https://picon-13398.kxcdn.com/kinopolskamuzyka.jpg" group-title="Music",Kino Polska Muzyka PL
+http://clientportal.link:80/9dDPwi420/6fURz1641/15090
+#EXTINF:-1 tvg-id="" tvg-name="MTV 90s PL" tvg-logo="https://picon-13398.kxcdn.com/mtv90sus.jpg" group-title="Music",MTV 90s PL
+http://clientportal.link:80/9dDPwi420/6fURz1641/11703
+#EXTINF:-1 tvg-id="MTVPolska.pl" tvg-name="MTV Polska FHD PL" tvg-logo="https://picon-13398.kxcdn.com/mtvpolska.jpg" group-title="Music",MTV Polska FHD PL
+http://clientportal.link:80/9dDPwi420/6fURz1641/11702
+#EXTINF:-1 tvg-id="MTVLive.pl" tvg-name="MTV Live HD PL" tvg-logo="https://picon-13398.kxcdn.com/mtvlivehd.jpg" group-title="Music",MTV Live HD PL
+http://clientportal.link:80/9dDPwi420/6fURz1641/20424
+#EXTINF:-1 tvg-id="PowerTV.pl" tvg-name="Power TV PL" tvg-logo="https://picon-13398.kxcdn.com/powertv.jpg" group-title="Music",Power TV PL
+http://clientportal.link:80/9dDPwi420/6fURz1641/15187
+#EXTINF:-1 tvg-id="StarsTV.pl" tvg-name="Stars TV PL" tvg-logo="https://picon-13398.kxcdn.com/starstv.jpg" group-title="Music",Stars TV PL
+http://clientportal.link:80/9dDPwi420/6fURz1641/15082
+#EXTINF:-1 tvg-id="4FunFitDance.pl" tvg-name="4 Fun Dance PL" tvg-logo="https://picon-13398.kxcdn.com/4funfitanddance.jpg" group-title="Music",4 Fun Dance PL
+http://clientportal.link:80/9dDPwi420/6fURz1641/16291
+#EXTINF:-1 tvg-id="4FunHits.pl" tvg-name="4 Fun Kids PL" tvg-logo="https://picon-13398.kxcdn.com/4funkidspl.jpg" group-title="Music",4 Fun Kids PL
+http://clientportal.link:80/9dDPwi420/6fURz1641/16290
+#EXTINF:-1 tvg-id="4funTV.pl" tvg-name="4 Fun TV PL" tvg-logo="https://picon-13398.kxcdn.com/4funtv.jpg" group-title="Music",4 Fun TV PL
+http://clientportal.link:80/9dDPwi420/6fURz1641/16289
+#EXTINF:-1 tvg-id="" tvg-name="VOX Music TV PL" tvg-logo="https://picon-13398.kxcdn.com/voxmusic.jpg" group-title="Music",VOX Music TV PL
+http://clientportal.link:80/9dDPwi420/6fURz1641/15174
+#EXTINF:-1 tvg-id="PolsatMusic.pl" tvg-name="Polsat Music HD PL" tvg-logo="https://picon-13398.kxcdn.com/polsatmusicpl.jpg" group-title="Music",Polsat Music HD PL
+http://clientportal.link:80/9dDPwi420/6fURz1641/21527
+#EXTINF:-1 tvg-id="" tvg-name="Red Carpet FHD PL" tvg-logo="https://picon-13398.kxcdn.com/recarpetpl.jpg" group-title="Music",Red Carpet FHD PL
+http://clientportal.link:80/9dDPwi420/6fURz1641/27543
+#EXTINF:-1 tvg-id="" tvg-name="Sundance TV FHD PL" tvg-logo="https://picon-13398.kxcdn.com/sundancetv.jpg" group-title="Music",Sundance TV FHD PL
+http://clientportal.link:80/9dDPwi420/6fURz1641/20422
+#EXTINF:-1 tvg-id="NutaTV.pl" tvg-name="Nuta TV PL" tvg-logo="https://picon-13398.kxcdn.com/nutatvpl.jpg" group-title="Music",Nuta TV PL
+http://clientportal.link:80/9dDPwi420/6fURz1641/27540
+#EXTINF:-1 tvg-id="PoloTV.pl" tvg-name="Polo TV FHD PL" tvg-logo="https://picon-13398.kxcdn.com/polotv.jpg" group-title="Music",Polo TV FHD PL
+http://clientportal.link:80/9dDPwi420/6fURz1641/13517
+#EXTINF:-1 tvg-id="DiscoPoloMusic.pl" tvg-name="Disco Polo Music PL" tvg-logo="https://picon-13398.kxcdn.com/discopolomusic.jpg" group-title="Music",Disco Polo Music PL
+http://clientportal.link:80/9dDPwi420/6fURz1641/22765
+#EXTINF:-1 tvg-id="Polonia1.pl" tvg-name="Polonia 1 PL" tvg-logo="https://picon-13398.kxcdn.com/polonia1.jpg" group-title="Inne",Polonia 1 PL
+http://clientportal.link:80/9dDPwi420/6fURz1641/11711
+#EXTINF:-1 tvg-id="Polsat2.pl" tvg-name="Polsat 2 HD PL" tvg-logo="https://picon-13398.kxcdn.com/polsat2hd.jpg" group-title="Inne",Polsat 2 HD PL
+http://clientportal.link:80/9dDPwi420/6fURz1641/12817
+#EXTINF:-1 tvg-id="PolsatCafe.pl" tvg-name="Polsat Café HD PL" tvg-logo="https://picon-13398.kxcdn.com/polsatcafehd.jpg" group-title="Inne",Polsat Café HD PL
+http://clientportal.link:80/9dDPwi420/6fURz1641/11198
+#EXTINF:-1 tvg-id="PolsatFilm.pl" tvg-name="Polsat Film FHD PL" tvg-logo="https://picon-13398.kxcdn.com/polsatfilmhd.jpg" group-title="Film",Polsat Film FHD PL
+http://clientportal.link:80/9dDPwi420/6fURz1641/15086
+#EXTINF:-1 tvg-id="Polsat.pl" tvg-name="Polsat HD PL" tvg-logo="https://picon-13398.kxcdn.com/polsathd.jpg" group-title="Inne",Polsat HD PL
+http://clientportal.link:80/9dDPwi420/6fURz1641/11696
+#EXTINF:-1 tvg-id="PolsatPlay.pl" tvg-name="Polsat Play HD PL" tvg-logo="https://picon-13398.kxcdn.com/polsatplayhd.jpg" group-title="Inne",Polsat Play HD PL
+http://clientportal.link:80/9dDPwi420/6fURz1641/11177
+#EXTINF:-1 tvg-id="" tvg-name="Polsat Seriale FHD PL" tvg-logo="https://picon-13398.kxcdn.com/polsatserialepl.jpg" group-title="Film",Polsat Seriale FHD PL
+http://clientportal.link:80/9dDPwi420/6fURz1641/48712
+#EXTINF:-1 tvg-id="ViasatHistory.pl" tvg-name="Polsat Viasat History HD PL" tvg-logo="https://picon-13398.kxcdn.com/polsatviasathistory.jpg" group-title="Doku",Polsat Viasat History HD PL
+http://clientportal.link:80/9dDPwi420/6fURz1641/15084
+#EXTINF:-1 tvg-id="TLC.pl" tvg-name="TLC HD PL" tvg-logo="https://picon-13398.kxcdn.com/tlchd.jpg" group-title="Inne",TLC HD PL
+http://clientportal.link:80/9dDPwi420/6fURz1641/15080
+#EXTINF:-1 tvg-id="TLC.pl" tvg-name="TLC PL" tvg-logo="https://picon-13398.kxcdn.com/tlc.jpg" group-title="Inne",TLC PL
+http://clientportal.link:80/9dDPwi420/6fURz1641/11632
+#EXTINF:-1 tvg-id="TTV.pl" tvg-name="TTV FHD PL" tvg-logo="https://picon-13398.kxcdn.com/ttv.jpg" group-title="Inne",TTV FHD PL
+http://clientportal.link:80/9dDPwi420/6fURz1641/15181
+#EXTINF:-1 tvg-id="TV4.pl" tvg-name="TV 4 HD PL" tvg-logo="https://picon-13398.kxcdn.com/tv4hd.jpg" group-title="Inne",TV 4 HD PL
+http://clientportal.link:80/9dDPwi420/6fURz1641/11178
+#EXTINF:-1 tvg-id="TV6.pl" tvg-name="TV 6 FHD PL" tvg-logo="https://picon-13398.kxcdn.com/tv6.jpg" group-title="Inne",TV 6 FHD PL
+http://clientportal.link:80/9dDPwi420/6fURz1641/19082
+#EXTINF:-1 tvg-id="TVPInfo.pl" tvg-name="TVP Info FHD PL" tvg-logo="https://picon-13398.kxcdn.com/tvpinfohdpl.jpg" group-title="Info",TVP Info FHD PL
+http://clientportal.link:80/9dDPwi420/6fURz1641/15078
+#EXTINF:-1 tvg-id="TVN7.pl" tvg-name="TVN 7 HD PL" tvg-logo="https://picon-13398.kxcdn.com/tvn7hd.jpg" group-title="Inne",TVN 7 HD PL
+http://clientportal.link:80/9dDPwi420/6fURz1641/15179
+#EXTINF:-1 tvg-id="TVNFabula.pl" tvg-name="TVN Fabuła FHD PL" tvg-logo="https://picon-13398.kxcdn.com/tvnfabula.jpg" group-title="Film",TVN Fabuła FHD PL
+http://clientportal.link:80/9dDPwi420/6fURz1641/15178
+#EXTINF:-1 tvg-id="TVN.pl" tvg-name="TVN FHD PL" tvg-logo="https://picon-13398.kxcdn.com/tvnhd.jpg" group-title="Inne",TVN FHD PL
+http://clientportal.link:80/9dDPwi420/6fURz1641/15177
+#EXTINF:-1 tvg-id="TVNStyle.pl" tvg-name="TVN Style FHD PL" tvg-logo="https://picon-13398.kxcdn.com/tvnstylehd.jpg" group-title="Inne",TVN Style FHD PL
+http://clientportal.link:80/9dDPwi420/6fURz1641/15176
+#EXTINF:-1 tvg-id="TVN.pl" tvg-name="TVN PL" tvg-logo="https://picon-13398.kxcdn.com/tvn.jpg" group-title="Inne",TVN PL
+http://clientportal.link:80/9dDPwi420/6fURz1641/19087
+#EXTINF:-1 tvg-id="TVP1.pl" tvg-name="TVP 1 FHD PL" tvg-logo="https://picon-13398.kxcdn.com/tvp1hd.jpg" group-title="Inne",TVP 1 FHD PL
+http://clientportal.link:80/9dDPwi420/6fURz1641/12810
+#EXTINF:-1 tvg-id="TVP2.pl" tvg-name="TVP 2 HD PL" tvg-logo="https://picon-13398.kxcdn.com/tvp2hd.jpg" group-title="Inne",TVP 2 HD PL
+http://clientportal.link:80/9dDPwi420/6fURz1641/12811
+#EXTINF:-1 tvg-id="TVP3.pl" tvg-name="TVP 3 Warszawa PL" tvg-logo="https://picon-13398.kxcdn.com/tvp3.jpg" group-title="Inne",TVP 3 Warszawa PL
+http://clientportal.link:80/9dDPwi420/6fURz1641/15077
+#EXTINF:-1 tvg-id="TVPABC.pl" tvg-name="TVP ABC PL" tvg-logo="https://picon-13398.kxcdn.com/tvpabc.jpg" group-title="Inne",TVP ABC PL
+http://clientportal.link:80/9dDPwi420/6fURz1641/15076
+#EXTINF:-1 tvg-id="TVPHistoria.pl" tvg-name="TVP Historia PL" tvg-logo="https://picon-13398.kxcdn.com/tvphistoria.jpg" group-title="Doku",TVP Historia PL
+http://clientportal.link:80/9dDPwi420/6fURz1641/15075
+#EXTINF:-1 tvg-id="TVPInfo.pl" tvg-name="TVP Info PL" tvg-logo="https://picon-13398.kxcdn.com/tvpinfo.jpg" group-title="Info",TVP Info PL
+http://clientportal.link:80/9dDPwi420/6fURz1641/15074
+#EXTINF:-1 tvg-id="TVPSeriale.pl" tvg-name="TVP Seriale PL" tvg-logo="https://picon-13398.kxcdn.com/tvpseriale.jpg" group-title="Film",TVP Seriale PL
+http://clientportal.link:80/9dDPwi420/6fURz1641/11514
+#EXTINF:-1 tvg-id="TVPSport.pl" tvg-name="TVP Sport FHD PL" tvg-logo="https://picon-13398.kxcdn.com/tvpsporthd.jpg" group-title="Sport",TVP Sport FHD PL
+http://clientportal.link:80/9dDPwi420/6fURz1641/12826
+#EXTINF:-1 tvg-id="TVPKultura.pl" tvg-name="TVP Kultura PL" tvg-logo="https://picon-13398.kxcdn.com/tvpkulturapl.jpg" group-title="Inne",TVP Kultura PL
+http://clientportal.link:80/9dDPwi420/6fURz1641/24147
+#EXTINF:-1 tvg-id="TVS.pl" tvg-name="TVS PL" tvg-logo="https://picon-13398.kxcdn.com/tvs.jpg" group-title="Inne",TVS PL
+http://clientportal.link:80/9dDPwi420/6fURz1641/12820
+#EXTINF:-1 tvg-id="DaVinciLearning.pl" tvg-name="Da Vinci Learning PL" tvg-logo="https://picon-13398.kxcdn.com/davincilearning.jpg" group-title="Inne",Da Vinci Learning PL
+http://clientportal.link:80/9dDPwi420/6fURz1641/15182
+#EXTINF:-1 tvg-id="SuperPolsat.pl" tvg-name="Super Polsat HD PL" tvg-logo="https://picon-13398.kxcdn.com/superpolsatpl.jpg" group-title="Inne",Super Polsat HD PL
+http://clientportal.link:80/9dDPwi420/6fURz1641/11199
+#EXTINF:-1 tvg-id="Stopklatka.pl" tvg-name="Stopklatka TV PL" tvg-logo="https://picon-13398.kxcdn.com/stopklatkatv.jpg" group-title="Film",Stopklatka TV PL
+http://clientportal.link:80/9dDPwi420/6fURz1641/16284
+#EXTINF:-1 tvg-id="TVRepublika.pl" tvg-name="TV Republika PL" tvg-logo="https://picon-13398.kxcdn.com/tvrepublika.jpg" group-title="Info",TV Republika PL
+http://clientportal.link:80/9dDPwi420/6fURz1641/16283
+#EXTINF:-1 tvg-id="TVPRozrywka.pl" tvg-name="TVP Rozrywka PL" tvg-logo="https://picon-13398.kxcdn.com/tvprozrywka.jpg" group-title="Inne",TVP Rozrywka PL
+http://clientportal.link:80/9dDPwi420/6fURz1641/16282
+#EXTINF:-1 tvg-id="" tvg-name="Zoom TV PL" tvg-logo="https://picon-13398.kxcdn.com/zoomtv.jpg" group-title="Inne",Zoom TV PL
+http://clientportal.link:80/9dDPwi420/6fURz1641/16271
+#EXTINF:-1 tvg-id="SportKlub.pl" tvg-name="Sport Klub Polska HD PL" tvg-logo="https://picon-13398.kxcdn.com/sportklub.jpg" group-title="Sport",Sport Klub Polska HD PL
+http://clientportal.link:80/9dDPwi420/6fURz1641/16835
+#EXTINF:-1 tvg-id="TVP.pl" tvg-name="TVP FHD PL" tvg-logo="https://picon-13398.kxcdn.com/tvphd.jpg" group-title="Inne",TVP FHD PL
+http://clientportal.link:80/9dDPwi420/6fURz1641/18392
+#EXTINF:-1 tvg-id="" tvg-name="W Polsce PL" tvg-logo="https://picon-13398.kxcdn.com/wpolscepl.jpg" group-title="Inne",W Polsce PL
+http://clientportal.link:80/9dDPwi420/6fURz1641/19084
+#EXTINF:-1 tvg-id="ComedyCentral.pl" tvg-name="Comedy Central Polska FHD PL" tvg-logo="https://picon-13398.kxcdn.com/comedycenthd.jpg" group-title="Film",Comedy Central Polska FHD PL
+http://clientportal.link:80/9dDPwi420/6fURz1641/22771
+#EXTINF:-1 tvg-id="" tvg-name="Comedy Central Extra Polsat FHD PL" tvg-logo="https://picon-13398.kxcdn.com/comedycentralextra.jpg" group-title="Film",Comedy Central Extra Polsat FHD PL
+http://clientportal.link:80/9dDPwi420/6fURz1641/22770
+#EXTINF:-1 tvg-id="ParamountChannel.pl" tvg-name="Paramount Channel Polska FHD PL" tvg-logo="https://picon-13398.kxcdn.com/paramountchannelhd.jpg" group-title="Film",Paramount Channel Polska FHD PL
+http://clientportal.link:80/9dDPwi420/6fURz1641/22769
+#EXTINF:-1 tvg-id="" tvg-name="Nowa TV PL" tvg-logo="https://picon-13398.kxcdn.com/nowatv.jpg" group-title="Inne",Nowa TV PL
+http://clientportal.link:80/9dDPwi420/6fURz1641/22768
+#EXTINF:-1 tvg-id="ViasatNature.pl" tvg-name="Viasat Nature Polsat FHD PL" tvg-logo="https://picon-13398.kxcdn.com/viasatnaturehd.jpg" group-title="Inne",Viasat Nature Polsat
+http://clientportal.link:80/9dDPwi420/6fURz1641/22763
+#EXTINF:-1 tvg-id="BBCBrit.pl" tvg-name="BBC Brit Polska FHD PL" tvg-logo="https://picon-13398.kxcdn.com/bbcbrit.jpg" group-title="Inne",BBC Brit Polska FHD PL
+http://clientportal.link:80/9dDPwi420/6fURz1641/23317
+#EXTINF:-1 tvg-id="BBCLifestyle.pl" tvg-name="BBC Lifestyle Polska FHD PL" tvg-logo="https://picon-13398.kxcdn.com/bbclifestylepl.jpg" group-title="Inne",BBC Lifestyle
+http://clientportal.link:80/9dDPwi420/6fURz1641/23318
+
+#EXTINF:-1 tvg-id="" tvg-name="TVN 24 FHD PL" tvg-logo="" group-title="Rezerwa1",TVN 24 FHD PL
 http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/24943.ts
-#EXTINF:-1 tvg-id="" tvg-name="TVN 24 HD PL" tvg-logo="" group-title="POLAND CHANNELS",TVN 24 HD PL
+#EXTINF:-1 tvg-id="" tvg-name="TVN 24 HD PL" tvg-logo="" group-title="Rezerwa1",TVN 24 HD PL
 http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/24944.ts
-#EXTINF:-1 tvg-id="" tvg-name="TVP 1 FHD PL" tvg-logo="" group-title="POLAND CHANNELS",TVP 1 FHD PL
-http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/24779.ts
-#EXTINF:-1 tvg-id="" tvg-name="TVP 1 HD PL" tvg-logo="" group-title="POLAND CHANNELS",TVP 1 HD PL
-http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/24780.ts
-#EXTINF:-1 tvg-id="" tvg-name="TVP 2 FHD PL" tvg-logo="" group-title="POLAND CHANNELS",TVP 2 FHD PL
-http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/24781.ts
-#EXTINF:-1 tvg-id="" tvg-name="TVP 2 PL" tvg-logo="" group-title="POLAND CHANNELS",TVP 2 PL
-http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/24782.ts
-#EXTINF:-1 tvg-id="" tvg-name="TVN 24 PL" tvg-logo="" group-title="POLAND CHANNELS",TVN 24 PL
+#EXTINF:-1 tvg-id="" tvg-name="TVN 24 PL" tvg-logo="" group-title="Rezerwa1",TVN 24 PL
 http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/24945.ts
-#EXTINF:-1 tvg-id="" tvg-name="TVN 24 BiS FHD PL" tvg-logo="" group-title="POLAND CHANNELS",TVN 24 BiS FHD PL
+#EXTINF:-1 tvg-id="" tvg-name="TVN 24 BiS FHD PL" tvg-logo="" group-title="Rezerwa1",TVN 24 BiS FHD PL
 http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/24946.ts
-#EXTINF:-1 tvg-id="" tvg-name="Polsat News FHD PL" tvg-logo="" group-title="POLAND CHANNELS",Polsat News FHD PL
+#EXTINF:-1 tvg-id="" tvg-name="TVP 1 FHD PL" tvg-logo="" group-title="Rezerwa1",TVP 1 FHD PL
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/24779.ts
+#EXTINF:-1 tvg-id="" tvg-name="TVP 1 HD PL" tvg-logo="" group-title="Rezerwa1",TVP 1 HD PL
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/24780.ts
+#EXTINF:-1 tvg-id="" tvg-name="TVP 2 FHD PL" tvg-logo="" group-title="Rezerwa1",TVP 2 FHD PL
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/24781.ts
+#EXTINF:-1 tvg-id="" tvg-name="TVP 2 PL" tvg-logo="" group-title="Rezerwa1",TVP 2 PL
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/24782.ts
+#EXTINF:-1 tvg-id="" tvg-name="Polsat News FHD PL" tvg-logo="" group-title="Rezerwa1",Polsat News FHD PL
 http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/24947.ts
-#EXTINF:-1 tvg-id="" tvg-name="Polsat News PL" tvg-logo="" group-title="POLAND CHANNELS",Polsat News PL
+#EXTINF:-1 tvg-id="" tvg-name="Polsat News PL" tvg-logo="" group-title="Rezerwa1",Polsat News PL
 http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/24948.ts
-#EXTINF:-1 tvg-id="" tvg-name="Polsat News 2 PL" tvg-logo="" group-title="POLAND CHANNELS",Polsat News 2 PL
+#EXTINF:-1 tvg-id="" tvg-name="Polsat News 2 PL" tvg-logo="" group-title="Rezerwa1",Polsat News 2 PL
 http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/24949.ts
-#EXTINF:-1 tvg-id="" tvg-name="TVP Info FHD PL" tvg-logo="" group-title="POLAND CHANNELS",TVP Info FHD PL
+#EXTINF:-1 tvg-id="" tvg-name="TVP Info FHD PL" tvg-logo="" group-title="Rezerwa1",TVP Info FHD PL
 http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/24950.ts
-#EXTINF:-1 tvg-id="" tvg-name="TVN FHD PL" tvg-logo="" group-title="POLAND CHANNELS",TVN FHD PL
+#EXTINF:-1 tvg-id="" tvg-name="TVN FHD PL" tvg-logo="" group-title="Rezerwa1",TVN FHD PL
 http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/24767.ts
-#EXTINF:-1 tvg-id="" tvg-name="TVN PL" tvg-logo="" group-title="POLAND CHANNELS",TVN PL
+#EXTINF:-1 tvg-id="" tvg-name="TVN PL" tvg-logo="" group-title="Rezerwa1",TVN PL
 http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/24768.ts
-#EXTINF:-1 tvg-id="" tvg-name="TVN 7 FHD PL" tvg-logo="" group-title="POLAND CHANNELS",TVN 7 FHD PL
+#EXTINF:-1 tvg-id="" tvg-name="TVN 7 FHD PL" tvg-logo="" group-title="Rezerwa1",TVN 7 FHD PL
 http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/24769.ts
-#EXTINF:-1 tvg-id="" tvg-name="TVN 7 HD PL" tvg-logo="" group-title="POLAND CHANNELS",TVN 7 HD PL
+#EXTINF:-1 tvg-id="" tvg-name="TVN 7 HD PL" tvg-logo="" group-title="Rezerwa1",TVN 7 HD PL
 http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/24770.ts
-#EXTINF:-1 tvg-id="" tvg-name="Polsat  FHD PL" tvg-logo="" group-title="POLAND CHANNELS",Polsat  FHD PL
+#EXTINF:-1 tvg-id="" tvg-name="Polsat  FHD PL" tvg-logo="" group-title="Rezerwa1",Polsat  FHD PL
 http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/24771.ts
-#EXTINF:-1 tvg-id="" tvg-name="Polsat HD PL" tvg-logo="" group-title="POLAND CHANNELS",Polsat HD PL
+#EXTINF:-1 tvg-id="" tvg-name="Polsat HD PL" tvg-logo="" group-title="Rezerwa1",Polsat HD PL
 http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/24772.ts
-#EXTINF:-1 tvg-id="" tvg-name="Polsat 2 FHD PL" tvg-logo="" group-title="POLAND CHANNELS",Polsat 2 FHD PL
+#EXTINF:-1 tvg-id="" tvg-name="Polsat 2 FHD PL" tvg-logo="" group-title="Rezerwa1",Polsat 2 FHD PL
 http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/24773.ts
-#EXTINF:-1 tvg-id="" tvg-name="Polsat 2 HD PL" tvg-logo="" group-title="POLAND CHANNELS",Polsat 2 HD PL
+#EXTINF:-1 tvg-id="" tvg-name="Polsat 2 HD PL" tvg-logo="" group-title="Rezerwa1",Polsat 2 HD PL
 http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/24774.ts
-#EXTINF:-1 tvg-id="" tvg-name="Polsat 2 PL" tvg-logo="" group-title="POLAND CHANNELS",Polsat 2 PL
+#EXTINF:-1 tvg-id="" tvg-name="Polsat 2 PL" tvg-logo="" group-title="Rezerwa1",Polsat 2 PL
 http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/24775.ts
-#EXTINF:-1 tvg-id="" tvg-name="TV4 FHD PL" tvg-logo="" group-title="POLAND CHANNELS",TV4 FHD PL
+#EXTINF:-1 tvg-id="" tvg-name="TV4 FHD PL" tvg-logo="" group-title="Rezerwa1",TV4 FHD PL
 http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/24776.ts
-#EXTINF:-1 tvg-id="" tvg-name="TV 4 HD PL" tvg-logo="" group-title="POLAND CHANNELS",TV 4 HD PL
+#EXTINF:-1 tvg-id="" tvg-name="TV 4 HD PL" tvg-logo="" group-title="Rezerwa1",TV 4 HD PL
 http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/24777.ts
-#EXTINF:-1 tvg-id="" tvg-name="TV 4 PL" tvg-logo="" group-title="POLAND CHANNELS",TV 4 PL
+#EXTINF:-1 tvg-id="" tvg-name="TV 4 PL" tvg-logo="" group-title="Rezerwa1",TV 4 PL
 http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/24778.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="HBO 1 FHD PL" tvg-logo="" group-title="POLAND CHANNELS",HBO 1 FHD PL
+#EXTINF:-1 tvg-id="" tvg-name="HBO 1 FHD PL" tvg-logo="" group-title="Rezerwa1",HBO 1 FHD PL
 http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/24783.ts
-#EXTINF:-1 tvg-id="" tvg-name="HBO 1 HD PL" tvg-logo="" group-title="POLAND CHANNELS",HBO 1 HD PL
+#EXTINF:-1 tvg-id="" tvg-name="HBO 1 HD PL" tvg-logo="" group-title="Rezerwa1",HBO 1 HD PL
 http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/24784.ts
-#EXTINF:-1 tvg-id="" tvg-name="HBO 2 FHD PL" tvg-logo="" group-title="POLAND CHANNELS",HBO 2 FHD PL
+#EXTINF:-1 tvg-id="" tvg-name="HBO 2 FHD PL" tvg-logo="" group-title="Rezerwa1",HBO 2 FHD PL
 http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/24785.ts
-#EXTINF:-1 tvg-id="" tvg-name="HBO 2 HD PL" tvg-logo="" group-title="POLAND CHANNELS",HBO 2 HD PL
+#EXTINF:-1 tvg-id="" tvg-name="HBO 2 HD PL" tvg-logo="" group-title="Rezerwa1",HBO 2 HD PL
 http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/24786.ts
-#EXTINF:-1 tvg-id="" tvg-name="HBO 3 HD PL" tvg-logo="" group-title="POLAND CHANNELS",HBO 3 HD PL
+#EXTINF:-1 tvg-id="" tvg-name="HBO 3 HD PL" tvg-logo="" group-title="Rezerwa1",HBO 3 HD PL
 http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/24787.ts
-#EXTINF:-1 tvg-id="" tvg-name="Canal+ PL" tvg-logo="" group-title="POLAND CHANNELS",Canal+ PL
-http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/24788.ts
-#EXTINF:-1 tvg-id="" tvg-name="Canal+ UHD PL" tvg-logo="" group-title="POLAND CHANNELS",Canal+ UHD PL
-http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/24789.ts
-#EXTINF:-1 tvg-id="" tvg-name="Canal+ +1 FHD PL" tvg-logo="" group-title="POLAND CHANNELS",Canal+ +1 FHD PL
-http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/24790.ts
-#EXTINF:-1 tvg-id="" tvg-name="Canal+ Film FHD PL" tvg-logo="" group-title="POLAND CHANNELS",Canal+ Film FHD PL
-http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/24791.ts
-#EXTINF:-1 tvg-id="" tvg-name="CANAL+ FAMILY FHD PL" tvg-logo="" group-title="POLAND CHANNELS",CANAL+ FAMILY FHD PL
-http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/24792.ts
-#EXTINF:-1 tvg-id="" tvg-name="CANAL+ FAMILY HD PL" tvg-logo="" group-title="POLAND CHANNELS",CANAL+ FAMILY HD PL
-http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/24793.ts
-#EXTINF:-1 tvg-id="" tvg-name="Canal+ Seriale FHD PL" tvg-logo="" group-title="POLAND CHANNELS",Canal+ Seriale FHD PL
-http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/24794.ts
-#EXTINF:-1 tvg-id="" tvg-name="Canal+ Seriale HD PL" tvg-logo="" group-title="POLAND CHANNELS",Canal+ Seriale HD PL
-http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/24795.ts
-#EXTINF:-1 tvg-id="" tvg-name="Polsat Film FHD PL" tvg-logo="" group-title="POLAND CHANNELS",Polsat Film FHD PL
-http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/24796.ts
-#EXTINF:-1 tvg-id="" tvg-name="Polsat Film HD PL" tvg-logo="" group-title="POLAND CHANNELS",Polsat Film HD PL
-http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/24797.ts
-#EXTINF:-1 tvg-id="" tvg-name="Polsat Film PL" tvg-logo="" group-title="POLAND CHANNELS",Polsat Film PL
-http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/24798.ts
-#EXTINF:-1 tvg-id="" tvg-name="AXN FHD PL" tvg-logo="" group-title="POLAND CHANNELS",AXN FHD PL
-http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/24799.ts
-#EXTINF:-1 tvg-id="" tvg-name="AXN HD PL" tvg-logo="" group-title="POLAND CHANNELS",AXN HD PL
-http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/24800.ts
-#EXTINF:-1 tvg-id="" tvg-name="AXN Black PL" tvg-logo="" group-title="POLAND CHANNELS",AXN Black PL
-http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/24801.ts
-#EXTINF:-1 tvg-id="" tvg-name="AXN White PL" tvg-logo="" group-title="POLAND CHANNELS",AXN White PL
-http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/24802.ts
-#EXTINF:-1 tvg-id="" tvg-name="AXN Spin FHD PL" tvg-logo="" group-title="POLAND CHANNELS",AXN Spin FHD PL
-http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/24803.ts
-#EXTINF:-1 tvg-id="" tvg-name="AXN Spin PL" tvg-logo="" group-title="POLAND CHANNELS",AXN Spin PL
-http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/24804.ts
-#EXTINF:-1 tvg-id="" tvg-name="FOX FHD PL" tvg-logo="" group-title="POLAND CHANNELS",FOX FHD PL
-http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/24805.ts
-#EXTINF:-1 tvg-id="" tvg-name="FOX PL" tvg-logo="" group-title="POLAND CHANNELS",FOX PL
-http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/24806.ts
-#EXTINF:-1 tvg-id="" tvg-name="FOX Comedy FHD PL" tvg-logo="" group-title="POLAND CHANNELS",FOX Comedy FHD PL
-http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/24807.ts
-#EXTINF:-1 tvg-id="" tvg-name="Fox Comedy PL" tvg-logo="" group-title="POLAND CHANNELS",Fox Comedy PL
-http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/24808.ts
-#EXTINF:-1 tvg-id="" tvg-name="Filmbox Action HD PL" tvg-logo="" group-title="POLAND CHANNELS",Filmbox Action HD PL
-http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/24809.ts
-#EXTINF:-1 tvg-id="" tvg-name="Filmbox Action PL" tvg-logo="" group-title="POLAND CHANNELS",Filmbox Action PL
-http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/24810.ts
-#EXTINF:-1 tvg-id="" tvg-name="FilmBox Arthouse PL" tvg-logo="" group-title="POLAND CHANNELS",FilmBox Arthouse PL
-http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/24811.ts
-#EXTINF:-1 tvg-id="" tvg-name="Filmbox Extra FHD PL" tvg-logo="" group-title="POLAND CHANNELS",Filmbox Extra FHD PL
-http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/24812.ts
-#EXTINF:-1 tvg-id="" tvg-name="Filmbox Extra PL" tvg-logo="" group-title="POLAND CHANNELS",Filmbox Extra PL
-http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/24813.ts
-#EXTINF:-1 tvg-id="" tvg-name="Filmbox Family PL" tvg-logo="" group-title="POLAND CHANNELS",Filmbox Family PL
-http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/24814.ts
-#EXTINF:-1 tvg-id="" tvg-name="Filmbox Premium FHD PL" tvg-logo="" group-title="POLAND CHANNELS",Filmbox Premium FHD PL
-http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/24815.ts
-#EXTINF:-1 tvg-id="" tvg-name="CineMax 1 FHD PL" tvg-logo="" group-title="POLAND CHANNELS",CineMax 1 FHD PL
-http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/24816.ts
-#EXTINF:-1 tvg-id="" tvg-name="CineMax 1 HD PL" tvg-logo="" group-title="POLAND CHANNELS",CineMax 1 HD PL
-http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/24817.ts
-#EXTINF:-1 tvg-id="" tvg-name="Cinemax 2 FHD PL" tvg-logo="" group-title="POLAND CHANNELS",Cinemax 2 FHD PL
-http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/24818.ts
-#EXTINF:-1 tvg-id="" tvg-name="CBS Europe HD PL" tvg-logo="" group-title="POLAND CHANNELS",CBS Europe HD PL
-http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/24819.ts
-#EXTINF:-1 tvg-id="" tvg-name="CBS Europa FHD PL" tvg-logo="" group-title="POLAND CHANNELS",CBS Europa FHD PL
-http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/24820.ts
-#EXTINF:-1 tvg-id="" tvg-name="CBS Reality PL" tvg-logo="" group-title="POLAND CHANNELS",CBS Reality PL
-http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/24821.ts
-#EXTINF:-1 tvg-id="" tvg-name="13 Ulica FHD PL" tvg-logo="" group-title="POLAND CHANNELS",13 Ulica FHD PL
-http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/24822.ts
-#EXTINF:-1 tvg-id="" tvg-name="13 Ulica PL" tvg-logo="" group-title="POLAND CHANNELS",13 Ulica PL
-http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/24823.ts
-#EXTINF:-1 tvg-id="" tvg-name="Ale Kino+ FHD PL" tvg-logo="" group-title="POLAND CHANNELS",Ale Kino+ FHD PL
-http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/24824.ts
-#EXTINF:-1 tvg-id="" tvg-name="Ale Kino+ HD PL" tvg-logo="" group-title="POLAND CHANNELS",Ale Kino+ HD PL
-http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/24825.ts
-#EXTINF:-1 tvg-id="" tvg-name="Comedy Central FHD PL" tvg-logo="" group-title="POLAND CHANNELS",Comedy Central FHD PL
-http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/24826.ts
-#EXTINF:-1 tvg-id="" tvg-name="Comedy Central PL" tvg-logo="" group-title="POLAND CHANNELS",Comedy Central PL
-http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/24827.ts
-#EXTINF:-1 tvg-id="" tvg-name="Comedy Central Family PL" tvg-logo="" group-title="POLAND CHANNELS",Comedy Central Family PL
-http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/24828.ts
-#EXTINF:-1 tvg-id="" tvg-name="Kino Polska PL" tvg-logo="" group-title="POLAND CHANNELS",Kino Polska PL
-http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/24829.ts
-#EXTINF:-1 tvg-id="" tvg-name="Kino TV PL" tvg-logo="" group-title="POLAND CHANNELS",Kino TV PL
-http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/24830.ts
-#EXTINF:-1 tvg-id="" tvg-name="Paramount Channel FHD PL" tvg-logo="" group-title="POLAND CHANNELS",Paramount Channel FHD PL
-http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/24831.ts
-#EXTINF:-1 tvg-id="" tvg-name="SciFi Universal PL" tvg-logo="" group-title="POLAND CHANNELS",SciFi Universal PL
-http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/24832.ts
-#EXTINF:-1 tvg-id="" tvg-name="TNT FHD PL" tvg-logo="" group-title="POLAND CHANNELS",TNT FHD PL
-http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/24833.ts
-#EXTINF:-1 tvg-id="" tvg-name="TNT HD PL" tvg-logo="" group-title="POLAND CHANNELS",TNT HD PL
-http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/24834.ts
-#EXTINF:-1 tvg-id="" tvg-name="TNT PL" tvg-logo="" group-title="POLAND CHANNELS",TNT PL
-http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/24835.ts
-#EXTINF:-1 tvg-id="" tvg-name="AMC FHD PL" tvg-logo="" group-title="POLAND CHANNELS",AMC FHD PL
-http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/24836.ts
-#EXTINF:-1 tvg-id="" tvg-name="AMC PL" tvg-logo="" group-title="POLAND CHANNELS",AMC PL
-http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/24837.ts
-#EXTINF:-1 tvg-id="" tvg-name="Active Family PL" tvg-logo="" group-title="POLAND CHANNELS",Active Family PL
-http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/24838.ts
-#EXTINF:-1 tvg-id="" tvg-name="TVN Fabula FHD PL" tvg-logo="" group-title="POLAND CHANNELS",TVN Fabula FHD PL
-http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/24839.ts
-#EXTINF:-1 tvg-id="" tvg-name="Polsat Romans PL" tvg-logo="" group-title="POLAND CHANNELS",Polsat Romans PL
-http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/24840.ts
-#EXTINF:-1 tvg-id="" tvg-name="Romance FHD PL" tvg-logo="" group-title="POLAND CHANNELS",Romance FHD PL
-http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/24841.ts
-#EXTINF:-1 tvg-id="" tvg-name="TVP Seriale PL" tvg-logo="" group-title="POLAND CHANNELS",TVP Seriale PL
-http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/24842.ts
-#EXTINF:-1 tvg-id="" tvg-name="EuroSport 1 FHD PL" tvg-logo="" group-title="POLAND CHANNELS",EuroSport 1 FHD PL
-http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/24843.ts
-#EXTINF:-1 tvg-id="" tvg-name="EuroSport 1 HD PL" tvg-logo="" group-title="POLAND CHANNELS",EuroSport 1 HD PL
-http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/24844.ts
-#EXTINF:-1 tvg-id="" tvg-name="Eurosport 1 PL" tvg-logo="" group-title="POLAND CHANNELS",Eurosport 1 PL
-http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/24845.ts
-#EXTINF:-1 tvg-id="" tvg-name="EuroSport 2 FHD PL" tvg-logo="" group-title="POLAND CHANNELS",EuroSport 2 FHD PL
-http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/24846.ts
-#EXTINF:-1 tvg-id="" tvg-name="Eleven Sports 2 FHD PL" tvg-logo="" group-title="POLAND CHANNELS",Eleven Sports 2 FHD PL
-http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/24848.ts
-#EXTINF:-1 tvg-id="" tvg-name="Eleven Sports 3 FHD PL" tvg-logo="" group-title="POLAND CHANNELS",Eleven Sports 3 FHD PL
-http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/24849.ts
-#EXTINF:-1 tvg-id="" tvg-name="Eleven Sports 4 FHD PL" tvg-logo="" group-title="POLAND CHANNELS",Eleven Sports 4 FHD PL
-http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/24850.ts
-#EXTINF:-1 tvg-id="" tvg-name="Canal+ Sport FHD PL" tvg-logo="" group-title="POLAND CHANNELS",Canal+ Sport FHD PL
-http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/24851.ts
-#EXTINF:-1 tvg-id="" tvg-name="Canal+ Sport HD PL" tvg-logo="" group-title="POLAND CHANNELS",Canal+ Sport HD PL
-http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/24852.ts
-#EXTINF:-1 tvg-id="" tvg-name="Canal+ Sport PL" tvg-logo="" group-title="POLAND CHANNELS",Canal+ Sport PL
-http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/24853.ts
-#EXTINF:-1 tvg-id="" tvg-name="Canal+ Sport 2 FHD PL" tvg-logo="" group-title="POLAND CHANNELS",Canal+ Sport 2 FHD PL
-http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/24854.ts
-#EXTINF:-1 tvg-id="" tvg-name="Canal+ Sport 2 HD PL" tvg-logo="" group-title="POLAND CHANNELS",Canal+ Sport 2 HD PL
-http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/24855.ts
-#EXTINF:-1 tvg-id="" tvg-name="Extreme Sports FHD PL" tvg-logo="" group-title="POLAND CHANNELS",Extreme Sports FHD PL
-http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/24856.ts
-#EXTINF:-1 tvg-id="" tvg-name="Extreme Sports HD PL" tvg-logo="" group-title="POLAND CHANNELS",Extreme Sports HD PL
-http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/24857.ts
-#EXTINF:-1 tvg-id="" tvg-name="Polsat Sport News HD PL" tvg-logo="" group-title="POLAND CHANNELS",Polsat Sport News HD PL
-http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/24858.ts
-#EXTINF:-1 tvg-id="" tvg-name="Polsat Sport FHD PL" tvg-logo="" group-title="POLAND CHANNELS",Polsat Sport FHD PL
-http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/24859.ts
-#EXTINF:-1 tvg-id="" tvg-name="Polsat Sport HD PL" tvg-logo="" group-title="POLAND CHANNELS",Polsat Sport HD PL
-http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/24860.ts
-#EXTINF:-1 tvg-id="" tvg-name="Polsat Sport PL" tvg-logo="" group-title="POLAND CHANNELS",Polsat Sport PL
-http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/24861.ts
-#EXTINF:-1 tvg-id="" tvg-name="Polsat Sport Extra FHD PL" tvg-logo="" group-title="POLAND CHANNELS",Polsat Sport Extra FHD PL
-http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/24862.ts
-#EXTINF:-1 tvg-id="" tvg-name="Polsat Sport Extra HD PL" tvg-logo="" group-title="POLAND CHANNELS",Polsat Sport Extra HD PL
-http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/24863.ts
-#EXTINF:-1 tvg-id="" tvg-name="Polsat Sport Extra PL" tvg-logo="" group-title="POLAND CHANNELS",Polsat Sport Extra PL
-http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/24864.ts
-#EXTINF:-1 tvg-id="" tvg-name="Polsat Sport Premium 1 FHD VIP PL" tvg-logo="" group-title="POLAND CHANNELS",Polsat Sport Premium 1 FHD VIP PL
-http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/24865.ts
-#EXTINF:-1 tvg-id="" tvg-name="Polsat Sport Premium 2 FHD VIP PL" tvg-logo="" group-title="POLAND CHANNELS",Polsat Sport Premium 2 FHD VIP PL
-http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/24866.ts
-#EXTINF:-1 tvg-id="" tvg-name="POLSAT Sport Fight FHD PL" tvg-logo="" group-title="POLAND CHANNELS",POLSAT Sport Fight FHD PL
-http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/24867.ts
-#EXTINF:-1 tvg-id="" tvg-name="Polsat Sport Fight HD PL" tvg-logo="" group-title="POLAND CHANNELS",Polsat Sport Fight HD PL
-http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/24868.ts
-#EXTINF:-1 tvg-id="" tvg-name="Polsat Sport Fight PL" tvg-logo="" group-title="POLAND CHANNELS",Polsat Sport Fight PL
-http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/24869.ts
-#EXTINF:-1 tvg-id="" tvg-name="Fight Channel World HD PL" tvg-logo="" group-title="POLAND CHANNELS",Fight Channel World HD PL
-http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/24870.ts
-#EXTINF:-1 tvg-id="" tvg-name="Fight Network FHD PL" tvg-logo="" group-title="POLAND CHANNELS",Fight Network FHD PL
-http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/24871.ts
-#EXTINF:-1 tvg-id="" tvg-name="Fightbox FHD PL" tvg-logo="" group-title="POLAND CHANNELS",Fightbox FHD PL
-http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/24872.ts
-#EXTINF:-1 tvg-id="" tvg-name="Fightbox PL" tvg-logo="" group-title="POLAND CHANNELS",Fightbox PL
-http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/24873.ts
-#EXTINF:-1 tvg-id="" tvg-name="nSport HD PL" tvg-logo="" group-title="POLAND CHANNELS",nSport HD PL
-http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/24874.ts
-#EXTINF:-1 tvg-id="" tvg-name="nSport+ FHD PL" tvg-logo="" group-title="POLAND CHANNELS",nSport+ FHD PL
-http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/24875.ts
-#EXTINF:-1 tvg-id="" tvg-name="Sport Klub FHD PL" tvg-logo="" group-title="POLAND CHANNELS",Sport Klub FHD PL
-http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/24876.ts
-#EXTINF:-1 tvg-id="" tvg-name="TVP Sport FHD PL" tvg-logo="" group-title="POLAND CHANNELS",TVP Sport FHD PL
-http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/24877.ts
-#EXTINF:-1 tvg-id="" tvg-name="TVP Sport HD PL" tvg-logo="" group-title="POLAND CHANNELS",TVP Sport HD PL
-http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/24878.ts
-#EXTINF:-1 tvg-id="" tvg-name="Golf Channel FHD PL" tvg-logo="" group-title="POLAND CHANNELS",Golf Channel FHD PL
-http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/24879.ts
-#EXTINF:-1 tvg-id="" tvg-name="Adventure FHD PL" tvg-logo="" group-title="POLAND CHANNELS",Adventure FHD PL
-http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/24880.ts
-#EXTINF:-1 tvg-id="" tvg-name="Animal Planet FHD PL" tvg-logo="" group-title="POLAND CHANNELS",Animal Planet FHD PL
-http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/24881.ts
-#EXTINF:-1 tvg-id="" tvg-name="BBC Brit FHD PL" tvg-logo="" group-title="POLAND CHANNELS",BBC Brit FHD PL
-http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/24882.ts
-#EXTINF:-1 tvg-id="" tvg-name="BBC Earth HD PL" tvg-logo="" group-title="POLAND CHANNELS",BBC Earth HD PL
-http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/24883.ts
-#EXTINF:-1 tvg-id="" tvg-name="BBC HD PL" tvg-logo="" group-title="POLAND CHANNELS",BBC HD PL
-http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/24884.ts
-#EXTINF:-1 tvg-id="" tvg-name="Canal+ Dokument FHD PL" tvg-logo="" group-title="POLAND CHANNELS",Canal+ Dokument FHD PL
-http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/24885.ts
-#EXTINF:-1 tvg-id="" tvg-name="Crime Investigation Polsat FHD PL" tvg-logo="" group-title="POLAND CHANNELS",Crime Investigation Polsat FHD PL
-http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/24886.ts
-#EXTINF:-1 tvg-id="" tvg-name="DTX FHD PL" tvg-logo="" group-title="POLAND CHANNELS",DTX FHD PL
-http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/24887.ts
-#EXTINF:-1 tvg-id="" tvg-name="DTX HD PL" tvg-logo="" group-title="POLAND CHANNELS",DTX HD PL
-http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/24888.ts
-#EXTINF:-1 tvg-id="" tvg-name="Da Vinci Learning PL" tvg-logo="" group-title="POLAND CHANNELS",Da Vinci Learning PL
-http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/24889.ts
-#EXTINF:-1 tvg-id="" tvg-name="Discovery Channel FHD PL" tvg-logo="" group-title="POLAND CHANNELS",Discovery Channel FHD PL
-http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/24890.ts
-#EXTINF:-1 tvg-id="" tvg-name="Discovery Channel HD PL" tvg-logo="" group-title="POLAND CHANNELS",Discovery Channel HD PL
-http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/24891.ts
-#EXTINF:-1 tvg-id="" tvg-name="Discovery Historia PL" tvg-logo="" group-title="POLAND CHANNELS",Discovery Historia PL
-http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/24892.ts
-#EXTINF:-1 tvg-id="" tvg-name="Discovery Life FHD PL" tvg-logo="" group-title="POLAND CHANNELS",Discovery Life FHD PL
-http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/24893.ts
-#EXTINF:-1 tvg-id="" tvg-name="Discovery Life PL" tvg-logo="" group-title="POLAND CHANNELS",Discovery Life PL
-http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/24894.ts
-#EXTINF:-1 tvg-id="" tvg-name="Discovery Science FHD PL" tvg-logo="" group-title="POLAND CHANNELS",Discovery Science FHD PL
-http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/24895.ts
-#EXTINF:-1 tvg-id="" tvg-name="Fokus TV FHD PL" tvg-logo="" group-title="POLAND CHANNELS",Fokus TV FHD PL
-http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/24896.ts
-#EXTINF:-1 tvg-id="" tvg-name="History FHD PL" tvg-logo="" group-title="POLAND CHANNELS",History FHD PL
-http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/24897.ts
-#EXTINF:-1 tvg-id="" tvg-name="History PL" tvg-logo="" group-title="POLAND CHANNELS",History PL
-http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/24898.ts
-#EXTINF:-1 tvg-id="" tvg-name="History 2 FHD PL" tvg-logo="" group-title="POLAND CHANNELS",History 2 FHD PL
-http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/24899.ts
-#EXTINF:-1 tvg-id="" tvg-name="Investigation Discovery FHD PL" tvg-logo="" group-title="POLAND CHANNELS",Investigation Discovery FHD PL
-http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/24900.ts
-#EXTINF:-1 tvg-id="" tvg-name="Investigation Discovery PL" tvg-logo="" group-title="POLAND CHANNELS",Investigation Discovery PL
-http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/24901.ts
-#EXTINF:-1 tvg-id="" tvg-name="Nat Geo FHD PL" tvg-logo="" group-title="POLAND CHANNELS",Nat Geo FHD PL
-http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/24902.ts
-#EXTINF:-1 tvg-id="" tvg-name="Nat Geo PL" tvg-logo="" group-title="POLAND CHANNELS",Nat Geo PL
-http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/24903.ts
-#EXTINF:-1 tvg-id="" tvg-name="Nat Geo People FHD PL" tvg-logo="" group-title="POLAND CHANNELS",Nat Geo People FHD PL
-http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/24904.ts
-#EXTINF:-1 tvg-id="" tvg-name="Nat Geo Wild FHD PL" tvg-logo="" group-title="POLAND CHANNELS",Nat Geo Wild FHD PL
-http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/24905.ts
-#EXTINF:-1 tvg-id="" tvg-name="Nat Geo Wild PL" tvg-logo="" group-title="POLAND CHANNELS",Nat Geo Wild PL
-http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/24906.ts
-#EXTINF:-1 tvg-id="" tvg-name="Motorwizja PL" tvg-logo="" group-title="POLAND CHANNELS",Motorwizja PL
-http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/24907.ts
-#EXTINF:-1 tvg-id="" tvg-name="Planete+ FHD PL" tvg-logo="" group-title="POLAND CHANNELS",Planete+ FHD PL
-http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/24908.ts
-#EXTINF:-1 tvg-id="" tvg-name="Planete+ PL" tvg-logo="" group-title="POLAND CHANNELS",Planete+ PL
-http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/24909.ts
-#EXTINF:-1 tvg-id="" tvg-name="Polsat Doku FHD PL" tvg-logo="" group-title="POLAND CHANNELS",Polsat Doku FHD PL
-http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/24910.ts
-#EXTINF:-1 tvg-id="" tvg-name="Polsat Viasat History FHD PL" tvg-logo="" group-title="POLAND CHANNELS",Polsat Viasat History FHD PL
-http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/24911.ts
-#EXTINF:-1 tvg-id="" tvg-name="POLSAT Viasat Explore FHD PL" tvg-logo="" group-title="POLAND CHANNELS",POLSAT Viasat Explore FHD PL
-http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/24912.ts
-#EXTINF:-1 tvg-id="" tvg-name="POLSAT Viasat Nature FHD PL" tvg-logo="" group-title="POLAND CHANNELS",POLSAT Viasat Nature FHD PL
-http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/24913.ts
-#EXTINF:-1 tvg-id="" tvg-name="TVN Turbo FHD PL" tvg-logo="" group-title="POLAND CHANNELS",TVN Turbo FHD PL
-http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/24914.ts
-#EXTINF:-1 tvg-id="" tvg-name="TVN Turbo PL" tvg-logo="" group-title="POLAND CHANNELS",TVN Turbo PL
-http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/24915.ts
-#EXTINF:-1 tvg-id="" tvg-name="TVP Historia PL" tvg-logo="" group-title="POLAND CHANNELS",TVP Historia PL
-http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/24916.ts
-#EXTINF:-1 tvg-id="" tvg-name="TheBlaze TV PL" tvg-logo="" group-title="POLAND CHANNELS",TheBlaze TV PL
-http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/24917.ts
-#EXTINF:-1 tvg-id="" tvg-name="Travel Channel FHD PL" tvg-logo="" group-title="POLAND CHANNELS",Travel Channel FHD PL
-http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/24918.ts
-#EXTINF:-1 tvg-id="" tvg-name="4Fun Dance PL" tvg-logo="" group-title="POLAND CHANNELS",4Fun Dance PL
-http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/24919.ts
-#EXTINF:-1 tvg-id="" tvg-name="4Fun Gold Hits PL" tvg-logo="" group-title="POLAND CHANNELS",4Fun Gold Hits PL
-http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/24920.ts
-#EXTINF:-1 tvg-id="" tvg-name="4Fun TV PL" tvg-logo="" group-title="POLAND CHANNELS",4Fun TV PL
-http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/24921.ts
-#EXTINF:-1 tvg-id="" tvg-name="ATM Rozrywka TV PL" tvg-logo="" group-title="POLAND CHANNELS",ATM Rozrywka TV PL
-http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/24922.ts
-#EXTINF:-1 tvg-id="" tvg-name="Disco Polo Music HD PL" tvg-logo="" group-title="POLAND CHANNELS",Disco Polo Music HD PL
-http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/24923.ts
-#EXTINF:-1 tvg-id="" tvg-name="Disco Polo Music PL" tvg-logo="" group-title="POLAND CHANNELS",Disco Polo Music PL
-http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/24924.ts
-#EXTINF:-1 tvg-id="" tvg-name="Eska TV Extra PL" tvg-logo="" group-title="POLAND CHANNELS",Eska TV Extra PL
-http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/24925.ts
-#EXTINF:-1 tvg-id="" tvg-name="Eska TV PL" tvg-logo="" group-title="POLAND CHANNELS",Eska TV PL
-http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/24926.ts
-#EXTINF:-1 tvg-id="" tvg-name="HIP HOP TV PL" tvg-logo="" group-title="POLAND CHANNELS",HIP HOP TV PL
-http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/24927.ts
-#EXTINF:-1 tvg-id="" tvg-name="Kino Polska Muzyka PL" tvg-logo="" group-title="POLAND CHANNELS",Kino Polska Muzyka PL
-http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/24928.ts
-#EXTINF:-1 tvg-id="" tvg-name="MTV Dance HD PL" tvg-logo="" group-title="POLAND CHANNELS",MTV Dance HD PL
-http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/24929.ts
-#EXTINF:-1 tvg-id="" tvg-name="MTV Live FHD PL" tvg-logo="" group-title="POLAND CHANNELS",MTV Live FHD PL
-http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/24930.ts
-#EXTINF:-1 tvg-id="" tvg-name="MTV Polska FHD PL" tvg-logo="" group-title="POLAND CHANNELS",MTV Polska FHD PL
-http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/24931.ts
-#EXTINF:-1 tvg-id="" tvg-name="MTV Polska PL" tvg-logo="" group-title="POLAND CHANNELS",MTV Polska PL
-http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/24932.ts
-#EXTINF:-1 tvg-id="" tvg-name="Nuta.TV PL" tvg-logo="" group-title="POLAND CHANNELS",Nuta.TV PL
-http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/24933.ts
-#EXTINF:-1 tvg-id="" tvg-name="Polo TV FHD PL" tvg-logo="" group-title="POLAND CHANNELS",Polo TV FHD PL
-http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/24934.ts
-#EXTINF:-1 tvg-id="" tvg-name="Polsat Music FHD PL" tvg-logo="" group-title="POLAND CHANNELS",Polsat Music FHD PL
-http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/24935.ts
-#EXTINF:-1 tvg-id="" tvg-name="Power TV PL" tvg-logo="" group-title="POLAND CHANNELS",Power TV PL
-http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/24936.ts
-#EXTINF:-1 tvg-id="" tvg-name="TO!TV PL" tvg-logo="" group-title="POLAND CHANNELS",TO!TV PL
-http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/24937.ts
-#EXTINF:-1 tvg-id="" tvg-name="TVP Rozrywka PL" tvg-logo="" group-title="POLAND CHANNELS",TVP Rozrywka PL
-http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/24938.ts
-#EXTINF:-1 tvg-id="" tvg-name="VOX Music TV PL" tvg-logo="" group-title="POLAND CHANNELS",VOX Music TV PL
-http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/24939.ts
-#EXTINF:-1 tvg-id="" tvg-name="VH1 PL" tvg-logo="" group-title="POLAND CHANNELS",VH1 PL
-http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/24940.ts
-#EXTINF:-1 tvg-id="" tvg-name="Stars TV PL" tvg-logo="" group-title="POLAND CHANNELS",Stars TV PL
-http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/24941.ts
-#EXTINF:-1 tvg-id="" tvg-name="Trace Urban Muzik HD PL" tvg-logo="" group-title="POLAND CHANNELS",Trace Urban Muzik HD PL
-http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/24942.ts
-#EXTINF:-1 tvg-id="" tvg-name="TVP Info PL" tvg-logo="" group-title="POLAND CHANNELS",TVP Info PL
-http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/24951.ts
-#EXTINF:-1 tvg-id="" tvg-name="Baby TV PL" tvg-logo="" group-title="POLAND CHANNELS",Baby TV PL
-http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/24952.ts
-#EXTINF:-1 tvg-id="" tvg-name="Boomerang PL" tvg-logo="" group-title="POLAND CHANNELS",Boomerang PL
-http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/24953.ts
-#EXTINF:-1 tvg-id="" tvg-name="Cartoon Network FHD PL" tvg-logo="" group-title="POLAND CHANNELS",Cartoon Network FHD PL
-http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/24954.ts
-#EXTINF:-1 tvg-id="" tvg-name="Cbeebies PL" tvg-logo="" group-title="POLAND CHANNELS",Cbeebies PL
-http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/24955.ts
-#EXTINF:-1 tvg-id="" tvg-name="Disney Channel FHD PL" tvg-logo="" group-title="POLAND CHANNELS",Disney Channel FHD PL
-http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/24956.ts
-#EXTINF:-1 tvg-id="" tvg-name="Disney Junior PL" tvg-logo="" group-title="POLAND CHANNELS",Disney Junior PL
-http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/24957.ts
-#EXTINF:-1 tvg-id="" tvg-name="Disney XD PL" tvg-logo="" group-title="POLAND CHANNELS",Disney XD PL
-http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/24958.ts
-#EXTINF:-1 tvg-id="" tvg-name="MiniMini+ FHD PL" tvg-logo="" group-title="POLAND CHANNELS",MiniMini+ FHD PL
-http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/24959.ts
-#EXTINF:-1 tvg-id="" tvg-name="MiniMini+ HD PL" tvg-logo="" group-title="POLAND CHANNELS",MiniMini+ HD PL
-http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/24960.ts
-#EXTINF:-1 tvg-id="" tvg-name="Nick JR. PL" tvg-logo="" group-title="POLAND CHANNELS",Nick JR. PL
-http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/24961.ts
-#EXTINF:-1 tvg-id="" tvg-name="Nickelodeon PL" tvg-logo="" group-title="POLAND CHANNELS",Nickelodeon PL
-http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/24962.ts
-#EXTINF:-1 tvg-id="" tvg-name="POLSAT JimJam PL" tvg-logo="" group-title="POLAND CHANNELS",POLSAT JimJam PL
-http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/24963.ts
-#EXTINF:-1 tvg-id="" tvg-name="TVP ABC PL" tvg-logo="" group-title="POLAND CHANNELS",TVP ABC PL
-http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/24964.ts
-#EXTINF:-1 tvg-id="" tvg-name="TeleToon+ FHD PL" tvg-logo="" group-title="POLAND CHANNELS",TeleToon+ FHD PL
-http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/24965.ts
-#EXTINF:-1 tvg-id="" tvg-name="TeleToon+ PL" tvg-logo="" group-title="POLAND CHANNELS",TeleToon+ PL
-http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/24966.ts
-#EXTINF:-1 tvg-id="" tvg-name="Kuchnia+ FHD PL" tvg-logo="" group-title="POLAND CHANNELS",Kuchnia+ FHD PL
-http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/24967.ts
-#EXTINF:-1 tvg-id="" tvg-name="Kuchnia+ HD PL" tvg-logo="" group-title="POLAND CHANNELS",Kuchnia+ HD PL
-http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/24968.ts
-#EXTINF:-1 tvg-id="" tvg-name="HGTV FHD PL" tvg-logo="" group-title="POLAND CHANNELS",HGTV FHD PL
-http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/24969.ts
-#EXTINF:-1 tvg-id="" tvg-name="HGTV PL" tvg-logo="" group-title="POLAND CHANNELS",HGTV PL
-http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/24970.ts
-#EXTINF:-1 tvg-id="" tvg-name="Food Network FHD PL" tvg-logo="" group-title="POLAND CHANNELS",Food Network FHD PL
-http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/24971.ts
-#EXTINF:-1 tvg-id="" tvg-name="TLC FHD PL" tvg-logo="" group-title="POLAND CHANNELS",TLC FHD PL
-http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/24972.ts
-#EXTINF:-1 tvg-id="" tvg-name="TLC PL" tvg-logo="" group-title="POLAND CHANNELS",TLC PL
-http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/24973.ts
-#EXTINF:-1 tvg-id="" tvg-name="TTV FHD PL" tvg-logo="" group-title="POLAND CHANNELS",TTV FHD PL
-http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/24974.ts
-#EXTINF:-1 tvg-id="" tvg-name="Domo+ HD PL" tvg-logo="" group-title="POLAND CHANNELS",Domo+ HD PL
-http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/24975.ts
-#EXTINF:-1 tvg-id="" tvg-name="E! FHD PL" tvg-logo="" group-title="POLAND CHANNELS",E! FHD PL
-http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/24976.ts
-#EXTINF:-1 tvg-id="" tvg-name="Epic Drama FHD PL" tvg-logo="" group-title="POLAND CHANNELS",Epic Drama FHD PL
-http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/24977.ts
-#EXTINF:-1 tvg-id="" tvg-name="Lifetime FHD PL" tvg-logo="" group-title="POLAND CHANNELS",Lifetime FHD PL
-http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/24978.ts
-#EXTINF:-1 tvg-id="" tvg-name="Lifetime HD PL" tvg-logo="" group-title="POLAND CHANNELS",Lifetime HD PL
-http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/24979.ts
-#EXTINF:-1 tvg-id="" tvg-name="Polsat Cafe HD PL" tvg-logo="" group-title="POLAND CHANNELS",Polsat Cafe HD PL
-http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/24980.ts
-#EXTINF:-1 tvg-id="" tvg-name="Polsat Games FHD PL" tvg-logo="" group-title="POLAND CHANNELS",Polsat Games FHD PL
-http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/24981.ts
-#EXTINF:-1 tvg-id="" tvg-name="Polsat Play FHD PL" tvg-logo="" group-title="POLAND CHANNELS",Polsat Play FHD PL
-http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/24982.ts
-#EXTINF:-1 tvg-id="" tvg-name="Polsat Play HD PL" tvg-logo="" group-title="POLAND CHANNELS",Polsat Play HD PL
-http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/24983.ts
-#EXTINF:-1 tvg-id="" tvg-name="Polsat Play PL" tvg-logo="" group-title="POLAND CHANNELS",Polsat Play PL
-http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/24984.ts
-#EXTINF:-1 tvg-id="" tvg-name="Polsat Rodzina FHD PL" tvg-logo="" group-title="POLAND CHANNELS",Polsat Rodzina FHD PL
-http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/24985.ts
-#EXTINF:-1 tvg-id="" tvg-name="TVN Style FHD PL" tvg-logo="" group-title="POLAND CHANNELS",TVN Style FHD PL
-http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/24986.ts
-#EXTINF:-1 tvg-id="" tvg-name="TVN Style PL" tvg-logo="" group-title="POLAND CHANNELS",TVN Style PL
-http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/24987.ts
-#EXTINF:-1 tvg-id="" tvg-name="METRO PL" tvg-logo="" group-title="POLAND CHANNELS",METRO PL
-http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/24988.ts
-#EXTINF:-1 tvg-id="" tvg-name="TVP Kultura PL" tvg-logo="" group-title="POLAND CHANNELS",TVP Kultura PL
-http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/24989.ts
-#EXTINF:-1 tvg-id="" tvg-name="TV Puls FHD PL" tvg-logo="" group-title="POLAND CHANNELS",TV Puls FHD PL
-http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/24990.ts
-#EXTINF:-1 tvg-id="" tvg-name="TV Puls HD PL" tvg-logo="" group-title="POLAND CHANNELS",TV Puls HD PL
-http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/24991.ts
-#EXTINF:-1 tvg-id="" tvg-name="Puls 2 PL" tvg-logo="" group-title="POLAND CHANNELS",Puls 2 PL
-http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/24992.ts
-#EXTINF:-1 tvg-id="" tvg-name="TV6 FHD PL" tvg-logo="" group-title="POLAND CHANNELS",TV6 FHD PL
-http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/24993.ts
-#EXTINF:-1 tvg-id="" tvg-name="TV6 HD PL" tvg-logo="" group-title="POLAND CHANNELS",TV6 HD PL
-http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/24994.ts
-#EXTINF:-1 tvg-id="" tvg-name="Nowa TV PL" tvg-logo="" group-title="POLAND CHANNELS",Nowa TV PL
-http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/24995.ts
-#EXTINF:-1 tvg-id="" tvg-name="Stopklatka TV PL" tvg-logo="" group-title="POLAND CHANNELS",Stopklatka TV PL
-http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/24996.ts
-#EXTINF:-1 tvg-id="" tvg-name="Sundance FHD PL" tvg-logo="" group-title="POLAND CHANNELS",Sundance FHD PL
-http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/24997.ts
-#EXTINF:-1 tvg-id="" tvg-name="Super Polsat FHD PL" tvg-logo="" group-title="POLAND CHANNELS",Super Polsat FHD PL
-http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/24998.ts
-#EXTINF:-1 tvg-id="" tvg-name="Superstacja FHD PL" tvg-logo="" group-title="POLAND CHANNELS",Superstacja FHD PL
-http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/24999.ts
-#EXTINF:-1 tvg-id="" tvg-name="TV Republika HD PL" tvg-logo="" group-title="POLAND CHANNELS",TV Republika HD PL
-http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/25000.ts
-#EXTINF:-1 tvg-id="" tvg-name="TV Republika PL" tvg-logo="" group-title="POLAND CHANNELS",TV Republika PL
-http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/25001.ts
-#EXTINF:-1 tvg-id="" tvg-name="TVP FHD PL" tvg-logo="" group-title="POLAND CHANNELS",TVP FHD PL
-http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/25002.ts
-#EXTINF:-1 tvg-id="" tvg-name="TVP HD PL" tvg-logo="" group-title="POLAND CHANNELS",TVP HD PL
-http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/25003.ts
-#EXTINF:-1 tvg-id="" tvg-name="TVP Polonia PL" tvg-logo="" group-title="POLAND CHANNELS",TVP Polonia PL
-http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/25004.ts
-#EXTINF:-1 tvg-id="" tvg-name="TVS PL" tvg-logo="" group-title="POLAND CHANNELS",TVS PL
-http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/25005.ts
-#EXTINF:-1 tvg-id="" tvg-name="WP PL" tvg-logo="" group-title="POLAND CHANNELS",WP PL
-http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/25006.ts
-#EXTINF:-1 tvg-id="" tvg-name="Zoom TV PL" tvg-logo="" group-title="POLAND CHANNELS",Zoom TV PL
-http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/25007.ts
-#EXTINF:-1 tvg-id="" tvg-name="TV Trwam PL" tvg-logo="" group-title="POLAND CHANNELS",TV Trwam PL
-http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/25008.ts
-#EXTINF:-1 tvg-id="" tvg-name="TVP 3 Białystok PL" tvg-logo="" group-title="POLAND CHANNELS",TVP 3 Białystok PL
-http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/25009.ts
-#EXTINF:-1 tvg-id="" tvg-name="TVP 3 Bydgoszcz PL" tvg-logo="" group-title="POLAND CHANNELS",TVP 3 Bydgoszcz PL
-http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/25010.ts
-#EXTINF:-1 tvg-id="" tvg-name="TVP 3 Gdańsk PL" tvg-logo="" group-title="POLAND CHANNELS",TVP 3 Gdańsk PL
-http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/25011.ts
-#EXTINF:-1 tvg-id="" tvg-name="TVP 3 Katowice PL" tvg-logo="" group-title="POLAND CHANNELS",TVP 3 Katowice PL
-http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/25012.ts
-#EXTINF:-1 tvg-id="" tvg-name="TVP 3 Kielce PL" tvg-logo="" group-title="POLAND CHANNELS",TVP 3 Kielce PL
-http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/25013.ts
-#EXTINF:-1 tvg-id="" tvg-name="TVP 3 Kraków PL" tvg-logo="" group-title="POLAND CHANNELS",TVP 3 Kraków PL
-http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/25014.ts
-#EXTINF:-1 tvg-id="" tvg-name="TVP 3 Lublin PL" tvg-logo="" group-title="POLAND CHANNELS",TVP 3 Lublin PL
-http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/25015.ts
-#EXTINF:-1 tvg-id="" tvg-name="TVP 3 Olsztyn PL" tvg-logo="" group-title="POLAND CHANNELS",TVP 3 Olsztyn PL
-http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/25016.ts
-#EXTINF:-1 tvg-id="" tvg-name="TVP 3 Opole PL" tvg-logo="" group-title="POLAND CHANNELS",TVP 3 Opole PL
-http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/25017.ts
-#EXTINF:-1 tvg-id="" tvg-name="TVP 3 PL" tvg-logo="" group-title="POLAND CHANNELS",TVP 3 PL
-http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/25018.ts
-#EXTINF:-1 tvg-id="" tvg-name="TVP 3 Poznań PL" tvg-logo="" group-title="POLAND CHANNELS",TVP 3 Poznań PL
-http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/25019.ts
-#EXTINF:-1 tvg-id="" tvg-name="TVP 3 Rzeszów PL" tvg-logo="" group-title="POLAND CHANNELS",TVP 3 Rzeszów PL
-http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/25020.ts
-#EXTINF:-1 tvg-id="" tvg-name="TVP 3 Szczecin PL" tvg-logo="" group-title="POLAND CHANNELS",TVP 3 Szczecin PL
-http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/25021.ts
-#EXTINF:-1 tvg-id="" tvg-name="TVP 3 Warszawa PL" tvg-logo="" group-title="POLAND CHANNELS",TVP 3 Warszawa PL
-http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/25022.ts
-#EXTINF:-1 tvg-id="" tvg-name="TVP 3 Wrocław PL" tvg-logo="" group-title="POLAND CHANNELS",TVP 3 Wrocław PL
-http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/25023.ts
-#EXTINF:-1 tvg-id="" tvg-name="TVP 3 Łódź PL" tvg-logo="" group-title="POLAND CHANNELS",TVP 3 Łódź PL
-http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/25024.ts
-#EXTINF:-1 tvg-id="" tvg-name="TV Kujawy PL" tvg-logo="" group-title="POLAND CHANNELS",TV Kujawy PL
-http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/25025.ts
-#EXTINF:-1 tvg-id="" tvg-name="TV Toruń PL" tvg-logo="" group-title="POLAND CHANNELS",TV Toruń PL
-http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/25026.ts
-#EXTINF:-1 tvg-id="" tvg-name="TVT Zgorzelec PL" tvg-logo="" group-title="POLAND CHANNELS",TVT Zgorzelec PL
-http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/25027.ts
-#EXTINF:-1 tvg-id="" tvg-name="VOD 202 PL" tvg-logo="" group-title="POLAND CHANNELS",VOD 202 PL
-http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/25028.ts
-#EXTINF:-1 tvg-id="" tvg-name="VOD 204 PL" tvg-logo="" group-title="POLAND CHANNELS",VOD 204 PL
-http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/25029.ts
-#EXTINF:-1 tvg-id="" tvg-name="VOD 205 PL" tvg-logo="" group-title="POLAND CHANNELS",VOD 205 PL
-http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/25030.ts
-#EXTINF:-1 tvg-id="" tvg-name="VOD 206 PL" tvg-logo="" group-title="POLAND CHANNELS",VOD 206 PL
-http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/25031.ts
-#EXTINF:-1 tvg-id="" tvg-name="VOD 207 PL" tvg-logo="" group-title="POLAND CHANNELS",VOD 207 PL
-http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/25032.ts
-#EXTINF:-1 tvg-id="" tvg-name="VOD 208 PL" tvg-logo="" group-title="POLAND CHANNELS",VOD 208 PL
-http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/25033.ts
-#EXTINF:-1 tvg-id="" tvg-name="VOD 212 PL" tvg-logo="" group-title="POLAND CHANNELS",VOD 212 PL
-http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/25034.ts
-#EXTINF:-1 tvg-id="" tvg-name="Canal+ Sport 3 HD PL" tvg-logo="" group-title="POLAND CHANNELS",Canal+ Sport 3 HD PL
-http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/25036.ts
-#EXTINF:-1 tvg-id="" tvg-name="Canal+ Sport 3 FHD PL" tvg-logo="" group-title="POLAND CHANNELS",Canal+ Sport 3 FHD PL
-http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/25037.ts
-#EXTINF:-1 tvg-id="" tvg-name="Canal+ Sport 4 HD PL" tvg-logo="" group-title="POLAND CHANNELS",Canal+ Sport 4 HD PL
-http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/25038.ts
-#EXTINF:-1 tvg-id="" tvg-name="Canal+ Sport 4 FHD PL" tvg-logo="" group-title="POLAND CHANNELS",Canal+ Sport 4 FHD PL
-http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/25039.ts
-#EXTINF:-1 tvg-id="" tvg-name="Canal+ NOW FHD PL" tvg-logo="" group-title="POLAND CHANNELS",Canal+ NOW FHD PL
-http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/25040.ts
-#EXTINF:-1 tvg-id="" tvg-name="Nicktoons HD PL" tvg-logo="" group-title="POLAND CHANNELS",Nicktoons HD PL
-http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/25041.ts
-#EXTINF:-1 tvg-id="" tvg-name="TVN HD PL" tvg-logo="" group-title="POLAND CHANNELS",TVN HD PL
-http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/25042.ts
-#EXTINF:-1 tvg-id="" tvg-name="Eska Best Music PL" tvg-logo="" group-title="POLAND CHANNELS",Eska Best Music PL
-http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/25043.ts
-#EXTINF:-1 tvg-id="" tvg-name="BBC LIFESTYLE FHD PL" tvg-logo="" group-title="POLAND CHANNELS",BBC LIFESTYLE FHD PL
-http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/25044.ts
-#EXTINF:-1 tvg-id="" tvg-name="ESKA ROCK TV PL" tvg-logo="" group-title="POLAND CHANNELS",ESKA ROCK TV PL
-http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/25045.ts
-#EXTINF:-1 tvg-id="" tvg-name="BBC FIRST FHD PL" tvg-logo="" group-title="POLAND CHANNELS",BBC FIRST FHD PL
-http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/25046.ts
-#EXTINF:-1 tvg-id="" tvg-name="Comedy Central Extra Polsat PL" tvg-logo="" group-title="POLAND CHANNELS",Comedy Central Extra Polsat PL
-http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/25047.ts
-#EXTINF:-1 tvg-id="" tvg-name="MTV ROCKS PL" tvg-logo="" group-title="POLAND CHANNELS",MTV ROCKS PL
-http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/25048.ts
-#EXTINF:-1 tvg-id="" tvg-name="Fightklub FHD PL" tvg-logo="" group-title="POLAND CHANNELS",Fightklub FHD PL
-http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/25049.ts
-#EXTINF:-1 tvg-id="" tvg-name="Red Carpet FHD PL" tvg-logo="" group-title="POLAND CHANNELS",Red Carpet FHD PL
-http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/25051.ts
-#EXTINF:-1 tvg-id="" tvg-name="TV Okazje PL" tvg-logo="" group-title="POLAND CHANNELS",TV Okazje PL
-http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/25052.ts
-#EXTINF:-1 tvg-id="" tvg-name="WPolsce PL" tvg-logo="" group-title="POLAND CHANNELS",WPolsce PL
-http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/25053.ts
-#EXTINF:-1 tvg-id="" tvg-name="CANAL+ DOKUMENT HD PL" tvg-logo="" group-title="POLAND CHANNELS",CANAL+ DOKUMENT HD PL
-http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/25054.ts
-#EXTINF:-1 tvg-id="" tvg-name="Boomerang FHD PL" tvg-logo="" group-title="POLAND CHANNELS",Boomerang FHD PL
-http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/25055.ts
-#EXTINF:-1 tvg-id="" tvg-name="CBS Reality FHD PL" tvg-logo="" group-title="POLAND CHANNELS",CBS Reality FHD PL
-http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/25056.ts
-#EXTINF:-1 tvg-id="" tvg-name="BBC Earth FHD PL" tvg-logo="" group-title="POLAND CHANNELS",BBC Earth FHD PL
-http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/25057.ts
-#EXTINF:-1 tvg-id="" tvg-name="Biznes24 FHD PL" tvg-logo="" group-title="POLAND CHANNELS",Biznes24 FHD PL
-http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/25058.ts
-#EXTINF:-1 tvg-id="" tvg-name="Kino TV FHD PL" tvg-logo="" group-title="POLAND CHANNELS",Kino TV FHD PL
-http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/25059.ts
-#EXTINF:-1 tvg-id="" tvg-name="Kino Polska FHD PL" tvg-logo="" group-title="POLAND CHANNELS",Kino Polska FHD PL
-http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/25060.ts
-#EXTINF:-1 tvg-id="" tvg-name="StudioMed TV FHD PL" tvg-logo="" group-title="POLAND CHANNELS",StudioMed TV FHD PL
-http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/25061.ts
-#EXTINF:-1 tvg-id="" tvg-name="SciFi FHD PL" tvg-logo="" group-title="POLAND CHANNELS",SciFi FHD PL
-http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/25062.ts
-#EXTINF:-1 tvg-id="" tvg-name="TVR PL" tvg-logo="" group-title="POLAND CHANNELS",TVR PL
-http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/25063.ts
-#EXTINF:-1 tvg-id="" tvg-name="AXN PL" tvg-logo="" group-title="POLAND CHANNELS",AXN PL
-http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/25065.ts
-#EXTINF:-1 tvg-id="" tvg-name="Canal+ Premium FHD PL" tvg-logo="" group-title="POLAND CHANNELS",Canal+ Premium FHD PL
+#EXTINF:-1 tvg-id="" tvg-name="Canal+ Premium FHD PL" tvg-logo="" group-title="Rezerwa1",Canal+ Premium FHD PL
 http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/25066.ts
-#EXTINF:-1 tvg-id="" tvg-name="Polsat Comedy Central FHD PL" tvg-logo="" group-title="POLAND CHANNELS",Polsat Comedy Central FHD PL
+#EXTINF:-1 tvg-id="" tvg-name="Canal+ PL" tvg-logo="" group-title="Rezerwa1",Canal+ PL
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/24788.ts
+#EXTINF:-1 tvg-id="" tvg-name="Canal+ UHD PL" tvg-logo="" group-title="Rezerwa1",Canal+ UHD PL
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/24789.ts
+#EXTINF:-1 tvg-id="" tvg-name="Canal+ +1 FHD PL" tvg-logo="" group-title="Rezerwa1",Canal+ +1 FHD PL
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/24790.ts
+#EXTINF:-1 tvg-id="" tvg-name="Canal+ Film FHD PL" tvg-logo="" group-title="Rezerwa1",Canal+ Film FHD PL
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/24791.ts
+#EXTINF:-1 tvg-id="" tvg-name="CANAL+ FAMILY FHD PL" tvg-logo="" group-title="Rezerwa1",CANAL+ FAMILY FHD PL
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/24792.ts
+#EXTINF:-1 tvg-id="" tvg-name="CANAL+ FAMILY HD PL" tvg-logo="" group-title="Rezerwa1",CANAL+ FAMILY HD PL
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/24793.ts
+#EXTINF:-1 tvg-id="" tvg-name="Canal+ Seriale FHD PL" tvg-logo="" group-title="Rezerwa1",Canal+ Seriale FHD PL
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/24794.ts
+#EXTINF:-1 tvg-id="" tvg-name="Canal+ Seriale HD PL" tvg-logo="" group-title="Rezerwa1",Canal+ Seriale HD PL
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/24795.ts
+#EXTINF:-1 tvg-id="" tvg-name="Polsat Film FHD PL" tvg-logo="" group-title="Rezerwa1",Polsat Film FHD PL
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/24796.ts
+#EXTINF:-1 tvg-id="" tvg-name="Polsat Film HD PL" tvg-logo="" group-title="Rezerwa1",Polsat Film HD PL
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/24797.ts
+#EXTINF:-1 tvg-id="" tvg-name="Polsat Film PL" tvg-logo="" group-title="Rezerwa1",Polsat Film PL
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/24798.ts
+#EXTINF:-1 tvg-id="" tvg-name="AXN FHD PL" tvg-logo="" group-title="Rezerwa1",AXN FHD PL
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/24799.ts
+#EXTINF:-1 tvg-id="" tvg-name="AXN HD PL" tvg-logo="" group-title="Rezerwa1",AXN HD PL
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/24800.ts
+#EXTINF:-1 tvg-id="" tvg-name="AXN Black PL" tvg-logo="" group-title="Rezerwa1",AXN Black PL
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/24801.ts
+#EXTINF:-1 tvg-id="" tvg-name="AXN White PL" tvg-logo="" group-title="Rezerwa1",AXN White PL
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/24802.ts
+#EXTINF:-1 tvg-id="" tvg-name="AXN Spin FHD PL" tvg-logo="" group-title="Rezerwa1",AXN Spin FHD PL
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/24803.ts
+#EXTINF:-1 tvg-id="" tvg-name="AXN Spin PL" tvg-logo="" group-title="Rezerwa1",AXN Spin PL
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/24804.ts
+#EXTINF:-1 tvg-id="" tvg-name="FOX FHD PL" tvg-logo="" group-title="Rezerwa1",FOX FHD PL
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/24805.ts
+#EXTINF:-1 tvg-id="" tvg-name="FOX PL" tvg-logo="" group-title="Rezerwa1",FOX PL
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/24806.ts
+#EXTINF:-1 tvg-id="" tvg-name="FOX Comedy FHD PL" tvg-logo="" group-title="Rezerwa1",FOX Comedy FHD PL
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/24807.ts
+#EXTINF:-1 tvg-id="" tvg-name="Fox Comedy PL" tvg-logo="" group-title="Rezerwa1",Fox Comedy PL
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/24808.ts
+#EXTINF:-1 tvg-id="" tvg-name="Filmbox Action HD PL" tvg-logo="" group-title="Rezerwa1",Filmbox Action HD PL
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/24809.ts
+#EXTINF:-1 tvg-id="" tvg-name="Filmbox Action PL" tvg-logo="" group-title="Rezerwa1",Filmbox Action PL
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/24810.ts
+#EXTINF:-1 tvg-id="" tvg-name="FilmBox Arthouse PL" tvg-logo="" group-title="Rezerwa1",FilmBox Arthouse PL
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/24811.ts
+#EXTINF:-1 tvg-id="" tvg-name="Filmbox Extra FHD PL" tvg-logo="" group-title="Rezerwa1",Filmbox Extra FHD PL
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/24812.ts
+#EXTINF:-1 tvg-id="" tvg-name="Filmbox Extra PL" tvg-logo="" group-title="Rezerwa1",Filmbox Extra PL
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/24813.ts
+#EXTINF:-1 tvg-id="" tvg-name="Filmbox Family PL" tvg-logo="" group-title="Rezerwa1",Filmbox Family PL
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/24814.ts
+#EXTINF:-1 tvg-id="" tvg-name="Filmbox Premium FHD PL" tvg-logo="" group-title="Rezerwa1",Filmbox Premium FHD PL
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/24815.ts
+#EXTINF:-1 tvg-id="" tvg-name="CineMax 1 FHD PL" tvg-logo="" group-title="Rezerwa1",CineMax 1 FHD PL
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/24816.ts
+#EXTINF:-1 tvg-id="" tvg-name="CineMax 1 HD PL" tvg-logo="" group-title="Rezerwa1",CineMax 1 HD PL
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/24817.ts
+#EXTINF:-1 tvg-id="" tvg-name="Cinemax 2 FHD PL" tvg-logo="" group-title="Rezerwa1",Cinemax 2 FHD PL
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/24818.ts
+#EXTINF:-1 tvg-id="" tvg-name="CBS Europe HD PL" tvg-logo="" group-title="Rezerwa1",CBS Europe HD PL
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/24819.ts
+#EXTINF:-1 tvg-id="" tvg-name="CBS Europa FHD PL" tvg-logo="" group-title="Rezerwa1",CBS Europa FHD PL
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/24820.ts
+#EXTINF:-1 tvg-id="" tvg-name="CBS Reality PL" tvg-logo="" group-title="Rezerwa1",CBS Reality PL
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/24821.ts
+#EXTINF:-1 tvg-id="" tvg-name="13 Ulica FHD PL" tvg-logo="" group-title="Rezerwa1",13 Ulica FHD PL
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/24822.ts
+#EXTINF:-1 tvg-id="" tvg-name="13 Ulica PL" tvg-logo="" group-title="Rezerwa1",13 Ulica PL
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/24823.ts
+#EXTINF:-1 tvg-id="" tvg-name="Ale Kino+ FHD PL" tvg-logo="" group-title="Rezerwa1",Ale Kino+ FHD PL
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/24824.ts
+#EXTINF:-1 tvg-id="" tvg-name="Ale Kino+ HD PL" tvg-logo="" group-title="Rezerwa1",Ale Kino+ HD PL
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/24825.ts
+#EXTINF:-1 tvg-id="" tvg-name="Comedy Central FHD PL" tvg-logo="" group-title="Rezerwa1",Comedy Central FHD PL
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/24826.ts
+#EXTINF:-1 tvg-id="" tvg-name="Comedy Central PL" tvg-logo="" group-title="Rezerwa1",Comedy Central PL
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/24827.ts
+#EXTINF:-1 tvg-id="" tvg-name="Comedy Central Family PL" tvg-logo="" group-title="Rezerwa1",Comedy Central Family PL
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/24828.ts
+#EXTINF:-1 tvg-id="" tvg-name="Kino Polska PL" tvg-logo="" group-title="Rezerwa1",Kino Polska PL
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/24829.ts
+#EXTINF:-1 tvg-id="" tvg-name="Kino TV PL" tvg-logo="" group-title="Rezerwa1",Kino TV PL
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/24830.ts
+#EXTINF:-1 tvg-id="" tvg-name="Paramount Channel FHD PL" tvg-logo="" group-title="Rezerwa1",Paramount Channel FHD PL
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/24831.ts
+#EXTINF:-1 tvg-id="" tvg-name="SciFi Universal PL" tvg-logo="" group-title="Rezerwa1",SciFi Universal PL
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/24832.ts
+#EXTINF:-1 tvg-id="" tvg-name="TNT FHD PL" tvg-logo="" group-title="Rezerwa1",TNT FHD PL
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/24833.ts
+#EXTINF:-1 tvg-id="" tvg-name="TNT HD PL" tvg-logo="" group-title="Rezerwa1",TNT HD PL
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/24834.ts
+#EXTINF:-1 tvg-id="" tvg-name="TNT PL" tvg-logo="" group-title="Rezerwa1",TNT PL
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/24835.ts
+#EXTINF:-1 tvg-id="" tvg-name="AMC FHD PL" tvg-logo="" group-title="Rezerwa1",AMC FHD PL
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/24836.ts
+#EXTINF:-1 tvg-id="" tvg-name="AMC PL" tvg-logo="" group-title="Rezerwa1",AMC PL
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/24837.ts
+#EXTINF:-1 tvg-id="" tvg-name="Active Family PL" tvg-logo="" group-title="Rezerwa1",Active Family PL
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/24838.ts
+#EXTINF:-1 tvg-id="" tvg-name="TVN Fabula FHD PL" tvg-logo="" group-title="Rezerwa1",TVN Fabula FHD PL
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/24839.ts
+#EXTINF:-1 tvg-id="" tvg-name="Polsat Romans PL" tvg-logo="" group-title="Rezerwa1",Polsat Romans PL
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/24840.ts
+#EXTINF:-1 tvg-id="" tvg-name="Romance FHD PL" tvg-logo="" group-title="Rezerwa1",Romance FHD PL
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/24841.ts
+#EXTINF:-1 tvg-id="" tvg-name="TVP Seriale PL" tvg-logo="" group-title="Rezerwa1",TVP Seriale PL
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/24842.ts
+#EXTINF:-1 tvg-id="" tvg-name="EuroSport 1 FHD PL" tvg-logo="" group-title="Rezerwa1",EuroSport 1 FHD PL
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/24843.ts
+#EXTINF:-1 tvg-id="" tvg-name="EuroSport 1 HD PL" tvg-logo="" group-title="Rezerwa1",EuroSport 1 HD PL
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/24844.ts
+#EXTINF:-1 tvg-id="" tvg-name="Eurosport 1 PL" tvg-logo="" group-title="Rezerwa1",Eurosport 1 PL
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/24845.ts
+#EXTINF:-1 tvg-id="" tvg-name="EuroSport 2 FHD PL" tvg-logo="" group-title="Rezerwa1",EuroSport 2 FHD PL
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/24846.ts
+#EXTINF:-1 tvg-id="" tvg-name="Eleven Sports 2 FHD PL" tvg-logo="" group-title="Rezerwa1",Eleven Sports 2 FHD PL
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/24848.ts
+#EXTINF:-1 tvg-id="" tvg-name="Eleven Sports 3 FHD PL" tvg-logo="" group-title="Rezerwa1",Eleven Sports 3 FHD PL
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/24849.ts
+#EXTINF:-1 tvg-id="" tvg-name="Eleven Sports 4 FHD PL" tvg-logo="" group-title="Rezerwa1",Eleven Sports 4 FHD PL
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/24850.ts
+#EXTINF:-1 tvg-id="" tvg-name="Canal+ Sport FHD PL" tvg-logo="" group-title="Rezerwa1",Canal+ Sport FHD PL
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/24851.ts
+#EXTINF:-1 tvg-id="" tvg-name="Canal+ Sport HD PL" tvg-logo="" group-title="Rezerwa1",Canal+ Sport HD PL
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/24852.ts
+#EXTINF:-1 tvg-id="" tvg-name="Canal+ Sport PL" tvg-logo="" group-title="Rezerwa1",Canal+ Sport PL
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/24853.ts
+#EXTINF:-1 tvg-id="" tvg-name="Canal+ Sport 2 FHD PL" tvg-logo="" group-title="Rezerwa1",Canal+ Sport 2 FHD PL
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/24854.ts
+#EXTINF:-1 tvg-id="" tvg-name="Canal+ Sport 2 HD PL" tvg-logo="" group-title="Rezerwa1",Canal+ Sport 2 HD PL
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/24855.ts
+#EXTINF:-1 tvg-id="" tvg-name="Extreme Sports FHD PL" tvg-logo="" group-title="Rezerwa1",Extreme Sports FHD PL
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/24856.ts
+#EXTINF:-1 tvg-id="" tvg-name="Extreme Sports HD PL" tvg-logo="" group-title="Rezerwa1",Extreme Sports HD PL
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/24857.ts
+#EXTINF:-1 tvg-id="" tvg-name="Polsat Sport News HD PL" tvg-logo="" group-title="Rezerwa1",Polsat Sport News HD PL
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/24858.ts
+#EXTINF:-1 tvg-id="" tvg-name="Polsat Sport FHD PL" tvg-logo="" group-title="Rezerwa1",Polsat Sport FHD PL
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/24859.ts
+#EXTINF:-1 tvg-id="" tvg-name="Polsat Sport HD PL" tvg-logo="" group-title="Rezerwa1",Polsat Sport HD PL
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/24860.ts
+#EXTINF:-1 tvg-id="" tvg-name="Polsat Sport PL" tvg-logo="" group-title="Rezerwa1",Polsat Sport PL
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/24861.ts
+#EXTINF:-1 tvg-id="" tvg-name="Polsat Sport Extra FHD PL" tvg-logo="" group-title="Rezerwa1",Polsat Sport Extra FHD PL
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/24862.ts
+#EXTINF:-1 tvg-id="" tvg-name="Polsat Sport Extra HD PL" tvg-logo="" group-title="Rezerwa1",Polsat Sport Extra HD PL
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/24863.ts
+#EXTINF:-1 tvg-id="" tvg-name="Polsat Sport Extra PL" tvg-logo="" group-title="Rezerwa1",Polsat Sport Extra PL
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/24864.ts
+#EXTINF:-1 tvg-id="" tvg-name="Polsat Sport Premium 1 FHD VIP PL" tvg-logo="" group-title="Rezerwa1",Polsat Sport Premium 1 FHD VIP PL
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/24865.ts
+#EXTINF:-1 tvg-id="" tvg-name="Polsat Sport Premium 2 FHD VIP PL" tvg-logo="" group-title="Rezerwa1",Polsat Sport Premium 2 FHD VIP PL
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/24866.ts
+#EXTINF:-1 tvg-id="" tvg-name="POLSAT Sport Fight FHD PL" tvg-logo="" group-title="Rezerwa1",POLSAT Sport Fight FHD PL
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/24867.ts
+#EXTINF:-1 tvg-id="" tvg-name="Polsat Sport Fight HD PL" tvg-logo="" group-title="Rezerwa1",Polsat Sport Fight HD PL
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/24868.ts
+#EXTINF:-1 tvg-id="" tvg-name="Polsat Sport Fight PL" tvg-logo="" group-title="Rezerwa1",Polsat Sport Fight PL
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/24869.ts
+#EXTINF:-1 tvg-id="" tvg-name="Fight Channel World HD PL" tvg-logo="" group-title="Rezerwa1",Fight Channel World HD PL
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/24870.ts
+#EXTINF:-1 tvg-id="" tvg-name="Fight Network FHD PL" tvg-logo="" group-title="Rezerwa1",Fight Network FHD PL
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/24871.ts
+#EXTINF:-1 tvg-id="" tvg-name="Fightbox FHD PL" tvg-logo="" group-title="Rezerwa1",Fightbox FHD PL
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/24872.ts
+#EXTINF:-1 tvg-id="" tvg-name="Fightbox PL" tvg-logo="" group-title="Rezerwa1",Fightbox PL
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/24873.ts
+#EXTINF:-1 tvg-id="" tvg-name="nSport HD PL" tvg-logo="" group-title="Rezerwa1",nSport HD PL
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/24874.ts
+#EXTINF:-1 tvg-id="" tvg-name="nSport+ FHD PL" tvg-logo="" group-title="Rezerwa1",nSport+ FHD PL
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/24875.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sport Klub FHD PL" tvg-logo="" group-title="Rezerwa1",Sport Klub FHD PL
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/24876.ts
+#EXTINF:-1 tvg-id="" tvg-name="TVP Sport FHD PL" tvg-logo="" group-title="Rezerwa1",TVP Sport FHD PL
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/24877.ts
+#EXTINF:-1 tvg-id="" tvg-name="TVP Sport HD PL" tvg-logo="" group-title="Rezerwa1",TVP Sport HD PL
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/24878.ts
+#EXTINF:-1 tvg-id="" tvg-name="Golf Channel FHD PL" tvg-logo="" group-title="Rezerwa1",Golf Channel FHD PL
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/24879.ts
+#EXTINF:-1 tvg-id="" tvg-name="Adventure FHD PL" tvg-logo="" group-title="Rezerwa1",Adventure FHD PL
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/24880.ts
+#EXTINF:-1 tvg-id="" tvg-name="Animal Planet FHD PL" tvg-logo="" group-title="Rezerwa1",Animal Planet FHD PL
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/24881.ts
+#EXTINF:-1 tvg-id="" tvg-name="BBC Brit FHD PL" tvg-logo="" group-title="Rezerwa1",BBC Brit FHD PL
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/24882.ts
+#EXTINF:-1 tvg-id="" tvg-name="BBC Earth HD PL" tvg-logo="" group-title="Rezerwa1",BBC Earth HD PL
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/24883.ts
+#EXTINF:-1 tvg-id="" tvg-name="BBC HD PL" tvg-logo="" group-title="Rezerwa1",BBC HD PL
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/24884.ts
+#EXTINF:-1 tvg-id="" tvg-name="Canal+ Dokument FHD PL" tvg-logo="" group-title="Rezerwa1",Canal+ Dokument FHD PL
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/24885.ts
+#EXTINF:-1 tvg-id="" tvg-name="Crime Investigation Polsat FHD PL" tvg-logo="" group-title="Rezerwa1",Crime Investigation Polsat FHD PL
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/24886.ts
+#EXTINF:-1 tvg-id="" tvg-name="DTX FHD PL" tvg-logo="" group-title="Rezerwa1",DTX FHD PL
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/24887.ts
+#EXTINF:-1 tvg-id="" tvg-name="DTX HD PL" tvg-logo="" group-title="Rezerwa1",DTX HD PL
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/24888.ts
+#EXTINF:-1 tvg-id="" tvg-name="Da Vinci Learning PL" tvg-logo="" group-title="Rezerwa1",Da Vinci Learning PL
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/24889.ts
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Channel FHD PL" tvg-logo="" group-title="Rezerwa1",Discovery Channel FHD PL
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/24890.ts
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Channel HD PL" tvg-logo="" group-title="Rezerwa1",Discovery Channel HD PL
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/24891.ts
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Historia PL" tvg-logo="" group-title="Rezerwa1",Discovery Historia PL
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/24892.ts
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Life FHD PL" tvg-logo="" group-title="Rezerwa1",Discovery Life FHD PL
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/24893.ts
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Life PL" tvg-logo="" group-title="Rezerwa1",Discovery Life PL
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/24894.ts
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Science FHD PL" tvg-logo="" group-title="Rezerwa1",Discovery Science FHD PL
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/24895.ts
+#EXTINF:-1 tvg-id="" tvg-name="Fokus TV FHD PL" tvg-logo="" group-title="Rezerwa1",Fokus TV FHD PL
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/24896.ts
+#EXTINF:-1 tvg-id="" tvg-name="History FHD PL" tvg-logo="" group-title="Rezerwa1",History FHD PL
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/24897.ts
+#EXTINF:-1 tvg-id="" tvg-name="History PL" tvg-logo="" group-title="Rezerwa1",History PL
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/24898.ts
+#EXTINF:-1 tvg-id="" tvg-name="History 2 FHD PL" tvg-logo="" group-title="Rezerwa1",History 2 FHD PL
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/24899.ts
+#EXTINF:-1 tvg-id="" tvg-name="Investigation Discovery FHD PL" tvg-logo="" group-title="Rezerwa1",Investigation Discovery FHD PL
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/24900.ts
+#EXTINF:-1 tvg-id="" tvg-name="Investigation Discovery PL" tvg-logo="" group-title="Rezerwa1",Investigation Discovery PL
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/24901.ts
+#EXTINF:-1 tvg-id="" tvg-name="Nat Geo FHD PL" tvg-logo="" group-title="Rezerwa1",Nat Geo FHD PL
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/24902.ts
+#EXTINF:-1 tvg-id="" tvg-name="Nat Geo PL" tvg-logo="" group-title="Rezerwa1",Nat Geo PL
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/24903.ts
+#EXTINF:-1 tvg-id="" tvg-name="Nat Geo People FHD PL" tvg-logo="" group-title="Rezerwa1",Nat Geo People FHD PL
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/24904.ts
+#EXTINF:-1 tvg-id="" tvg-name="Nat Geo Wild FHD PL" tvg-logo="" group-title="Rezerwa1",Nat Geo Wild FHD PL
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/24905.ts
+#EXTINF:-1 tvg-id="" tvg-name="Nat Geo Wild PL" tvg-logo="" group-title="Rezerwa1",Nat Geo Wild PL
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/24906.ts
+#EXTINF:-1 tvg-id="" tvg-name="Motorwizja PL" tvg-logo="" group-title="Rezerwa1",Motorwizja PL
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/24907.ts
+#EXTINF:-1 tvg-id="" tvg-name="Planete+ FHD PL" tvg-logo="" group-title="Rezerwa1",Planete+ FHD PL
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/24908.ts
+#EXTINF:-1 tvg-id="" tvg-name="Planete+ PL" tvg-logo="" group-title="Rezerwa1",Planete+ PL
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/24909.ts
+#EXTINF:-1 tvg-id="" tvg-name="Polsat Doku FHD PL" tvg-logo="" group-title="Rezerwa1",Polsat Doku FHD PL
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/24910.ts
+#EXTINF:-1 tvg-id="" tvg-name="Polsat Viasat History FHD PL" tvg-logo="" group-title="Rezerwa1",Polsat Viasat History FHD PL
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/24911.ts
+#EXTINF:-1 tvg-id="" tvg-name="POLSAT Viasat Explore FHD PL" tvg-logo="" group-title="Rezerwa1",POLSAT Viasat Explore FHD PL
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/24912.ts
+#EXTINF:-1 tvg-id="" tvg-name="POLSAT Viasat Nature FHD PL" tvg-logo="" group-title="Rezerwa1",POLSAT Viasat Nature FHD PL
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/24913.ts
+#EXTINF:-1 tvg-id="" tvg-name="TVN Turbo FHD PL" tvg-logo="" group-title="Rezerwa1",TVN Turbo FHD PL
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/24914.ts
+#EXTINF:-1 tvg-id="" tvg-name="TVN Turbo PL" tvg-logo="" group-title="Rezerwa1",TVN Turbo PL
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/24915.ts
+#EXTINF:-1 tvg-id="" tvg-name="TVP Historia PL" tvg-logo="" group-title="Rezerwa1",TVP Historia PL
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/24916.ts
+#EXTINF:-1 tvg-id="" tvg-name="TheBlaze TV PL" tvg-logo="" group-title="Rezerwa1",TheBlaze TV PL
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/24917.ts
+#EXTINF:-1 tvg-id="" tvg-name="Travel Channel FHD PL" tvg-logo="" group-title="Rezerwa1",Travel Channel FHD PL
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/24918.ts
+#EXTINF:-1 tvg-id="" tvg-name="4Fun Dance PL" tvg-logo="" group-title="Rezerwa1",4Fun Dance PL
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/24919.ts
+#EXTINF:-1 tvg-id="" tvg-name="4Fun Gold Hits PL" tvg-logo="" group-title="Rezerwa1",4Fun Gold Hits PL
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/24920.ts
+#EXTINF:-1 tvg-id="" tvg-name="4Fun TV PL" tvg-logo="" group-title="Rezerwa1",4Fun TV PL
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/24921.ts
+#EXTINF:-1 tvg-id="" tvg-name="ATM Rozrywka TV PL" tvg-logo="" group-title="Rezerwa1",ATM Rozrywka TV PL
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/24922.ts
+#EXTINF:-1 tvg-id="" tvg-name="Disco Polo Music HD PL" tvg-logo="" group-title="Rezerwa1",Disco Polo Music HD PL
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/24923.ts
+#EXTINF:-1 tvg-id="" tvg-name="Disco Polo Music PL" tvg-logo="" group-title="Rezerwa1",Disco Polo Music PL
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/24924.ts
+#EXTINF:-1 tvg-id="" tvg-name="Eska TV Extra PL" tvg-logo="" group-title="Rezerwa1",Eska TV Extra PL
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/24925.ts
+#EXTINF:-1 tvg-id="" tvg-name="Eska TV PL" tvg-logo="" group-title="Rezerwa1",Eska TV PL
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/24926.ts
+#EXTINF:-1 tvg-id="" tvg-name="HIP HOP TV PL" tvg-logo="" group-title="Rezerwa1",HIP HOP TV PL
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/24927.ts
+#EXTINF:-1 tvg-id="" tvg-name="Kino Polska Muzyka PL" tvg-logo="" group-title="Rezerwa1",Kino Polska Muzyka PL
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/24928.ts
+#EXTINF:-1 tvg-id="" tvg-name="MTV Dance HD PL" tvg-logo="" group-title="Rezerwa1",MTV Dance HD PL
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/24929.ts
+#EXTINF:-1 tvg-id="" tvg-name="MTV Live FHD PL" tvg-logo="" group-title="Rezerwa1",MTV Live FHD PL
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/24930.ts
+#EXTINF:-1 tvg-id="" tvg-name="MTV Polska FHD PL" tvg-logo="" group-title="Rezerwa1",MTV Polska FHD PL
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/24931.ts
+#EXTINF:-1 tvg-id="" tvg-name="MTV Polska PL" tvg-logo="" group-title="Rezerwa1",MTV Polska PL
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/24932.ts
+#EXTINF:-1 tvg-id="" tvg-name="Nuta.TV PL" tvg-logo="" group-title="Rezerwa1",Nuta.TV PL
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/24933.ts
+#EXTINF:-1 tvg-id="" tvg-name="Polo TV FHD PL" tvg-logo="" group-title="Rezerwa1",Polo TV FHD PL
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/24934.ts
+#EXTINF:-1 tvg-id="" tvg-name="Polsat Music FHD PL" tvg-logo="" group-title="Rezerwa1",Polsat Music FHD PL
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/24935.ts
+#EXTINF:-1 tvg-id="" tvg-name="Power TV PL" tvg-logo="" group-title="Rezerwa1",Power TV PL
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/24936.ts
+#EXTINF:-1 tvg-id="" tvg-name="TO!TV PL" tvg-logo="" group-title="Rezerwa1",TO!TV PL
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/24937.ts
+#EXTINF:-1 tvg-id="" tvg-name="TVP Rozrywka PL" tvg-logo="" group-title="Rezerwa1",TVP Rozrywka PL
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/24938.ts
+#EXTINF:-1 tvg-id="" tvg-name="VOX Music TV PL" tvg-logo="" group-title="Rezerwa1",VOX Music TV PL
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/24939.ts
+#EXTINF:-1 tvg-id="" tvg-name="VH1 PL" tvg-logo="" group-title="Rezerwa1",VH1 PL
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/24940.ts
+#EXTINF:-1 tvg-id="" tvg-name="Stars TV PL" tvg-logo="" group-title="Rezerwa1",Stars TV PL
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/24941.ts
+#EXTINF:-1 tvg-id="" tvg-name="Trace Urban Muzik HD PL" tvg-logo="" group-title="Rezerwa1",Trace Urban Muzik HD PL
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/24942.ts
+#EXTINF:-1 tvg-id="" tvg-name="TVP Info PL" tvg-logo="" group-title="Rezerwa1",TVP Info PL
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/24951.ts
+#EXTINF:-1 tvg-id="" tvg-name="Baby TV PL" tvg-logo="" group-title="Rezerwa1",Baby TV PL
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/24952.ts
+#EXTINF:-1 tvg-id="" tvg-name="Boomerang PL" tvg-logo="" group-title="Rezerwa1",Boomerang PL
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/24953.ts
+#EXTINF:-1 tvg-id="" tvg-name="Cartoon Network FHD PL" tvg-logo="" group-title="Rezerwa1",Cartoon Network FHD PL
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/24954.ts
+#EXTINF:-1 tvg-id="" tvg-name="Cbeebies PL" tvg-logo="" group-title="Rezerwa1",Cbeebies PL
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/24955.ts
+#EXTINF:-1 tvg-id="" tvg-name="Disney Channel FHD PL" tvg-logo="" group-title="Rezerwa1",Disney Channel FHD PL
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/24956.ts
+#EXTINF:-1 tvg-id="" tvg-name="Disney Junior PL" tvg-logo="" group-title="Rezerwa1",Disney Junior PL
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/24957.ts
+#EXTINF:-1 tvg-id="" tvg-name="Disney XD PL" tvg-logo="" group-title="Rezerwa1",Disney XD PL
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/24958.ts
+#EXTINF:-1 tvg-id="" tvg-name="MiniMini+ FHD PL" tvg-logo="" group-title="Rezerwa1",MiniMini+ FHD PL
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/24959.ts
+#EXTINF:-1 tvg-id="" tvg-name="MiniMini+ HD PL" tvg-logo="" group-title="Rezerwa1",MiniMini+ HD PL
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/24960.ts
+#EXTINF:-1 tvg-id="" tvg-name="Nick JR. PL" tvg-logo="" group-title="Rezerwa1",Nick JR. PL
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/24961.ts
+#EXTINF:-1 tvg-id="" tvg-name="Nickelodeon PL" tvg-logo="" group-title="Rezerwa1",Nickelodeon PL
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/24962.ts
+#EXTINF:-1 tvg-id="" tvg-name="POLSAT JimJam PL" tvg-logo="" group-title="Rezerwa1",POLSAT JimJam PL
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/24963.ts
+#EXTINF:-1 tvg-id="" tvg-name="TVP ABC PL" tvg-logo="" group-title="Rezerwa1",TVP ABC PL
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/24964.ts
+#EXTINF:-1 tvg-id="" tvg-name="TeleToon+ FHD PL" tvg-logo="" group-title="Rezerwa1",TeleToon+ FHD PL
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/24965.ts
+#EXTINF:-1 tvg-id="" tvg-name="TeleToon+ PL" tvg-logo="" group-title="Rezerwa1",TeleToon+ PL
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/24966.ts
+#EXTINF:-1 tvg-id="" tvg-name="Kuchnia+ FHD PL" tvg-logo="" group-title="Rezerwa1",Kuchnia+ FHD PL
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/24967.ts
+#EXTINF:-1 tvg-id="" tvg-name="Kuchnia+ HD PL" tvg-logo="" group-title="Rezerwa1",Kuchnia+ HD PL
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/24968.ts
+#EXTINF:-1 tvg-id="" tvg-name="HGTV FHD PL" tvg-logo="" group-title="Rezerwa1",HGTV FHD PL
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/24969.ts
+#EXTINF:-1 tvg-id="" tvg-name="HGTV PL" tvg-logo="" group-title="Rezerwa1",HGTV PL
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/24970.ts
+#EXTINF:-1 tvg-id="" tvg-name="Food Network FHD PL" tvg-logo="" group-title="Rezerwa1",Food Network FHD PL
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/24971.ts
+#EXTINF:-1 tvg-id="" tvg-name="TLC FHD PL" tvg-logo="" group-title="Rezerwa1",TLC FHD PL
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/24972.ts
+#EXTINF:-1 tvg-id="" tvg-name="TLC PL" tvg-logo="" group-title="Rezerwa1",TLC PL
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/24973.ts
+#EXTINF:-1 tvg-id="" tvg-name="TTV FHD PL" tvg-logo="" group-title="Rezerwa1",TTV FHD PL
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/24974.ts
+#EXTINF:-1 tvg-id="" tvg-name="Domo+ HD PL" tvg-logo="" group-title="Rezerwa1",Domo+ HD PL
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/24975.ts
+#EXTINF:-1 tvg-id="" tvg-name="E! FHD PL" tvg-logo="" group-title="Rezerwa1",E! FHD PL
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/24976.ts
+#EXTINF:-1 tvg-id="" tvg-name="Epic Drama FHD PL" tvg-logo="" group-title="Rezerwa1",Epic Drama FHD PL
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/24977.ts
+#EXTINF:-1 tvg-id="" tvg-name="Lifetime FHD PL" tvg-logo="" group-title="Rezerwa1",Lifetime FHD PL
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/24978.ts
+#EXTINF:-1 tvg-id="" tvg-name="Lifetime HD PL" tvg-logo="" group-title="Rezerwa1",Lifetime HD PL
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/24979.ts
+#EXTINF:-1 tvg-id="" tvg-name="Polsat Cafe HD PL" tvg-logo="" group-title="Rezerwa1",Polsat Cafe HD PL
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/24980.ts
+#EXTINF:-1 tvg-id="" tvg-name="Polsat Games FHD PL" tvg-logo="" group-title="Rezerwa1",Polsat Games FHD PL
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/24981.ts
+#EXTINF:-1 tvg-id="" tvg-name="Polsat Play FHD PL" tvg-logo="" group-title="Rezerwa1",Polsat Play FHD PL
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/24982.ts
+#EXTINF:-1 tvg-id="" tvg-name="Polsat Play HD PL" tvg-logo="" group-title="Rezerwa1",Polsat Play HD PL
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/24983.ts
+#EXTINF:-1 tvg-id="" tvg-name="Polsat Play PL" tvg-logo="" group-title="Rezerwa1",Polsat Play PL
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/24984.ts
+#EXTINF:-1 tvg-id="" tvg-name="Polsat Rodzina FHD PL" tvg-logo="" group-title="Rezerwa1",Polsat Rodzina FHD PL
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/24985.ts
+#EXTINF:-1 tvg-id="" tvg-name="TVN Style FHD PL" tvg-logo="" group-title="Rezerwa1",TVN Style FHD PL
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/24986.ts
+#EXTINF:-1 tvg-id="" tvg-name="TVN Style PL" tvg-logo="" group-title="Rezerwa1",TVN Style PL
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/24987.ts
+#EXTINF:-1 tvg-id="" tvg-name="METRO PL" tvg-logo="" group-title="Rezerwa1",METRO PL
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/24988.ts
+#EXTINF:-1 tvg-id="" tvg-name="TVP Kultura PL" tvg-logo="" group-title="Rezerwa1",TVP Kultura PL
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/24989.ts
+#EXTINF:-1 tvg-id="" tvg-name="TV Puls FHD PL" tvg-logo="" group-title="Rezerwa1",TV Puls FHD PL
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/24990.ts
+#EXTINF:-1 tvg-id="" tvg-name="TV Puls HD PL" tvg-logo="" group-title="Rezerwa1",TV Puls HD PL
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/24991.ts
+#EXTINF:-1 tvg-id="" tvg-name="Puls 2 PL" tvg-logo="" group-title="Rezerwa1",Puls 2 PL
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/24992.ts
+#EXTINF:-1 tvg-id="" tvg-name="TV6 FHD PL" tvg-logo="" group-title="Rezerwa1",TV6 FHD PL
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/24993.ts
+#EXTINF:-1 tvg-id="" tvg-name="TV6 HD PL" tvg-logo="" group-title="Rezerwa1",TV6 HD PL
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/24994.ts
+#EXTINF:-1 tvg-id="" tvg-name="Nowa TV PL" tvg-logo="" group-title="Rezerwa1",Nowa TV PL
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/24995.ts
+#EXTINF:-1 tvg-id="" tvg-name="Stopklatka TV PL" tvg-logo="" group-title="Rezerwa1",Stopklatka TV PL
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/24996.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sundance FHD PL" tvg-logo="" group-title="Rezerwa1",Sundance FHD PL
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/24997.ts
+#EXTINF:-1 tvg-id="" tvg-name="Super Polsat FHD PL" tvg-logo="" group-title="Rezerwa1",Super Polsat FHD PL
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/24998.ts
+#EXTINF:-1 tvg-id="" tvg-name="Superstacja FHD PL" tvg-logo="" group-title="Rezerwa1",Superstacja FHD PL
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/24999.ts
+#EXTINF:-1 tvg-id="" tvg-name="TV Republika HD PL" tvg-logo="" group-title="Rezerwa1",TV Republika HD PL
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/25000.ts
+#EXTINF:-1 tvg-id="" tvg-name="TV Republika PL" tvg-logo="" group-title="Rezerwa1",TV Republika PL
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/25001.ts
+#EXTINF:-1 tvg-id="" tvg-name="TVP FHD PL" tvg-logo="" group-title="Rezerwa1",TVP FHD PL
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/25002.ts
+#EXTINF:-1 tvg-id="" tvg-name="TVP HD PL" tvg-logo="" group-title="Rezerwa1",TVP HD PL
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/25003.ts
+#EXTINF:-1 tvg-id="" tvg-name="TVP Polonia PL" tvg-logo="" group-title="Rezerwa1",TVP Polonia PL
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/25004.ts
+#EXTINF:-1 tvg-id="" tvg-name="TVS PL" tvg-logo="" group-title="Rezerwa1",TVS PL
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/25005.ts
+#EXTINF:-1 tvg-id="" tvg-name="WP PL" tvg-logo="" group-title="Rezerwa1",WP PL
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/25006.ts
+#EXTINF:-1 tvg-id="" tvg-name="Zoom TV PL" tvg-logo="" group-title="Rezerwa1",Zoom TV PL
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/25007.ts
+#EXTINF:-1 tvg-id="" tvg-name="VOD 202 PL" tvg-logo="" group-title="Rezerwa1",VOD 202 PL
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/25028.ts
+#EXTINF:-1 tvg-id="" tvg-name="VOD 204 PL" tvg-logo="" group-title="Rezerwa1",VOD 204 PL
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/25029.ts
+#EXTINF:-1 tvg-id="" tvg-name="VOD 205 PL" tvg-logo="" group-title="Rezerwa1",VOD 205 PL
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/25030.ts
+#EXTINF:-1 tvg-id="" tvg-name="VOD 206 PL" tvg-logo="" group-title="Rezerwa1",VOD 206 PL
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/25031.ts
+#EXTINF:-1 tvg-id="" tvg-name="VOD 207 PL" tvg-logo="" group-title="Rezerwa1",VOD 207 PL
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/25032.ts
+#EXTINF:-1 tvg-id="" tvg-name="VOD 208 PL" tvg-logo="" group-title="Rezerwa1",VOD 208 PL
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/25033.ts
+#EXTINF:-1 tvg-id="" tvg-name="VOD 212 PL" tvg-logo="" group-title="Rezerwa1",VOD 212 PL
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/25034.ts
+#EXTINF:-1 tvg-id="" tvg-name="Canal+ Sport 3 HD PL" tvg-logo="" group-title="Rezerwa1",Canal+ Sport 3 HD PL
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/25036.ts
+#EXTINF:-1 tvg-id="" tvg-name="Canal+ Sport 3 FHD PL" tvg-logo="" group-title="Rezerwa1",Canal+ Sport 3 FHD PL
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/25037.ts
+#EXTINF:-1 tvg-id="" tvg-name="Canal+ Sport 4 HD PL" tvg-logo="" group-title="Rezerwa1",Canal+ Sport 4 HD PL
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/25038.ts
+#EXTINF:-1 tvg-id="" tvg-name="Canal+ Sport 4 FHD PL" tvg-logo="" group-title="Rezerwa1",Canal+ Sport 4 FHD PL
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/25039.ts
+#EXTINF:-1 tvg-id="" tvg-name="Canal+ NOW FHD PL" tvg-logo="" group-title="Rezerwa1",Canal+ NOW FHD PL
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/25040.ts
+#EXTINF:-1 tvg-id="" tvg-name="Nicktoons HD PL" tvg-logo="" group-title="Rezerwa1",Nicktoons HD PL
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/25041.ts
+#EXTINF:-1 tvg-id="" tvg-name="TVN HD PL" tvg-logo="" group-title="Rezerwa1",TVN HD PL
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/25042.ts
+#EXTINF:-1 tvg-id="" tvg-name="Eska Best Music PL" tvg-logo="" group-title="Rezerwa1",Eska Best Music PL
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/25043.ts
+#EXTINF:-1 tvg-id="" tvg-name="BBC LIFESTYLE FHD PL" tvg-logo="" group-title="Rezerwa1",BBC LIFESTYLE FHD PL
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/25044.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESKA ROCK TV PL" tvg-logo="" group-title="Rezerwa1",ESKA ROCK TV PL
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/25045.ts
+#EXTINF:-1 tvg-id="" tvg-name="BBC FIRST FHD PL" tvg-logo="" group-title="Rezerwa1",BBC FIRST FHD PL
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/25046.ts
+#EXTINF:-1 tvg-id="" tvg-name="Comedy Central Extra Polsat PL" tvg-logo="" group-title="Rezerwa1",Comedy Central Extra Polsat PL
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/25047.ts
+#EXTINF:-1 tvg-id="" tvg-name="MTV ROCKS PL" tvg-logo="" group-title="Rezerwa1",MTV ROCKS PL
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/25048.ts
+#EXTINF:-1 tvg-id="" tvg-name="Fightklub FHD PL" tvg-logo="" group-title="Rezerwa1",Fightklub FHD PL
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/25049.ts
+#EXTINF:-1 tvg-id="" tvg-name="Red Carpet FHD PL" tvg-logo="" group-title="Rezerwa1",Red Carpet FHD PL
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/25051.ts
+#EXTINF:-1 tvg-id="" tvg-name="TV Okazje PL" tvg-logo="" group-title="Rezerwa1",TV Okazje PL
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/25052.ts
+#EXTINF:-1 tvg-id="" tvg-name="WPolsce PL" tvg-logo="" group-title="Rezerwa1",WPolsce PL
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/25053.ts
+#EXTINF:-1 tvg-id="" tvg-name="CANAL+ DOKUMENT HD PL" tvg-logo="" group-title="Rezerwa1",CANAL+ DOKUMENT HD PL
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/25054.ts
+#EXTINF:-1 tvg-id="" tvg-name="Boomerang FHD PL" tvg-logo="" group-title="Rezerwa1",Boomerang FHD PL
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/25055.ts
+#EXTINF:-1 tvg-id="" tvg-name="CBS Reality FHD PL" tvg-logo="" group-title="Rezerwa1",CBS Reality FHD PL
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/25056.ts
+#EXTINF:-1 tvg-id="" tvg-name="BBC Earth FHD PL" tvg-logo="" group-title="Rezerwa1",BBC Earth FHD PL
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/25057.ts
+#EXTINF:-1 tvg-id="" tvg-name="Biznes24 FHD PL" tvg-logo="" group-title="Rezerwa1",Biznes24 FHD PL
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/25058.ts
+#EXTINF:-1 tvg-id="" tvg-name="Kino TV FHD PL" tvg-logo="" group-title="Rezerwa1",Kino TV FHD PL
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/25059.ts
+#EXTINF:-1 tvg-id="" tvg-name="Kino Polska FHD PL" tvg-logo="" group-title="Rezerwa1",Kino Polska FHD PL
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/25060.ts
+#EXTINF:-1 tvg-id="" tvg-name="StudioMed TV FHD PL" tvg-logo="" group-title="Rezerwa1",StudioMed TV FHD PL
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/25061.ts
+#EXTINF:-1 tvg-id="" tvg-name="SciFi FHD PL" tvg-logo="" group-title="Rezerwa1",SciFi FHD PL
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/25062.ts
+#EXTINF:-1 tvg-id="" tvg-name="TVR PL" tvg-logo="" group-title="Rezerwa1",TVR PL
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/25063.ts
+#EXTINF:-1 tvg-id="" tvg-name="AXN PL" tvg-logo="" group-title="Rezerwa1",AXN PL
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/25065.ts
+#EXTINF:-1 tvg-id="" tvg-name="Polsat Comedy Central FHD PL" tvg-logo="" group-title="Rezerwa1",Polsat Comedy Central FHD PL
 http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/25067.ts
-#EXTINF:-1 tvg-id="" tvg-name="Disco Polo Music FHD PL" tvg-logo="" group-title="POLAND CHANNELS",Disco Polo Music FHD PL
+#EXTINF:-1 tvg-id="" tvg-name="Disco Polo Music FHD PL" tvg-logo="" group-title="Rezerwa1",Disco Polo Music FHD PL
 http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/25068.ts
-#EXTINF:-1 tvg-id="" tvg-name="Domo+ FHD PL" tvg-logo="" group-title="POLAND CHANNELS",Domo+ FHD PL
+#EXTINF:-1 tvg-id="" tvg-name="Domo+ FHD PL" tvg-logo="" group-title="Rezerwa1",Domo+ FHD PL
 http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/25070.ts
-#EXTINF:-1 tvg-id="" tvg-name="Motowizja FHD PL" tvg-logo="" group-title="POLAND CHANNELS",Motowizja FHD PL
+#EXTINF:-1 tvg-id="" tvg-name="Motowizja FHD PL" tvg-logo="" group-title="Rezerwa1",Motowizja FHD PL
 http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/25072.ts
-#EXTINF:-1 tvg-id="" tvg-name="MTV Music 24 PL" tvg-logo="" group-title="POLAND CHANNELS",MTV Music 24 PL
+#EXTINF:-1 tvg-id="" tvg-name="MTV Music 24 PL" tvg-logo="" group-title="Rezerwa1",MTV Music 24 PL
 http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/25073.ts
-#EXTINF:-1 tvg-id="" tvg-name="Novela TV PL" tvg-logo="" group-title="POLAND CHANNELS",Novela TV PL
+#EXTINF:-1 tvg-id="" tvg-name="Novela TV PL" tvg-logo="" group-title="Rezerwa1",Novela TV PL
 http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/25074.ts
-#EXTINF:-1 tvg-id="" tvg-name="Polonia 1 PL" tvg-logo="" group-title="POLAND CHANNELS",Polonia 1 PL
+#EXTINF:-1 tvg-id="" tvg-name="Polonia 1 PL" tvg-logo="" group-title="Rezerwa1",Polonia 1 PL
 http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/25075.ts
-#EXTINF:-1 tvg-id="" tvg-name="Polsat Cafe FHD PL" tvg-logo="" group-title="POLAND CHANNELS",Polsat Cafe FHD PL
+#EXTINF:-1 tvg-id="" tvg-name="Polsat Cafe FHD PL" tvg-logo="" group-title="Rezerwa1",Polsat Cafe FHD PL
 http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/25076.ts
-#EXTINF:-1 tvg-id="" tvg-name="Polsat Comedy Central Extra FHD PL" tvg-logo="" group-title="POLAND CHANNELS",Polsat Comedy Central Extra FHD PL
+#EXTINF:-1 tvg-id="" tvg-name="Polsat Comedy Central Extra FHD PL" tvg-logo="" group-title="Rezerwa1",Polsat Comedy Central Extra FHD PL
 http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/25077.ts
-#EXTINF:-1 tvg-id="" tvg-name="TBN Poland PL" tvg-logo="" group-title="POLAND CHANNELS",TBN Poland PL
-http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/25084.ts
-#EXTINF:-1 tvg-id="" tvg-name="Tele 5 PL" tvg-logo="" group-title="POLAND CHANNELS",Tele 5 PL
-http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/25085.ts
-#EXTINF:-1 tvg-id="" tvg-name="TOP Kids PL" tvg-logo="" group-title="POLAND CHANNELS",TOP Kids PL
-http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/25087.ts
-#EXTINF:-1 tvg-id="" tvg-name="Water Planet PL" tvg-logo="" group-title="POLAND CHANNELS",Water Planet PL
-http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/25088.ts
 
 
-#EXTINF:-1,PL: group-title="Rezerwa", TVP HD
-http://barbanera.xyz:25461/Ythqnx9jUdAv/JfDbqwm6D8tC/245266
-#EXTINF:-1,PL: group-title="Rezerwa", TVP HD
-http://barbanera.xyz:25461/Ythqnx9jUdAv/JfDbqwm6D8tC/245267
-#EXTINF:-1,PL: group-title="Rezerwa", TVP 1 HD
-http://barbanera.xyz:25461/Ythqnx9jUdAv/JfDbqwm6D8tC/245268
-#EXTINF:-1,PL: group-title="Rezerwa", TVP 1 HD
-http://barbanera.xyz:25461/Ythqnx9jUdAv/JfDbqwm6D8tC/245269
-#EXTINF:-1,PL: group-title="Rezerwa", TVP 2 HD
-http://barbanera.xyz:25461/Ythqnx9jUdAv/JfDbqwm6D8tC/245270
-#EXTINF:-1,PL: group-title="Rezerwa", TVP 2 HD
-http://barbanera.xyz:25461/Ythqnx9jUdAv/JfDbqwm6D8tC/245271
-#EXTINF:-1,PL: group-title="Rezerwa", TVP 3
-http://barbanera.xyz:25461/Ythqnx9jUdAv/JfDbqwm6D8tC/245272
-#EXTINF:-1,PL: group-title="Rezerwa", TVP 3
-http://barbanera.xyz:25461/Ythqnx9jUdAv/JfDbqwm6D8tC/245273
-#EXTINF:-1,PL: group-title="Rezerwa", TV4 HD
-http://barbanera.xyz:25461/Ythqnx9jUdAv/JfDbqwm6D8tC/245274
-#EXTINF:-1,PL: group-title="Rezerwa", TV6
-http://barbanera.xyz:25461/Ythqnx9jUdAv/JfDbqwm6D8tC/245275
-#EXTINF:-1,PL: group-title="Rezerwa", Polsat HD
-http://barbanera.xyz:25461/Ythqnx9jUdAv/JfDbqwm6D8tC/245276
-#EXTINF:-1,PL: group-title="Rezerwa", Polsat HD
-http://barbanera.xyz:25461/Ythqnx9jUdAv/JfDbqwm6D8tC/245277
-#EXTINF:-1,PL: group-title="Rezerwa", Polsat 2 HD
-http://barbanera.xyz:25461/Ythqnx9jUdAv/JfDbqwm6D8tC/245278
-#EXTINF:-1,PL: group-title="Rezerwa", Super Polsat
-http://barbanera.xyz:25461/Ythqnx9jUdAv/JfDbqwm6D8tC/245279
-#EXTINF:-1,PL: group-title="Rezerwa", Super Polsat
-http://barbanera.xyz:25461/Ythqnx9jUdAv/JfDbqwm6D8tC/245280
-#EXTINF:-1,PL: group-title="Rezerwa", TVN HD
-http://barbanera.xyz:25461/Ythqnx9jUdAv/JfDbqwm6D8tC/245281
-#EXTINF:-1,PL: group-title="Rezerwa", TVN HD
-http://barbanera.xyz:25461/Ythqnx9jUdAv/JfDbqwm6D8tC/245282
-#EXTINF:-1,PL: group-title="Rezerwa", TVN 7 HD
-http://barbanera.xyz:25461/Ythqnx9jUdAv/JfDbqwm6D8tC/245283
-#EXTINF:-1,PL: group-title="Rezerwa", TTV HD
-http://barbanera.xyz:25461/Ythqnx9jUdAv/JfDbqwm6D8tC/245284
-#EXTINF:-1,PL: group-title="Rezerwa", TTV HD
-http://barbanera.xyz:25461/Ythqnx9jUdAv/JfDbqwm6D8tC/245285
-#EXTINF:-1,PL: group-title="Rezerwa", TV PULS HD
-http://barbanera.xyz:25461/Ythqnx9jUdAv/JfDbqwm6D8tC/245286
-#EXTINF:-1,PL: group-title="Rezerwa", TV PULS HD
-http://barbanera.xyz:25461/Ythqnx9jUdAv/JfDbqwm6D8tC/245287
-#EXTINF:-1,PL: group-title="Rezerwa", TV PULS 2 HD
-http://barbanera.xyz:25461/Ythqnx9jUdAv/JfDbqwm6D8tC/245288
-#EXTINF:-1,PL: group-title="Rezerwa", TV Okazje
-http://barbanera.xyz:25461/Ythqnx9jUdAv/JfDbqwm6D8tC/245289
-#EXTINF:-1,PL: group-title="Rezerwa", TV Okazje
-http://barbanera.xyz:25461/Ythqnx9jUdAv/JfDbqwm6D8tC/245290
-#EXTINF:-1,PL: group-title="Rezerwa", Nowa TV
-http://barbanera.xyz:25461/Ythqnx9jUdAv/JfDbqwm6D8tC/245291
-#EXTINF:-1,= = = KINO = = =
-http://barbanera.xyz:25461/Ythqnx9jUdAv/JfDbqwm6D8tC/245292
-#EXTINF:-1,PL: group-title="Rezerwa", CANAL+  FILM HD
-http://barbanera.xyz:25461/Ythqnx9jUdAv/JfDbqwm6D8tC/245293
-#EXTINF:-1,PL: group-title="Rezerwa", CANAL+ FILM HD
-http://barbanera.xyz:25461/Ythqnx9jUdAv/JfDbqwm6D8tC/245294
-#EXTINF:-1,PL: group-title="Rezerwa", CANAL+ PREMIUM HD
-http://barbanera.xyz:25461/Ythqnx9jUdAv/JfDbqwm6D8tC/245295
-#EXTINF:-1,PL: group-title="Rezerwa", Filmbox Premium HD
-http://barbanera.xyz:25461/Ythqnx9jUdAv/JfDbqwm6D8tC/245296
-#EXTINF:-1,PL: group-title="Rezerwa", FilmBox Extra HD
-http://barbanera.xyz:25461/Ythqnx9jUdAv/JfDbqwm6D8tC/245297
-#EXTINF:-1,PL: group-title="Rezerwa", FilmBox Extra HD
-http://barbanera.xyz:25461/Ythqnx9jUdAv/JfDbqwm6D8tC/245298
-#EXTINF:-1,PL: group-title="Rezerwa", FilmBox Action
-http://barbanera.xyz:25461/Ythqnx9jUdAv/JfDbqwm6D8tC/245299
-#EXTINF:-1,PL: group-title="Rezerwa", FilmBox Family
-http://barbanera.xyz:25461/Ythqnx9jUdAv/JfDbqwm6D8tC/245300
-#EXTINF:-1,PL: group-title="Rezerwa", FilmBox Family
-http://barbanera.xyz:25461/Ythqnx9jUdAv/JfDbqwm6D8tC/245301
-#EXTINF:-1,PL: group-title="Rezerwa", Filmbox Arthouse
-http://barbanera.xyz:25461/Ythqnx9jUdAv/JfDbqwm6D8tC/245302
-#EXTINF:-1,PL: group-title="Rezerwa", Filmbox Arthouse
-http://barbanera.xyz:25461/Ythqnx9jUdAv/JfDbqwm6D8tC/245303
-#EXTINF:-1,PL: group-title="Rezerwa", Cinemax 2 HD
-http://barbanera.xyz:25461/Ythqnx9jUdAv/JfDbqwm6D8tC/245304
-#EXTINF:-1,PL: group-title="Rezerwa", Cinemax 2 HD
-http://barbanera.xyz:25461/Ythqnx9jUdAv/JfDbqwm6D8tC/245305
-#EXTINF:-1,PL: group-title="Rezerwa", HBO HD
-http://barbanera.xyz:25461/Ythqnx9jUdAv/JfDbqwm6D8tC/245306
-#EXTINF:-1,PL: group-title="Rezerwa", HBO HD
-http://barbanera.xyz:25461/Ythqnx9jUdAv/JfDbqwm6D8tC/245307
-#EXTINF:-1,PL: group-title="Rezerwa", HBO2 HD
-http://barbanera.xyz:25461/Ythqnx9jUdAv/JfDbqwm6D8tC/245308
-#EXTINF:-1,PL: group-title="Rezerwa", HBO2 HD
-http://barbanera.xyz:25461/Ythqnx9jUdAv/JfDbqwm6D8tC/245309
-#EXTINF:-1,PL: group-title="Rezerwa", HBO3 HD
-http://barbanera.xyz:25461/Ythqnx9jUdAv/JfDbqwm6D8tC/245310
-#EXTINF:-1,PL: group-title="Rezerwa", Polsat Film HD
-http://barbanera.xyz:25461/Ythqnx9jUdAv/JfDbqwm6D8tC/245311
-#EXTINF:-1,PL: group-title="Rezerwa", Polsat Film HD
-http://barbanera.xyz:25461/Ythqnx9jUdAv/JfDbqwm6D8tC/245312
-#EXTINF:-1,PL: group-title="Rezerwa", KINO POLSKA HD
-http://barbanera.xyz:25461/Ythqnx9jUdAv/JfDbqwm6D8tC/245313
-#EXTINF:-1,PL: group-title="Rezerwa", KINO POLSKA HD
-http://barbanera.xyz:25461/Ythqnx9jUdAv/JfDbqwm6D8tC/245314
-#EXTINF:-1,PL: group-title="Rezerwa", Kino TV HD
-http://barbanera.xyz:25461/Ythqnx9jUdAv/JfDbqwm6D8tC/245315
-#EXTINF:-1,PL: group-title="Rezerwa", Stopklatka TV
-http://barbanera.xyz:25461/Ythqnx9jUdAv/JfDbqwm6D8tC/245316
-#EXTINF:-1,PL: group-title="Rezerwa", Stopklatka TV
-http://barbanera.xyz:25461/Ythqnx9jUdAv/JfDbqwm6D8tC/245317
-#EXTINF:-1,PL: group-title="Rezerwa", pVOD
-http://barbanera.xyz:25461/Ythqnx9jUdAv/JfDbqwm6D8tC/245318
-#EXTINF:-1,PL: group-title="Rezerwa", Polsat Romans
-http://barbanera.xyz:25461/Ythqnx9jUdAv/JfDbqwm6D8tC/245319
-#EXTINF:-1,= = = SERIAL = = =
-http://barbanera.xyz:25461/Ythqnx9jUdAv/JfDbqwm6D8tC/245320
-#EXTINF:-1,PL: group-title="Rezerwa", CANAL+  SERIALE HD
-http://barbanera.xyz:25461/Ythqnx9jUdAv/JfDbqwm6D8tC/245321
-#EXTINF:-1,PL: group-title="Rezerwa", CANAL+ SERIALE HD
-http://barbanera.xyz:25461/Ythqnx9jUdAv/JfDbqwm6D8tC/245322
-#EXTINF:-1,PL: group-title="Rezerwa", FOX HD
-http://barbanera.xyz:25461/Ythqnx9jUdAv/JfDbqwm6D8tC/245323
-#EXTINF:-1,PL: group-title="Rezerwa", AMC HD
-http://barbanera.xyz:25461/Ythqnx9jUdAv/JfDbqwm6D8tC/245324
-#EXTINF:-1,PL: group-title="Rezerwa", AXN HD
-http://barbanera.xyz:25461/Ythqnx9jUdAv/JfDbqwm6D8tC/245325
-#EXTINF:-1,PL: group-title="Rezerwa", AXN White
-http://barbanera.xyz:25461/Ythqnx9jUdAv/JfDbqwm6D8tC/245326
-#EXTINF:-1,PL: group-title="Rezerwa", AXN Black
-http://barbanera.xyz:25461/Ythqnx9jUdAv/JfDbqwm6D8tC/245327
-#EXTINF:-1,PL: group-title="Rezerwa", AXN Black
-http://barbanera.xyz:25461/Ythqnx9jUdAv/JfDbqwm6D8tC/245328
-#EXTINF:-1,PL: group-title="Rezerwa", AXN SPIN HD
-http://barbanera.xyz:25461/Ythqnx9jUdAv/JfDbqwm6D8tC/245329
-#EXTINF:-1,PL: group-title="Rezerwa", SciFi HD
-http://barbanera.xyz:25461/Ythqnx9jUdAv/JfDbqwm6D8tC/245330
-#EXTINF:-1,PL: group-title="Rezerwa", SciFi HD
-http://barbanera.xyz:25461/Ythqnx9jUdAv/JfDbqwm6D8tC/245331
-#EXTINF:-1,PL: group-title="Rezerwa", 13 Ulica HD
-http://barbanera.xyz:25461/Ythqnx9jUdAv/JfDbqwm6D8tC/245332
-#EXTINF:-1,PL: group-title="Rezerwa", Epic Drama HD
-http://barbanera.xyz:25461/Ythqnx9jUdAv/JfDbqwm6D8tC/245333
-#EXTINF:-1,PL: group-title="Rezerwa", Epic Drama HD
-http://barbanera.xyz:25461/Ythqnx9jUdAv/JfDbqwm6D8tC/245334
-#EXTINF:-1,PL: group-title="Rezerwa", E! Entertainment HD
-http://barbanera.xyz:25461/Ythqnx9jUdAv/JfDbqwm6D8tC/245335
-#EXTINF:-1,PL: group-title="Rezerwa", TVP SERIALE
-http://barbanera.xyz:25461/Ythqnx9jUdAv/JfDbqwm6D8tC/245336
-#EXTINF:-1,PL: group-title="Rezerwa", Polsat Seriale HD
-http://barbanera.xyz:25461/Ythqnx9jUdAv/JfDbqwm6D8tC/245337
-#EXTINF:-1,PL: group-title="Rezerwa", Polsat Cafe HD
-http://barbanera.xyz:25461/Ythqnx9jUdAv/JfDbqwm6D8tC/245338
-#EXTINF:-1,PL: group-title="Rezerwa", Polsat Cafe HD
-http://barbanera.xyz:25461/Ythqnx9jUdAv/JfDbqwm6D8tC/245339
-#EXTINF:-1,PL: group-title="Rezerwa", Polsat Play HD
-http://barbanera.xyz:25461/Ythqnx9jUdAv/JfDbqwm6D8tC/245340
-#EXTINF:-1,PL: group-title="Rezerwa", Polsat Play HD
-http://barbanera.xyz:25461/Ythqnx9jUdAv/JfDbqwm6D8tC/245341
-#EXTINF:-1,PL: group-title="Rezerwa", Food Network HD
-http://barbanera.xyz:25461/Ythqnx9jUdAv/JfDbqwm6D8tC/245342
-#EXTINF:-1,PL: group-title="Rezerwa", Canal+ Kuchnia HD
-http://barbanera.xyz:25461/Ythqnx9jUdAv/JfDbqwm6D8tC/245343
-#EXTINF:-1,PL: group-title="Rezerwa", Metro
-http://barbanera.xyz:25461/Ythqnx9jUdAv/JfDbqwm6D8tC/245344
-#EXTINF:-1,PL: group-title="Rezerwa", Metro
-http://barbanera.xyz:25461/Ythqnx9jUdAv/JfDbqwm6D8tC/245345
-#EXTINF:-1,PL: group-title="Rezerwa", CBS Reality HD
-http://barbanera.xyz:25461/Ythqnx9jUdAv/JfDbqwm6D8tC/245346
-#EXTINF:-1,PL: group-title="Rezerwa", CBS Europa HD
-http://barbanera.xyz:25461/Ythqnx9jUdAv/JfDbqwm6D8tC/245347
-#EXTINF:-1,PL: group-title="Rezerwa", CBS Europa HD
-http://barbanera.xyz:25461/Ythqnx9jUdAv/JfDbqwm6D8tC/245348
-#EXTINF:-1,PL: group-title="Rezerwa", Romance TV
-http://barbanera.xyz:25461/Ythqnx9jUdAv/JfDbqwm6D8tC/245349
-#EXTINF:-1,PL: group-title="Rezerwa", Zoom TV
-http://barbanera.xyz:25461/Ythqnx9jUdAv/JfDbqwm6D8tC/245350
-#EXTINF:-1,PL: group-title="Rezerwa", Sundance HD
-http://barbanera.xyz:25461/Ythqnx9jUdAv/JfDbqwm6D8tC/245351
-#EXTINF:-1,PL: group-title="Rezerwa", Sundance HD
-http://barbanera.xyz:25461/Ythqnx9jUdAv/JfDbqwm6D8tC/245352
-#EXTINF:-1,PL: group-title="Rezerwa", BBC FIRST HD
-http://barbanera.xyz:25461/Ythqnx9jUdAv/JfDbqwm6D8tC/245353
-#EXTINF:-1,PL: group-title="Rezerwa", BBC FIRST HD
-http://barbanera.xyz:25461/Ythqnx9jUdAv/JfDbqwm6D8tC/245354
-#EXTINF:-1,PL: group-title="Rezerwa", TVN Style HD
-http://barbanera.xyz:25461/Ythqnx9jUdAv/JfDbqwm6D8tC/245355
-#EXTINF:-1,PL: group-title="Rezerwa", TVN Style HD
-http://barbanera.xyz:25461/Ythqnx9jUdAv/JfDbqwm6D8tC/245356
-#EXTINF:-1,PL: group-title="Rezerwa", Lifetime HD
-http://barbanera.xyz:25461/Ythqnx9jUdAv/JfDbqwm6D8tC/245357
-#EXTINF:-1,PL: group-title="Rezerwa", Lifetime HD
-http://barbanera.xyz:25461/Ythqnx9jUdAv/JfDbqwm6D8tC/245358
-#EXTINF:-1,PL: group-title="Rezerwa", WP
-http://barbanera.xyz:25461/Ythqnx9jUdAv/JfDbqwm6D8tC/245359
-#EXTINF:-1,PL: group-title="Rezerwa", DOMO+  HD
-http://barbanera.xyz:25461/Ythqnx9jUdAv/JfDbqwm6D8tC/245360
-#EXTINF:-1,PL: group-title="Rezerwa", DOMO+  HD
-http://barbanera.xyz:25461/Ythqnx9jUdAv/JfDbqwm6D8tC/245361
-#EXTINF:-1,= = = SPORT = = =
-http://barbanera.xyz:25461/Ythqnx9jUdAv/JfDbqwm6D8tC/245362
-#EXTINF:-1,PL: group-title="Rezerwa", CANAL+  SPORT HD
-http://barbanera.xyz:25461/Ythqnx9jUdAv/JfDbqwm6D8tC/245363
-#EXTINF:-1,PL: group-title="Rezerwa", CANAL+ SPORT 2 HD
-http://barbanera.xyz:25461/Ythqnx9jUdAv/JfDbqwm6D8tC/245364
-#EXTINF:-1,PL: group-title="Rezerwa", CANAL+  SPORT 3 HD
-http://barbanera.xyz:25461/Ythqnx9jUdAv/JfDbqwm6D8tC/245365
-#EXTINF:-1,PL: group-title="Rezerwa", CANAL+  SPORT 4 HD
-http://barbanera.xyz:25461/Ythqnx9jUdAv/JfDbqwm6D8tC/245366
-#EXTINF:-1,PL: group-title="Rezerwa", nSport+
-http://barbanera.xyz:25461/Ythqnx9jUdAv/JfDbqwm6D8tC/245367
-#EXTINF:-1,PL: group-title="Rezerwa", Eleven Sports 1 4K
-http://barbanera.xyz:25461/Ythqnx9jUdAv/JfDbqwm6D8tC/245368
-#EXTINF:-1,PL: group-title="Rezerwa", Eleven Sports 1 HD
-http://barbanera.xyz:25461/Ythqnx9jUdAv/JfDbqwm6D8tC/245369
-#EXTINF:-1,PL: group-title="Rezerwa", Eleven Sports 1 HD
-http://barbanera.xyz:25461/Ythqnx9jUdAv/JfDbqwm6D8tC/245370
-#EXTINF:-1,PL: group-title="Rezerwa", Eleven Sports 2 HD
-http://barbanera.xyz:25461/Ythqnx9jUdAv/JfDbqwm6D8tC/245371
-#EXTINF:-1,PL: group-title="Rezerwa", Eleven Sports 3 HD
-http://barbanera.xyz:25461/Ythqnx9jUdAv/JfDbqwm6D8tC/245372
-#EXTINF:-1,PL: group-title="Rezerwa", Eleven Sports 4 HD
-http://barbanera.xyz:25461/Ythqnx9jUdAv/JfDbqwm6D8tC/245373
-#EXTINF:-1,PL: group-title="Rezerwa", Polsat Sport News HD
-http://barbanera.xyz:25461/Ythqnx9jUdAv/JfDbqwm6D8tC/245374
-#EXTINF:-1,PL: group-title="Rezerwa", Polsat Sport HD
-http://barbanera.xyz:25461/Ythqnx9jUdAv/JfDbqwm6D8tC/245375
-#EXTINF:-1,PL: group-title="Rezerwa", Polsat Sport HD
-http://barbanera.xyz:25461/Ythqnx9jUdAv/JfDbqwm6D8tC/245376
-#EXTINF:-1,PL: group-title="Rezerwa", Polsat Sport Extra HD
-http://barbanera.xyz:25461/Ythqnx9jUdAv/JfDbqwm6D8tC/245377
-#EXTINF:-1,PL: group-title="Rezerwa", Polsat Sport Extra HD
-http://barbanera.xyz:25461/Ythqnx9jUdAv/JfDbqwm6D8tC/245378
-#EXTINF:-1,PL: group-title="Rezerwa", Polsat Sport Premium 1
-http://barbanera.xyz:25461/Ythqnx9jUdAv/JfDbqwm6D8tC/245379
-#EXTINF:-1,PL: group-title="Rezerwa", Polsat Sport Premium 2
-http://barbanera.xyz:25461/Ythqnx9jUdAv/JfDbqwm6D8tC/245380
-#EXTINF:-1,PL: group-title="Rezerwa", Polsat Sport Fight HD
-http://barbanera.xyz:25461/Ythqnx9jUdAv/JfDbqwm6D8tC/245381
-#EXTINF:-1,PL: group-title="Rezerwa", Polsat Sport Fight HD
-http://barbanera.xyz:25461/Ythqnx9jUdAv/JfDbqwm6D8tC/245382
-#EXTINF:-1,PL: group-title="Rezerwa", Fightbox HD
-http://barbanera.xyz:25461/Ythqnx9jUdAv/JfDbqwm6D8tC/245383
-#EXTINF:-1,PL: group-title="Rezerwa", Fightbox HD
-http://barbanera.xyz:25461/Ythqnx9jUdAv/JfDbqwm6D8tC/245384
-#EXTINF:-1,PL: group-title="Rezerwa", Fightklub HD
-http://barbanera.xyz:25461/Ythqnx9jUdAv/JfDbqwm6D8tC/245385
-#EXTINF:-1,PL: group-title="Rezerwa", TVP Sport HD
-http://barbanera.xyz:25461/Ythqnx9jUdAv/JfDbqwm6D8tC/245386
-#EXTINF:-1,PL: group-title="Rezerwa", Eurosport 1 HD
-http://barbanera.xyz:25461/Ythqnx9jUdAv/JfDbqwm6D8tC/245387
-#EXTINF:-1,PL: group-title="Rezerwa", Eurosport 1 HD
-http://barbanera.xyz:25461/Ythqnx9jUdAv/JfDbqwm6D8tC/245388
-#EXTINF:-1,PL: group-title="Rezerwa", Eurosport 2 HD
-http://barbanera.xyz:25461/Ythqnx9jUdAv/JfDbqwm6D8tC/245389
-#EXTINF:-1,PL: group-title="Rezerwa", Eurosport 2 HD
-http://barbanera.xyz:25461/Ythqnx9jUdAv/JfDbqwm6D8tC/245390
-#EXTINF:-1,PL: group-title="Rezerwa", Extreme Sports HD
-http://barbanera.xyz:25461/Ythqnx9jUdAv/JfDbqwm6D8tC/245391
-#EXTINF:-1,PL: group-title="Rezerwa", TVN Turbo HD
-http://barbanera.xyz:25461/Ythqnx9jUdAv/JfDbqwm6D8tC/245392
-#EXTINF:-1,PL: group-title="Rezerwa", Motowizja HD
-http://barbanera.xyz:25461/Ythqnx9jUdAv/JfDbqwm6D8tC/245393
-#EXTINF:-1,= = = KULTURA = = =
-http://barbanera.xyz:25461/Ythqnx9jUdAv/JfDbqwm6D8tC/245394
-#EXTINF:-1,PL: group-title="Rezerwa", Nat Geo
-http://barbanera.xyz:25461/Ythqnx9jUdAv/JfDbqwm6D8tC/245395
-#EXTINF:-1,PL: group-title="Rezerwa", Nat Geo Wild HD
-http://barbanera.xyz:25461/Ythqnx9jUdAv/JfDbqwm6D8tC/245396
-#EXTINF:-1,PL: group-title="Rezerwa", Nat Geo People HD
-http://barbanera.xyz:25461/Ythqnx9jUdAv/JfDbqwm6D8tC/245397
-#EXTINF:-1,PL: group-title="Rezerwa", CANAL+ DOKUMENT HD
-http://barbanera.xyz:25461/Ythqnx9jUdAv/JfDbqwm6D8tC/245398
-#EXTINF:-1,PL: group-title="Rezerwa", CANAL+  DOKUMENT HD
-http://barbanera.xyz:25461/Ythqnx9jUdAv/JfDbqwm6D8tC/245399
-#EXTINF:-1,PL: group-title="Rezerwa", Discovery HD
-http://barbanera.xyz:25461/Ythqnx9jUdAv/JfDbqwm6D8tC/245400
-#EXTINF:-1,PL: group-title="Rezerwa", Discovery Science HD
-http://barbanera.xyz:25461/Ythqnx9jUdAv/JfDbqwm6D8tC/245401
-#EXTINF:-1,PL: group-title="Rezerwa", Discovery Science HD
-http://barbanera.xyz:25461/Ythqnx9jUdAv/JfDbqwm6D8tC/245402
-#EXTINF:-1,PL: group-title="Rezerwa", Discovery Life HD
-http://barbanera.xyz:25461/Ythqnx9jUdAv/JfDbqwm6D8tC/245403
-#EXTINF:-1,PL: group-title="Rezerwa", Discovery Historia
-http://barbanera.xyz:25461/Ythqnx9jUdAv/JfDbqwm6D8tC/245404
-#EXTINF:-1,PL: group-title="Rezerwa", Discovery Historia
-http://barbanera.xyz:25461/Ythqnx9jUdAv/JfDbqwm6D8tC/245405
-#EXTINF:-1,PL: group-title="Rezerwa", DTX HD
-http://barbanera.xyz:25461/Ythqnx9jUdAv/JfDbqwm6D8tC/245406
-#EXTINF:-1,PL: group-title="Rezerwa", Invest. Discovery HD
-http://barbanera.xyz:25461/Ythqnx9jUdAv/JfDbqwm6D8tC/245407
-#EXTINF:-1,PL: group-title="Rezerwa", CI Polsat HD
-http://barbanera.xyz:25461/Ythqnx9jUdAv/JfDbqwm6D8tC/245408
-#EXTINF:-1,PL: group-title="Rezerwa", TLC HD
-http://barbanera.xyz:25461/Ythqnx9jUdAv/JfDbqwm6D8tC/245409
-#EXTINF:-1,PL: group-title="Rezerwa", Travel Channel HD
-http://barbanera.xyz:25461/Ythqnx9jUdAv/JfDbqwm6D8tC/245410
-#EXTINF:-1,PL: group-title="Rezerwa", Fokus TV
-http://barbanera.xyz:25461/Ythqnx9jUdAv/JfDbqwm6D8tC/245411
-#EXTINF:-1,PL: group-title="Rezerwa", Fokus TV
-http://barbanera.xyz:25461/Ythqnx9jUdAv/JfDbqwm6D8tC/245412
-#EXTINF:-1,PL: group-title="Rezerwa", Animal Planet HD
-http://barbanera.xyz:25461/Ythqnx9jUdAv/JfDbqwm6D8tC/245413
-#EXTINF:-1,PL: group-title="Rezerwa", Animal Planet HD
-http://barbanera.xyz:25461/Ythqnx9jUdAv/JfDbqwm6D8tC/245414
-#EXTINF:-1,PL: group-title="Rezerwa", Planete+
-http://barbanera.xyz:25461/Ythqnx9jUdAv/JfDbqwm6D8tC/245415
-#EXTINF:-1,PL: group-title="Rezerwa", History HD
-http://barbanera.xyz:25461/Ythqnx9jUdAv/JfDbqwm6D8tC/245416
-#EXTINF:-1,PL: group-title="Rezerwa", History HD
-http://barbanera.xyz:25461/Ythqnx9jUdAv/JfDbqwm6D8tC/245417
-#EXTINF:-1,PL: group-title="Rezerwa", History 2 HD
-http://barbanera.xyz:25461/Ythqnx9jUdAv/JfDbqwm6D8tC/245418
-#EXTINF:-1,PL: group-title="Rezerwa", History 2 HD
-http://barbanera.xyz:25461/Ythqnx9jUdAv/JfDbqwm6D8tC/245419
-#EXTINF:-1,PL: group-title="Rezerwa", TVP Historia
-http://barbanera.xyz:25461/Ythqnx9jUdAv/JfDbqwm6D8tC/245420
-#EXTINF:-1,PL: group-title="Rezerwa", Polsat Doku HD
-http://barbanera.xyz:25461/Ythqnx9jUdAv/JfDbqwm6D8tC/245421
-#EXTINF:-1,PL: group-title="Rezerwa", Polsat Doku HD
-http://barbanera.xyz:25461/Ythqnx9jUdAv/JfDbqwm6D8tC/245422
-#EXTINF:-1,PL: group-title="Rezerwa", Polsat Viasat History HD
-http://barbanera.xyz:25461/Ythqnx9jUdAv/JfDbqwm6D8tC/245423
-#EXTINF:-1,PL: group-title="Rezerwa", Polsat Viasat History HD
-http://barbanera.xyz:25461/Ythqnx9jUdAv/JfDbqwm6D8tC/245424
-#EXTINF:-1,PL: group-title="Rezerwa", Polsat Viasat Explore HD
-http://barbanera.xyz:25461/Ythqnx9jUdAv/JfDbqwm6D8tC/245425
-#EXTINF:-1,PL: group-title="Rezerwa", Polsat Viasat Explore HD
-http://barbanera.xyz:25461/Ythqnx9jUdAv/JfDbqwm6D8tC/245426
-#EXTINF:-1,PL: group-title="Rezerwa", Da Vinci
-http://barbanera.xyz:25461/Ythqnx9jUdAv/JfDbqwm6D8tC/245427
-#EXTINF:-1,PL: group-title="Rezerwa", Da Vinci
-http://barbanera.xyz:25461/Ythqnx9jUdAv/JfDbqwm6D8tC/245428
-#EXTINF:-1,PL: group-title="Rezerwa", BBC Earth HD
-http://barbanera.xyz:25461/Ythqnx9jUdAv/JfDbqwm6D8tC/245429
-#EXTINF:-1,PL: group-title="Rezerwa", BBC Earth HD
-http://barbanera.xyz:25461/Ythqnx9jUdAv/JfDbqwm6D8tC/245430
-#EXTINF:-1,PL: group-title="Rezerwa", StudioMed TV HD
-http://barbanera.xyz:25461/Ythqnx9jUdAv/JfDbqwm6D8tC/245431
-#EXTINF:-1,PL: group-title="Rezerwa", Polsat Games
-http://barbanera.xyz:25461/Ythqnx9jUdAv/JfDbqwm6D8tC/245432
-#EXTINF:-1,= = = INFORMACJA = = =
-http://barbanera.xyz:25461/Ythqnx9jUdAv/JfDbqwm6D8tC/245433
-#EXTINF:-1,PL: group-title="Rezerwa", TVP INFO HD
-http://barbanera.xyz:25461/Ythqnx9jUdAv/JfDbqwm6D8tC/245434
-#EXTINF:-1,PL: group-title="Rezerwa", TVP INFO HD
-http://barbanera.xyz:25461/Ythqnx9jUdAv/JfDbqwm6D8tC/245435
-#EXTINF:-1,PL: group-title="Rezerwa", TVN 24 HD
-http://barbanera.xyz:25461/Ythqnx9jUdAv/JfDbqwm6D8tC/245436
-#EXTINF:-1,PL: group-title="Rezerwa", TVN 24 HD
-http://barbanera.xyz:25461/Ythqnx9jUdAv/JfDbqwm6D8tC/245437
-#EXTINF:-1,PL: group-title="Rezerwa", Polsat News HD
-http://barbanera.xyz:25461/Ythqnx9jUdAv/JfDbqwm6D8tC/245438
-#EXTINF:-1,PL: group-title="Rezerwa", Polsat News HD
-http://barbanera.xyz:25461/Ythqnx9jUdAv/JfDbqwm6D8tC/245439
-#EXTINF:-1,PL: group-title="Rezerwa", Polsat News 2
-http://barbanera.xyz:25461/Ythqnx9jUdAv/JfDbqwm6D8tC/245440
-#EXTINF:-1,PL: group-title="Rezerwa", Polsat News 2
-http://barbanera.xyz:25461/Ythqnx9jUdAv/JfDbqwm6D8tC/245441
-#EXTINF:-1,PL: group-title="Rezerwa", Superstacja
-http://barbanera.xyz:25461/Ythqnx9jUdAv/JfDbqwm6D8tC/245442
-#EXTINF:-1,PL: group-title="Rezerwa", Superstacja
-http://barbanera.xyz:25461/Ythqnx9jUdAv/JfDbqwm6D8tC/245443
-#EXTINF:-1,PL: group-title="Rezerwa", TV Republika
-http://barbanera.xyz:25461/Ythqnx9jUdAv/JfDbqwm6D8tC/245444
-#EXTINF:-1,PL: group-title="Rezerwa", TV Republika
-http://barbanera.xyz:25461/Ythqnx9jUdAv/JfDbqwm6D8tC/245445
-#EXTINF:-1,PL: group-title="Rezerwa", TRACE TV
-http://barbanera.xyz:25461/Ythqnx9jUdAv/JfDbqwm6D8tC/245446
-#EXTINF:-1,PL: group-title="Rezerwa", wPolsce.pl
-http://barbanera.xyz:25461/Ythqnx9jUdAv/JfDbqwm6D8tC/245447
-#EXTINF:-1,= = = MUZYKA = = =
-http://barbanera.xyz:25461/Ythqnx9jUdAv/JfDbqwm6D8tC/245448
-#EXTINF:-1,PL: group-title="Rezerwa", MTV Rocks
-http://barbanera.xyz:25461/Ythqnx9jUdAv/JfDbqwm6D8tC/245449
-#EXTINF:-1,PL: group-title="Rezerwa", TVP Rozrywka
-http://barbanera.xyz:25461/Ythqnx9jUdAv/JfDbqwm6D8tC/245450
-#EXTINF:-1,PL: group-title="Rezerwa", Polsat Music HD
-http://barbanera.xyz:25461/Ythqnx9jUdAv/JfDbqwm6D8tC/245451
-#EXTINF:-1,PL: group-title="Rezerwa", Polsat Music HD
-http://barbanera.xyz:25461/Ythqnx9jUdAv/JfDbqwm6D8tC/245452
-#EXTINF:-1,PL: group-title="Rezerwa", Polo TV
-http://barbanera.xyz:25461/Ythqnx9jUdAv/JfDbqwm6D8tC/245453
-#EXTINF:-1,PL: group-title="Rezerwa", Disco Polo Music
-http://barbanera.xyz:25461/Ythqnx9jUdAv/JfDbqwm6D8tC/245454
-#EXTINF:-1,PL: group-title="Rezerwa", Eska TV
-http://barbanera.xyz:25461/Ythqnx9jUdAv/JfDbqwm6D8tC/245455
-#EXTINF:-1,PL: group-title="Rezerwa", Eska TV
-http://barbanera.xyz:25461/Ythqnx9jUdAv/JfDbqwm6D8tC/245456
-#EXTINF:-1,PL: group-title="Rezerwa", Eska TV Extra
-http://barbanera.xyz:25461/Ythqnx9jUdAv/JfDbqwm6D8tC/245457
-#EXTINF:-1,PL: group-title="Rezerwa", Eska TV Extra
-http://barbanera.xyz:25461/Ythqnx9jUdAv/JfDbqwm6D8tC/245458
-#EXTINF:-1,PL: group-title="Rezerwa", EskaROCK TV
-http://barbanera.xyz:25461/Ythqnx9jUdAv/JfDbqwm6D8tC/245459
-#EXTINF:-1,PL: group-title="Rezerwa", Kino Polska Muzyka
-http://barbanera.xyz:25461/Ythqnx9jUdAv/JfDbqwm6D8tC/245460
-#EXTINF:-1,PL: group-title="Rezerwa", Kino Polska Muzyka
-http://barbanera.xyz:25461/Ythqnx9jUdAv/JfDbqwm6D8tC/245461
-#EXTINF:-1,PL: group-title="Rezerwa", 4Fun Dance
-http://barbanera.xyz:25461/Ythqnx9jUdAv/JfDbqwm6D8tC/245462
-#EXTINF:-1,PL: group-title="Rezerwa", 4Fun Dance
-http://barbanera.xyz:25461/Ythqnx9jUdAv/JfDbqwm6D8tC/245463
-#EXTINF:-1,PL: group-title="Rezerwa", 4Fun.TV
-http://barbanera.xyz:25461/Ythqnx9jUdAv/JfDbqwm6D8tC/245464
-#EXTINF:-1,PL: group-title="Rezerwa", 4Fun.TV
-http://barbanera.xyz:25461/Ythqnx9jUdAv/JfDbqwm6D8tC/245465
-#EXTINF:-1,PL: group-title="Rezerwa", 4Fun Gold Hits
-http://barbanera.xyz:25461/Ythqnx9jUdAv/JfDbqwm6D8tC/245466
-#EXTINF:-1,PL: group-title="Rezerwa", VOX MUSIC TV
-http://barbanera.xyz:25461/Ythqnx9jUdAv/JfDbqwm6D8tC/245467
-#EXTINF:-1,PL: group-title="Rezerwa", STARS.TV
-http://barbanera.xyz:25461/Ythqnx9jUdAv/JfDbqwm6D8tC/245468
-#EXTINF:-1,PL: group-title="Rezerwa", STARS.TV
-http://barbanera.xyz:25461/Ythqnx9jUdAv/JfDbqwm6D8tC/245469
-#EXTINF:-1,= = = DZIEC = = =
-http://barbanera.xyz:25461/Ythqnx9jUdAv/JfDbqwm6D8tC/245470
-#EXTINF:-1,PL: group-title="Rezerwa", Disney Channel HD
-http://barbanera.xyz:25461/Ythqnx9jUdAv/JfDbqwm6D8tC/245471
-#EXTINF:-1,PL: group-title="Rezerwa", Disney XD
-http://barbanera.xyz:25461/Ythqnx9jUdAv/JfDbqwm6D8tC/245472
-#EXTINF:-1,PL: group-title="Rezerwa", Disney Junior
-http://barbanera.xyz:25461/Ythqnx9jUdAv/JfDbqwm6D8tC/245473
-#EXTINF:-1,PL: group-title="Rezerwa", Disney Junior
-http://barbanera.xyz:25461/Ythqnx9jUdAv/JfDbqwm6D8tC/245474
-#EXTINF:-1,PL: group-title="Rezerwa", Cartoon Network HD
-http://barbanera.xyz:25461/Ythqnx9jUdAv/JfDbqwm6D8tC/245475
-#EXTINF:-1,PL: group-title="Rezerwa", Cartoon Network HD
-http://barbanera.xyz:25461/Ythqnx9jUdAv/JfDbqwm6D8tC/245476
-#EXTINF:-1,PL: group-title="Rezerwa", Boomerang HD
-http://barbanera.xyz:25461/Ythqnx9jUdAv/JfDbqwm6D8tC/245477
-#EXTINF:-1,PL: group-title="Rezerwa", Boomerang HD
-http://barbanera.xyz:25461/Ythqnx9jUdAv/JfDbqwm6D8tC/245478
-#EXTINF:-1,PL: group-title="Rezerwa", TVP ABC
-http://barbanera.xyz:25461/Ythqnx9jUdAv/JfDbqwm6D8tC/245479
-#EXTINF:-1,PL: group-title="Rezerwa", MiniMini+  HD
-http://barbanera.xyz:25461/Ythqnx9jUdAv/JfDbqwm6D8tC/245480
-#EXTINF:-1,PL: group-title="Rezerwa", teleTOON+  HD
-http://barbanera.xyz:25461/Ythqnx9jUdAv/JfDbqwm6D8tC/245481
-#EXTINF:-1,Pl: group-title="Rezerwa", Antena sd
-http://barbanera.xyz:25461/Ythqnx9jUdAv/JfDbqwm6D8tC/245482
-
-
+#EXTINF:-1 tvg-id="" tvg-name="XXX: EXTASY 4K XXX" tvg-logo="" group-title="ADULT CHANNELS",XXX: EXTASY 4K XXX
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/128363.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX: ForeverX Porn 4K - 1" tvg-logo="" group-title="ADULT CHANNELS",XXX: ForeverX Porn 4K - 1
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/155644.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX: ForeverX Porn 4K - 2" tvg-logo="" group-title="ADULT CHANNELS",XXX: ForeverX Porn 4K - 2
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/155645.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX: ForeverX Porn 4K - 3" tvg-logo="" group-title="ADULT CHANNELS",XXX: ForeverX Porn 4K - 3
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/155646.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX: AnonymX - 2" tvg-logo="" group-title="ADULT CHANNELS",XXX: AnonymX - 2
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/155649.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="XXX: FAKE TAXI" tvg-logo="" group-title="ADULT CHANNELS",XXX: FAKE TAXI
 http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/128972.ts
+#EXTINF:-1 tvg-id="" tvg-name="PORNBOX: FAKE TAXI" tvg-logo="" group-title="ADULT CHANNELS",PORNBOX: FAKE TAXI
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/166305.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX | Fake Taxiⓧ 2" tvg-logo="" group-title="ADULT CHANNELS",XXX | Fake Taxiⓧ 2
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/166472.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX | Fake Taxiⓧ 3" tvg-logo="" group-title="ADULT CHANNELS",XXX | Fake Taxiⓧ 3
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/166473.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX:  FAKE TAXI FHD (Cabelporn)" tvg-logo="" group-title="ADULT CHANNELS",XXX:  FAKE TAXI FHD (Cabelporn)
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/128998.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX | Adultⓧ 1" tvg-logo="" group-title="ADULT CHANNELS",XXX | Adultⓧ 1
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/166423.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX | Bang Brosⓧ" tvg-logo="" group-title="ADULT CHANNELS",XXX | Bang Brosⓧ
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/166444.ts
+
+
+#EXTINF:-1 tvg-id="" tvg-name="ADULT: XXX-HD1" tvg-logo="" group-title="ADULT CHANNELS",ADULT: XXX-HD1
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/128836.ts
+#EXTINF:-1 tvg-id="" tvg-name="ADULT:  XXX-HD2" tvg-logo="" group-title="ADULT CHANNELS",ADULT:  XXX-HD2
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/128837.ts
+#EXTINF:-1 tvg-id="" tvg-name="ADULT:  XXX 1" tvg-logo="" group-title="ADULT CHANNELS",ADULT:  XXX 1
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/128838.ts
+#EXTINF:-1 tvg-id="" tvg-name="ADULT:  XXX 2" tvg-logo="" group-title="ADULT CHANNELS",ADULT:  XXX 2
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/128839.ts
+#EXTINF:-1 tvg-id="" tvg-name="ADULT:  XXX 3" tvg-logo="" group-title="ADULT CHANNELS",ADULT:  XXX 3
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/128840.ts
+#EXTINF:-1 tvg-id="" tvg-name="ADULT: XXX 6" tvg-logo="" group-title="ADULT CHANNELS",ADULT: XXX 6
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/128843.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX: XXX-HD7" tvg-logo="" group-title="ADULT CHANNELS",XXX: XXX-HD7
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/128844.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX- XXX HD8" tvg-logo="" group-title="ADULT CHANNELS",XXX- XXX HD8
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/128845.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX: XXL 2 HD" tvg-logo="" group-title="ADULT CHANNELS",XXX: XXL 2 HD
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/128846.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX: XXL 3 HD" tvg-logo="" group-title="ADULT CHANNELS",XXX: XXL 3 HD
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/128847.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX: XXXX 4 HD" tvg-logo="" group-title="ADULT CHANNELS",XXX: XXXX 4 HD
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/128848.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX: XXXX 5  HD" tvg-logo="" group-title="ADULT CHANNELS",XXX: XXXX 5  HD
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/128849.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX: XXX 6 HD" tvg-logo="" group-title="ADULT CHANNELS",XXX: XXX 6 HD
+
 #EXTINF:-1 tvg-id="" tvg-name="| PlatinumXmedia | XXX | Amateur 01ⓧ" tvg-logo="" group-title="ADULT CHANNELS",| PlatinumXmedia | XXX | Amateur 01ⓧ
 http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/166267.ts
 #EXTINF:-1 tvg-id="" tvg-name="| PlatinumXmedia | XXX | Amateur 02ⓧ" tvg-logo="" group-title="ADULT CHANNELS",| PlatinumXmedia | XXX | Amateur 02ⓧ
@@ -1095,295 +931,7 @@ http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/166282.ts
 http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/166283.ts
 #EXTINF:-1 tvg-id="" tvg-name="PORNBOX: BANG BROS NETWORK" tvg-logo="" group-title="ADULT CHANNELS",PORNBOX: BANG BROS NETWORK
 http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/166284.ts
-#EXTINF:-1 tvg-id="" tvg-name="PORNBOX: BIPHORIA" tvg-logo="" group-title="ADULT CHANNELS",PORNBOX: BIPHORIA
-http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/166285.ts
-#EXTINF:-1 tvg-id="" tvg-name="PORNBOX: BLACKED" tvg-logo="" group-title="ADULT CHANNELS",PORNBOX: BLACKED
-http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/166286.ts
-#EXTINF:-1 tvg-id="" tvg-name="PORNBOX: BLOW ME POV" tvg-logo="" group-title="ADULT CHANNELS",PORNBOX: BLOW ME POV
-http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/166287.ts
-#EXTINF:-1 tvg-id="" tvg-name="PORNBOX: BOX OF PORN" tvg-logo="" group-title="ADULT CHANNELS",PORNBOX: BOX OF PORN
-http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/166288.ts
-#EXTINF:-1 tvg-id="" tvg-name="PORNBOX: BRATTY SIS" tvg-logo="" group-title="ADULT CHANNELS",PORNBOX: BRATTY SIS
-http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/166289.ts
 #EXTINF:-1 tvg-id="" tvg-name="PORNBOX: BRAZZERS" tvg-logo="" group-title="ADULT CHANNELS",PORNBOX: BRAZZERS
 http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/166290.ts
-#EXTINF:-1 tvg-id="" tvg-name="PORNBOX: BUMS BUS" tvg-logo="" group-title="ADULT CHANNELS",PORNBOX: BUMS BUS
-http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/166291.ts
-#EXTINF:-1 tvg-id="" tvg-name="PORNBOX: CASTING COUCH" tvg-logo="" group-title="ADULT CHANNELS",PORNBOX: CASTING COUCH
-http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/166292.ts
-#EXTINF:-1 tvg-id="" tvg-name="PORNBOX: CUM 4K" tvg-logo="" group-title="ADULT CHANNELS",PORNBOX: CUM 4K
-http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/166293.ts
-#EXTINF:-1 tvg-id="" tvg-name="PORNBOX: DAGFS" tvg-logo="" group-title="ADULT CHANNELS",PORNBOX: DAGFS
-http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/166294.ts
-#EXTINF:-1 tvg-id="" tvg-name="PORNBOX: DDF BUSTY" tvg-logo="" group-title="ADULT CHANNELS",PORNBOX: DDF BUSTY
-http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/166295.ts
-#EXTINF:-1 tvg-id="" tvg-name="PORNBOX: DIABOLIC" tvg-logo="" group-title="ADULT CHANNELS",PORNBOX: DIABOLIC
-http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/166296.ts
-#EXTINF:-1 tvg-id="" tvg-name="PORNBOX: DIGITAL PLAYGROUND" tvg-logo="" group-title="ADULT CHANNELS",PORNBOX: DIGITAL PLAYGROUND
-http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/166297.ts
-#EXTINF:-1 tvg-id="" tvg-name="PORNBOX: DOGFART NETWORK" tvg-logo="" group-title="ADULT CHANNELS",PORNBOX: DOGFART NETWORK
-http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/166298.ts
-#EXTINF:-1 tvg-id="" tvg-name="PORNBOX: DORCEL CLUB" tvg-logo="" group-title="ADULT CHANNELS",PORNBOX: DORCEL CLUB
-http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/166299.ts
-#EXTINF:-1 tvg-id="" tvg-name="PORNBOX: DREAMROOM" tvg-logo="" group-title="ADULT CHANNELS",PORNBOX: DREAMROOM
-http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/166300.ts
-#EXTINF:-1 tvg-id="" tvg-name="PORNBOX: EROTIKVONBENAN" tvg-logo="" group-title="ADULT CHANNELS",PORNBOX: EROTIKVONBENAN
-http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/166301.ts
-#EXTINF:-1 tvg-id="" tvg-name="PORNBOX: EVIL ANGEL" tvg-logo="" group-title="ADULT CHANNELS",PORNBOX: EVIL ANGEL
-http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/166302.ts
-#EXTINF:-1 tvg-id="" tvg-name="PORNBOX: EVIL ANGEL" tvg-logo="" group-title="ADULT CHANNELS",PORNBOX: EVIL ANGEL
-http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/166303.ts
-#EXTINF:-1 tvg-id="" tvg-name="PORNBOX: FAKE HOSTEL" tvg-logo="" group-title="ADULT CHANNELS",PORNBOX: FAKE HOSTEL
-http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/166304.ts
-#EXTINF:-1 tvg-id="" tvg-name="PORNBOX: FAKE TAXI" tvg-logo="" group-title="ADULT CHANNELS",PORNBOX: FAKE TAXI
-http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/166305.ts
-#EXTINF:-1 tvg-id="" tvg-name="PORNBOX: FAMILY STROKES" tvg-logo="" group-title="ADULT CHANNELS",PORNBOX: FAMILY STROKES
-http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/166306.ts
-#EXTINF:-1 tvg-id="" tvg-name="PORNBOX: FAMILY SWAP XXX" tvg-logo="" group-title="ADULT CHANNELS",PORNBOX: FAMILY SWAP XXX
-http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/166307.ts
-#EXTINF:-1 tvg-id="" tvg-name="PORNBOX: FAPADOO" tvg-logo="" group-title="ADULT CHANNELS",PORNBOX: FAPADOO
-http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/166308.ts
-#EXTINF:-1 tvg-id="" tvg-name="PORNBOX: FILTHY POV" tvg-logo="" group-title="ADULT CHANNELS",PORNBOX: FILTHY POV
-http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/166309.ts
-#EXTINF:-1 tvg-id="" tvg-name="PORNBOX: FIRST ANAL QUEST" tvg-logo="" group-title="ADULT CHANNELS",PORNBOX: FIRST ANAL QUEST
-http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/166310.ts
-#EXTINF:-1 tvg-id="" tvg-name="PORNBOX: FIT 18" tvg-logo="" group-title="ADULT CHANNELS",PORNBOX: FIT 18
-http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/166311.ts
-#EXTINF:-1 tvg-id="" tvg-name="PORNBOX: GOTMYLF" tvg-logo="" group-title="ADULT CHANNELS",PORNBOX: GOTMYLF
-http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/166312.ts
-#EXTINF:-1 tvg-id="" tvg-name="PORNBOX: HENTAINED" tvg-logo="" group-title="ADULT CHANNELS",PORNBOX: HENTAINED
-http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/166313.ts
-#EXTINF:-1 tvg-id="" tvg-name="PORNBOX: HER LIMIT" tvg-logo="" group-title="ADULT CHANNELS",PORNBOX: HER LIMIT
-http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/166314.ts
-#EXTINF:-1 tvg-id="" tvg-name="PORNBOX: HOLED" tvg-logo="" group-title="ADULT CHANNELS",PORNBOX: HOLED
-http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/166315.ts
-#EXTINF:-1 tvg-id="" tvg-name="PORNBOX: HOT WIFE XXX" tvg-logo="" group-title="ADULT CHANNELS",PORNBOX: HOT WIFE XXX
-http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/166316.ts
-#EXTINF:-1 tvg-id="" tvg-name="PORNBOX: HUSSIE PASS" tvg-logo="" group-title="ADULT CHANNELS",PORNBOX: HUSSIE PASS
-http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/166317.ts
-#EXTINF:-1 tvg-id="" tvg-name="PORNBOX: INTERRACIAL PASS" tvg-logo="" group-title="ADULT CHANNELS",PORNBOX: INTERRACIAL PASS
-http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/166318.ts
-#EXTINF:-1 tvg-id="" tvg-name="PORNBOX: JAYS POV" tvg-logo="" group-title="ADULT CHANNELS",PORNBOX: JAYS POV
-http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/166319.ts
-#EXTINF:-1 tvg-id="" tvg-name="PORNBOX: JESH BY JESH" tvg-logo="" group-title="ADULT CHANNELS",PORNBOX: JESH BY JESH
-http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/166320.ts
-#EXTINF:-1 tvg-id="" tvg-name="PORNBOX: JOI BABES" tvg-logo="" group-title="ADULT CHANNELS",PORNBOX: JOI BABES
-http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/166321.ts
-#EXTINF:-1 tvg-id="" tvg-name="PORNBOX: JULES JORDAN" tvg-logo="" group-title="ADULT CHANNELS",PORNBOX: JULES JORDAN
-http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/166322.ts
-#EXTINF:-1 tvg-id="" tvg-name="PORNBOX: KINKY FAMILY" tvg-logo="" group-title="ADULT CHANNELS",PORNBOX: KINKY FAMILY
-http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/166323.ts
-#EXTINF:-1 tvg-id="" tvg-name="PORNBOX: KINKY INLAWS" tvg-logo="" group-title="ADULT CHANNELS",PORNBOX: KINKY INLAWS
-http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/166324.ts
-#EXTINF:-1 tvg-id="" tvg-name="PORNBOX: KINKY SPA" tvg-logo="" group-title="ADULT CHANNELS",PORNBOX: KINKY SPA
-http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/166325.ts
-#EXTINF:-1 tvg-id="" tvg-name="PORNBOX: LETHAL HARDCORE" tvg-logo="" group-title="ADULT CHANNELS",PORNBOX: LETHAL HARDCORE
-http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/166326.ts
-#EXTINF:-1 tvg-id="" tvg-name="PORNBOX: LETHAL TEENS" tvg-logo="" group-title="ADULT CHANNELS",PORNBOX: LETHAL TEENS
-http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/166327.ts
-#EXTINF:-1 tvg-id="" tvg-name="PORNBOX: LETS DOE IT" tvg-logo="" group-title="ADULT CHANNELS",PORNBOX: LETS DOE IT
-http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/166328.ts
-#EXTINF:-1 tvg-id="" tvg-name="PORNBOX: LIFE SELECTOR" tvg-logo="" group-title="ADULT CHANNELS",PORNBOX: LIFE SELECTOR
-http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/166329.ts
-#EXTINF:-1 tvg-id="" tvg-name="PORNBOX: LOVE HER FEET" tvg-logo="" group-title="ADULT CHANNELS",PORNBOX: LOVE HER FEET
-http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/166330.ts
-#EXTINF:-1 tvg-id="" tvg-name="PORNBOX: LOVE HOME PORN" tvg-logo="" group-title="ADULT CHANNELS",PORNBOX: LOVE HOME PORN
-http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/166331.ts
-#EXTINF:-1 tvg-id="" tvg-name="PORNBOX: LUBED" tvg-logo="" group-title="ADULT CHANNELS",PORNBOX: LUBED
-http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/166332.ts
-#EXTINF:-1 tvg-id="" tvg-name="PORNBOX: LUXURE" tvg-logo="" group-title="ADULT CHANNELS",PORNBOX: LUXURE
-http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/166333.ts
-#EXTINF:-1 tvg-id="" tvg-name="PORNBOX: MAMACITAZ" tvg-logo="" group-title="ADULT CHANNELS",PORNBOX: MAMACITAZ
-http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/166334.ts
-#EXTINF:-1 tvg-id="" tvg-name="PORNBOX: MASSAGE ROOMS" tvg-logo="" group-title="ADULT CHANNELS",PORNBOX: MASSAGE ROOMS
-http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/166335.ts
-#EXTINF:-1 tvg-id="" tvg-name="PORNBOX: MODEL MEDIA ASIA" tvg-logo="" group-title="ADULT CHANNELS",PORNBOX: MODEL MEDIA ASIA
-http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/166336.ts
-#EXTINF:-1 tvg-id="" tvg-name="PORNBOX: MOM TEACH SEX" tvg-logo="" group-title="ADULT CHANNELS",PORNBOX: MOM TEACH SEX
-http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/166337.ts
-#EXTINF:-1 tvg-id="" tvg-name="PORNBOX: MOMMY BLOWS BEST" tvg-logo="" group-title="ADULT CHANNELS",PORNBOX: MOMMY BLOWS BEST
-http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/166338.ts
-#EXTINF:-1 tvg-id="" tvg-name="PORNBOX: MUST NOT FAP" tvg-logo="" group-title="ADULT CHANNELS",PORNBOX: MUST NOT FAP
-http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/166339.ts
-#EXTINF:-1 tvg-id="" tvg-name="PORNBOX: MY DIRTY HOBBY" tvg-logo="" group-title="ADULT CHANNELS",PORNBOX: MY DIRTY HOBBY
-http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/166340.ts
-#EXTINF:-1 tvg-id="" tvg-name="PORNBOX: MY FAMILY PIES" tvg-logo="" group-title="ADULT CHANNELS",PORNBOX: MY FAMILY PIES
-http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/166341.ts
-#EXTINF:-1 tvg-id="" tvg-name="PORNBOX: MY LIFE IN MIAMI" tvg-logo="" group-title="ADULT CHANNELS",PORNBOX: MY LIFE IN MIAMI
-http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/166342.ts
-#EXTINF:-1 tvg-id="" tvg-name="PORNBOX: MY PERVY FAMILY" tvg-logo="" group-title="ADULT CHANNELS",PORNBOX: MY PERVY FAMILY
-http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/166343.ts
-#EXTINF:-1 tvg-id="" tvg-name="PORNBOX: MY TINY WISH" tvg-logo="" group-title="ADULT CHANNELS",PORNBOX: MY TINY WISH
-http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/166344.ts
-#EXTINF:-1 tvg-id="" tvg-name="PORNBOX: MYLF" tvg-logo="" group-title="ADULT CHANNELS",PORNBOX: MYLF
-http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/166345.ts
-#EXTINF:-1 tvg-id="" tvg-name="PORNBOX: NEW SENSATIONS" tvg-logo="" group-title="ADULT CHANNELS",PORNBOX: NEW SENSATIONS
-http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/166346.ts
-#EXTINF:-1 tvg-id="" tvg-name="PORNBOX: NF BUSTY" tvg-logo="" group-title="ADULT CHANNELS",PORNBOX: NF BUSTY
-http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/166347.ts
-#EXTINF:-1 tvg-id="" tvg-name="PORNBOX: NUBILE FILMS" tvg-logo="" group-title="ADULT CHANNELS",PORNBOX: NUBILE FILMS
-http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/166348.ts
-#EXTINF:-1 tvg-id="" tvg-name="PORNBOX: NURU MASSAGE" tvg-logo="" group-title="ADULT CHANNELS",PORNBOX: NURU MASSAGE
-http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/166349.ts
-#EXTINF:-1 tvg-id="" tvg-name="PORNBOX: PASSION" tvg-logo="" group-title="ADULT CHANNELS",PORNBOX: PASSION
-http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/166350.ts
-#EXTINF:-1 tvg-id="" tvg-name="PORNBOX: PERV CITY" tvg-logo="" group-title="ADULT CHANNELS",PORNBOX: PERV CITY
-http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/166351.ts
-#EXTINF:-1 tvg-id="" tvg-name="PORNBOX: PERV MOM" tvg-logo="" group-title="ADULT CHANNELS",PORNBOX: PERV MOM
-http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/166352.ts
-#EXTINF:-1 tvg-id="" tvg-name="PORNBOX: PORN WORLD HARDCORE" tvg-logo="" group-title="ADULT CHANNELS",PORNBOX: PORN WORLD HARDCORE
-http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/166353.ts
-#EXTINF:-1 tvg-id="" tvg-name="PORNBOX: PORNHOCHIC" tvg-logo="" group-title="ADULT CHANNELS",PORNBOX: PORNHOCHIC
-http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/166354.ts
-#EXTINF:-1 tvg-id="" tvg-name="PORNBOX: POVD" tvg-logo="" group-title="ADULT CHANNELS",PORNBOX: POVD
-http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/166355.ts
-#EXTINF:-1 tvg-id="" tvg-name="PORNBOX: PRENCESS CUM" tvg-logo="" group-title="ADULT CHANNELS",PORNBOX: PRENCESS CUM
-http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/166356.ts
-#EXTINF:-1 tvg-id="" tvg-name="PORNBOX: PRIVATE" tvg-logo="" group-title="ADULT CHANNELS",PORNBOX: PRIVATE
-http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/166357.ts
-#EXTINF:-1 tvg-id="" tvg-name="PORNBOX: PROPERTY SEX" tvg-logo="" group-title="ADULT CHANNELS",PORNBOX: PROPERTY SEX
-http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/166358.ts
-#EXTINF:-1 tvg-id="" tvg-name="PORNBOX: PUBLIC AGENT" tvg-logo="" group-title="ADULT CHANNELS",PORNBOX: PUBLIC AGENT
-http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/166359.ts
-#EXTINF:-1 tvg-id="" tvg-name="PORNBOX: PURE MATURE" tvg-logo="" group-title="ADULT CHANNELS",PORNBOX: PURE MATURE
-http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/166360.ts
-#EXTINF:-1 tvg-id="" tvg-name="PORNBOX: REAL DIRTY VIDEOS" tvg-logo="" group-title="ADULT CHANNELS",PORNBOX: REAL DIRTY VIDEOS
-http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/166361.ts
-#EXTINF:-1 tvg-id="" tvg-name="PORNBOX: REAL MOM EXPOSED" tvg-logo="" group-title="ADULT CHANNELS",PORNBOX: REAL MOM EXPOSED
-http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/166362.ts
-#EXTINF:-1 tvg-id="" tvg-name="PORNBOX: REALITY JUNKIES" tvg-logo="" group-title="ADULT CHANNELS",PORNBOX: REALITY JUNKIES
-http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/166363.ts
-#EXTINF:-1 tvg-id="" tvg-name="PORNBOX: REALITY KINGS" tvg-logo="" group-title="ADULT CHANNELS",PORNBOX: REALITY KINGS
-http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/166364.ts
-#EXTINF:-1 tvg-id="" tvg-name="PORNBOX: SLIM 4K" tvg-logo="" group-title="ADULT CHANNELS",PORNBOX: SLIM 4K
-http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/166365.ts
-#EXTINF:-1 tvg-id="" tvg-name="PORNBOX: STROKIES" tvg-logo="" group-title="ADULT CHANNELS",PORNBOX: STROKIES
-http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/166366.ts
-#EXTINF:-1 tvg-id="" tvg-name="PORNBOX: SUGAR BABES TV" tvg-logo="" group-title="ADULT CHANNELS",PORNBOX: SUGAR BABES TV
-http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/166367.ts
-#EXTINF:-1 tvg-id="" tvg-name="PORNBOX: SWEET SINNER" tvg-logo="" group-title="ADULT CHANNELS",PORNBOX: SWEET SINNER
-http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/166368.ts
-#EXTINF:-1 tvg-id="" tvg-name="PORNBOX: THROATED" tvg-logo="" group-title="ADULT CHANNELS",PORNBOX: THROATED
-http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/166369.ts
-#EXTINF:-1 tvg-id="" tvg-name="PORNBOX: TRUE AMATUERS" tvg-logo="" group-title="ADULT CHANNELS",PORNBOX: TRUE AMATUERS
-http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/166370.ts
-#EXTINF:-1 tvg-id="" tvg-name="PORNBOX: X CHIMERA" tvg-logo="" group-title="ADULT CHANNELS",PORNBOX: X CHIMERA
-http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/166371.ts
-#EXTINF:-1 tvg-id="" tvg-name="XXX: EXTASY 4K XXX" tvg-logo="" group-title="ADULT CHANNELS",XXX: EXTASY 4K XXX
-http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/128363.ts
-#EXTINF:-1 tvg-id="" tvg-name="XXX: AnonymX - 1" tvg-logo="" group-title="ADULT CHANNELS",XXX: AnonymX - 1
-http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/155648.ts
-#EXTINF:-1 tvg-id="" tvg-name="XXX: AnonymX - 2" tvg-logo="" group-title="ADULT CHANNELS",XXX: AnonymX - 2
-http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/155649.ts
-#EXTINF:-1 tvg-id="" tvg-name="XXX: AnonymX - 3" tvg-logo="" group-title="ADULT CHANNELS",XXX: AnonymX - 3
-http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/155650.ts
-#EXTINF:-1 tvg-id="" tvg-name="XXX: AnonymX - 4" tvg-logo="" group-title="ADULT CHANNELS",XXX: AnonymX - 4
-http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/155651.ts
-#EXTINF:-1 tvg-id="" tvg-name="XXX: AnonymX - 5" tvg-logo="" group-title="ADULT CHANNELS",XXX: AnonymX - 5
-http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/155652.ts
-#EXTINF:-1 tvg-id="" tvg-name="XXX: AnonymX - 6" tvg-logo="" group-title="ADULT CHANNELS",XXX: AnonymX - 6
-http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/155653.ts
-#EXTINF:-1 tvg-id="" tvg-name="XXX: AnonymX - 7" tvg-logo="" group-title="ADULT CHANNELS",XXX: AnonymX - 7
-http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/155654.ts
-#EXTINF:-1 tvg-id="" tvg-name="XXX: AnonymX - 8" tvg-logo="" group-title="ADULT CHANNELS",XXX: AnonymX - 8
-http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/155655.ts
-#EXTINF:-1 tvg-id="" tvg-name="XXX: AnonymX - 9" tvg-logo="" group-title="ADULT CHANNELS",XXX: AnonymX - 9
-http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/155656.ts
-#EXTINF:-1 tvg-id="" tvg-name="XXX: AnonymX - 10" tvg-logo="" group-title="ADULT CHANNELS",XXX: AnonymX - 10
-http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/155657.ts
-#EXTINF:-1 tvg-id="" tvg-name="XXX: AnonymX - 11" tvg-logo="" group-title="ADULT CHANNELS",XXX: AnonymX - 11
-http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/155658.ts
-#EXTINF:-1 tvg-id="" tvg-name="XXX: AnonymX - 12" tvg-logo="" group-title="ADULT CHANNELS",XXX: AnonymX - 12
-http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/155659.ts
-#EXTINF:-1 tvg-id="" tvg-name="XXX: AnonymX - 13" tvg-logo="" group-title="ADULT CHANNELS",XXX: AnonymX - 13
-http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/155660.ts
-#EXTINF:-1 tvg-id="" tvg-name="XXX: AnonymX - 14" tvg-logo="" group-title="ADULT CHANNELS",XXX: AnonymX - 14
-http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/155661.ts
-#EXTINF:-1 tvg-id="" tvg-name="XXX: AnonymX - 15" tvg-logo="" group-title="ADULT CHANNELS",XXX: AnonymX - 15
-http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/155662.ts
-#EXTINF:-1 tvg-id="" tvg-name="XXX: AnonymX - 16" tvg-logo="" group-title="ADULT CHANNELS",XXX: AnonymX - 16
-http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/155663.ts
-#EXTINF:-1 tvg-id="" tvg-name="XXX: AnonymX - 17" tvg-logo="" group-title="ADULT CHANNELS",XXX: AnonymX - 17
-http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/155664.ts
-#EXTINF:-1 tvg-id="" tvg-name="XXX: AnonymX - 18" tvg-logo="" group-title="ADULT CHANNELS",XXX: AnonymX - 18
-http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/155665.ts
-#EXTINF:-1 tvg-id="" tvg-name="XXX: AnonymX - 19" tvg-logo="" group-title="ADULT CHANNELS",XXX: AnonymX - 19
-http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/155666.ts
-#EXTINF:-1 tvg-id="" tvg-name="XXX: AnonymX - 20" tvg-logo="" group-title="ADULT CHANNELS",XXX: AnonymX - 20
-http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/155667.ts
-#EXTINF:-1 tvg-id="" tvg-name="XXX: AnonymX - 21" tvg-logo="" group-title="ADULT CHANNELS",XXX: AnonymX - 21
-http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/155668.ts
-#EXTINF:-1 tvg-id="" tvg-name="XXX: AnonymX - 22" tvg-logo="" group-title="ADULT CHANNELS",XXX: AnonymX - 22
-http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/155669.ts
-#EXTINF:-1 tvg-id="" tvg-name="XXX: AnonymX - 23" tvg-logo="" group-title="ADULT CHANNELS",XXX: AnonymX - 23
-http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/155670.ts
-#EXTINF:-1 tvg-id="" tvg-name="XXX: AnonymX - 24" tvg-logo="" group-title="ADULT CHANNELS",XXX: AnonymX - 24
-http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/155671.ts
-#EXTINF:-1 tvg-id="" tvg-name="XXX: AnonymX - 25" tvg-logo="" group-title="ADULT CHANNELS",XXX: AnonymX - 25
-http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/155672.ts
-#EXTINF:-1 tvg-id="" tvg-name="XXX: AnonymX - 26" tvg-logo="" group-title="ADULT CHANNELS",XXX: AnonymX - 26
-http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/155673.ts
-#EXTINF:-1 tvg-id="" tvg-name="XXX: AnonymX - 27" tvg-logo="" group-title="ADULT CHANNELS",XXX: AnonymX - 27
-http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/155674.ts
-#EXTINF:-1 tvg-id="" tvg-name="XXX: AnonymX - 28" tvg-logo="" group-title="ADULT CHANNELS",XXX: AnonymX - 28
-http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/155675.ts
-#EXTINF:-1 tvg-id="" tvg-name="XXX: AnonymX - 29" tvg-logo="" group-title="ADULT CHANNELS",XXX: AnonymX - 29
-http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/155676.ts
-#EXTINF:-1 tvg-id="" tvg-name="XXX: AnonymX - 30" tvg-logo="" group-title="ADULT CHANNELS",XXX: AnonymX - 30
-http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/155677.ts
-#EXTINF:-1 tvg-id="" tvg-name="XXX: AnonymX - 32" tvg-logo="" group-title="ADULT CHANNELS",XXX: AnonymX - 32
-http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/155678.ts
-#EXTINF:-1 tvg-id="" tvg-name="XXX: AnonymX - 33" tvg-logo="" group-title="ADULT CHANNELS",XXX: AnonymX - 33
-http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/155679.ts
-#EXTINF:-1 tvg-id="" tvg-name="XXX: AnonymX - 34" tvg-logo="" group-title="ADULT CHANNELS",XXX: AnonymX - 34
-http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/155680.ts
-#EXTINF:-1 tvg-id="" tvg-name="XXX: AnonymX - 35" tvg-logo="" group-title="ADULT CHANNELS",XXX: AnonymX - 35
-http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/155681.ts
-#EXTINF:-1 tvg-id="" tvg-name="XXX: AnonymX -36" tvg-logo="" group-title="ADULT CHANNELS",XXX: AnonymX -36
-http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/155682.ts
-#EXTINF:-1 tvg-id="" tvg-name="XXX: AnonymX - 37" tvg-logo="" group-title="ADULT CHANNELS",XXX: AnonymX - 37
-http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/155683.ts
-#EXTINF:-1 tvg-id="" tvg-name="XXX: AnonymX - 38" tvg-logo="" group-title="ADULT CHANNELS",XXX: AnonymX - 38
-http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/155684.ts
-#EXTINF:-1 tvg-id="" tvg-name="XXX: AnonymX - 39" tvg-logo="" group-title="ADULT CHANNELS",XXX: AnonymX - 39
-http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/155685.ts
-#EXTINF:-1 tvg-id="" tvg-name="XXX: AnonymX - 40" tvg-logo="" group-title="ADULT CHANNELS",XXX: AnonymX - 40
-http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/155686.ts
-#EXTINF:-1 tvg-id="" tvg-name="XXX: AnonymX - 41" tvg-logo="" group-title="ADULT CHANNELS",XXX: AnonymX - 41
-http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/155687.ts
-#EXTINF:-1 tvg-id="" tvg-name="XXX: AnonymX - 42" tvg-logo="" group-title="ADULT CHANNELS",XXX: AnonymX - 42
-http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/155688.ts
-#EXTINF:-1 tvg-id="" tvg-name="XXX: AnonymX - 43" tvg-logo="" group-title="ADULT CHANNELS",XXX: AnonymX - 43
-http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/155689.ts
-#EXTINF:-1 tvg-id="" tvg-name="XXX: AnonymX - 44" tvg-logo="" group-title="ADULT CHANNELS",XXX: AnonymX - 44
-http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/155690.ts
-#EXTINF:-1 tvg-id="" tvg-name="XXX: AnonymX - 45" tvg-logo="" group-title="ADULT CHANNELS",XXX: AnonymX - 45
-http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/155691.ts
-#EXTINF:-1 tvg-id="" tvg-name="XXX: AnonymX - 46" tvg-logo="" group-title="ADULT CHANNELS",XXX: AnonymX - 46
-http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/155692.ts
-#EXTINF:-1 tvg-id="" tvg-name="XXX: AnonymX - 47" tvg-logo="" group-title="ADULT CHANNELS",XXX: AnonymX - 47
-http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/155693.ts
-#EXTINF:-1 tvg-id="" tvg-name="XXX: AnonymX - 48" tvg-logo="" group-title="ADULT CHANNELS",XXX: AnonymX - 48
-http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/155694.ts
-#EXTINF:-1 tvg-id="" tvg-name="XXX: AnonymX - 49" tvg-logo="" group-title="ADULT CHANNELS",XXX: AnonymX - 49
-http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/155695.ts
-#EXTINF:-1 tvg-id="" tvg-name="XXX #1" tvg-logo="" group-title="ADULT CHANNELS",XXX #1
-http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/128407.ts
-#EXTINF:-1 tvg-id="" tvg-name="XXX #2" tvg-logo="" group-title="ADULT CHANNELS",XXX #2
-http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/128408.ts
-#EXTINF:-1 tvg-id="" tvg-name="XXX #3" tvg-logo="" group-title="ADULT CHANNELS",XXX #3
-http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/128409.ts
-#EXTINF:-1 tvg-id="" tvg-name="XXX #4" tvg-logo="" group-title="ADULT CHANNELS",XXX #4
-http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/128410.ts
-#EXTINF:-1 tvg-id="" tvg-name="XXX #5" tvg-logo="" group-title="ADULT CHANNELS",XXX #5
-http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/128411.ts
-#EXTINF:-1 tvg-id="" tvg-name="XXX #6" tvg-logo="" group-title="ADULT CHANNELS",XXX #6
-http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/128412.ts
-#EXTINF:-1 tvg-id="" tvg-name="XXX #7" tvg-logo="" group-title="ADULT CHANNELS",XXX #7
-http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/128413.ts
-#EXTINF:-1 tvg-id="" tvg-name="XXX #8" tvg-logo="" group-title="ADULT CHANNELS",XXX #8
-http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/128414.ts
-#EXTINF:-1 tvg-id="" tvg-name="XXX #9" tvg-logo="" group-title="ADULT CHANNELS",XXX #9
-http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/128415.ts
-#EXTINF:-1 tvg-id="" tvg-name="XXX #10" tvg-logo="" group-title="ADULT CHANNELS",XXX #10
-http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/128416.ts
+#EXTINF:-1 tvg-id="" tvg-name="PORNBOX TRANS: GENDER X FILMS" tvg-logo="" group-title="ADULT CHANNELS",PORNBOX TRANS: GENDER X FILMS
+http://57tv.bestipbox.com:8000/live/tiribuniptv/qVAqbdbVsI/166274.ts
