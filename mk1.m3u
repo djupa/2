@@ -595,13 +595,15 @@ http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/15099
 #EXTINF:-1 tvg-id="" tvg-name="|PL| TVP Info 4K+" tvg-logo="" group-title="Rezerw1",|PL| TVP Info 4K+
 http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/15100
 
-#EXTINF:-1 tvg-id="ASTTV1.cy" tvg-logo="https://www.ast.tv/img/ast-tv_logo-beta.png" group-title="XXX",AST TV 1 (PC) (1080p) [Not 24/7]
+#EXTINF:-1 group-title="XXX",AST TV 1 (PC) (1080p) [Not 24/7]
 https://www.ast.tv/stream/1/master.m3u8
-#EXTINF:-1 tvg-id="ASTTV2.cy" tvg-logo="https://www.ast.tv/img/ast-tv_logo-beta.png" group-title="XXX",AST TV 2 (PC) (1080p) [Not 24/7]
+#EXTINF:-1 group-title="XXX",AST TV 2 (PC) (1080p) [Not 24/7]
 https://www.ast.tv/stream/2/master.m3u8
+#EXTINF:-1 group-title="XXX", PENTHOUSE
 http://cpi4u.com:45862/live/CONSTV89/J4zvLRXt7b/20803.m3u8
-#EXTINF:-1,XXX | BRAZZER
+#EXTINF:-1 group-title="XXX", BRAZZER
 http://cpi4u.com:45862/live/CONSTV89/J4zvLRXt7b/20850.m3u8
+
 #EXTINF:-1 group-title="XXX",Ania Kinski Milf Sex Goddess s squirting orgasm (Mom XXX)
 http://cpi4u.com:45862/movie/CONSTV89/J4zvLRXt7b/74291.mkv
 #EXTINF:-1 group-title="XXX",Carmella Bing (Reality Kings)
