@@ -367,16 +367,27 @@ http://clientportal.link:80/9dDPwi420/6fURz1641/73733
 #EXTINF:-1 tvg-id="" tvg-name="StudioMed TV FHD PL" tvg-logo="https://picon-13398.kxcdn.com/studiomedtvpl.jpg" group-title="Inne2",StudioMed TV FHD PL
 http://clientportal.link:80/9dDPwi420/6fURz1641/88258
 
+#EXTINF:-1 tvg-id="" tvg-name="|PL| TVN 24 4K+" tvg-logo="" group-title="Rezerw1",|PL| TVN 24
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/15119
+#EXTINF:-1 tvg-id="" tvg-name="PL| TVN 24 Bis" tvg-logo="" group-title="Rezerw1",PL| TVN 24 Bis
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/15122
+#EXTINF:-1, group-title="Rezerw1",|PL| TVN 24
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/2682
+#EXTINF:-1 group-title="Rezerw1",PL| TVN 24 Bis
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/16674
+#EXTINF:0 group-title="Rezerw1",|PL| TVN 24
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/3051.ts
+#EXTINF:0 group-title="Rezerw1",PL| TVN 24 Bis
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/55045.ts
+#EXTINF:0 group-title="Rezerw1",|PL| TVN 24
+http://62.182.83.91:80/sammie6804/0M9hZZ7ibimrOZFP/15119
+
 #EXTINF:-1 tvg-id="" tvg-name="|PL| TVP 1 4K+" tvg-logo="" group-title="Rezerw1",|PL| TVP 1 4K+
 http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/15101
 #EXTINF:-1 tvg-id="" tvg-name="|PL| TVP 2 4K+" tvg-logo="" group-title="Rezerw1",|PL| TVP 2 4K+
 http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/15102
 #EXTINF:-1 tvg-id="" tvg-name="|PL| TVP 3 4K+" tvg-logo="" group-title="Rezerw1",|PL| TVP 3 4K+
 http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/15104
-#EXTINF:-1 tvg-id="" tvg-name="|PL| TVN 24 4K+" tvg-logo="" group-title="Rezerw1",|PL| TVN 24 4K+
-http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/15119
-#EXTINF:-1 tvg-id="" tvg-name="PL| TVN 24 Bis" tvg-logo="" group-title="Rezerw1",PL| TVN 24 Bis
-http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/15122
 #EXTINF:-1 tvg-id="" tvg-name="|PL| TVN 4K+" tvg-logo="" group-title="Rezerw1",|PL| TVN 4K+
 http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/15113
 #EXTINF:-1 tvg-id="" tvg-name="|PL| TV 4 4K+" tvg-logo="" group-title="Rezerw1",|PL| TV 4 4K+
